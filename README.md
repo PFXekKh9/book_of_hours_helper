@@ -28,7 +28,7 @@
 
 1. リポジトリをクローンします。
    ```bash
-   git clone https://github.com/PFXekKh9/book_of_hours_helper.git)
+   git clone https://github.com/PFXekKh9/book_of_hours_helper.git
    ```
 2. ターミナルでフロントエンドのディレクトリに移動します。
    ```bash
