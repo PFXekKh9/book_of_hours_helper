@@ -32,7 +32,7 @@
    ```
 2. ターミナルでフロントエンドのディレクトリに移動します。
    ```bash
-   cd リポジトリ名/frontend
+   cd book_of_hours_helper/frontend
    ```
 3. 依存関係をインストールします。
    ```bash
