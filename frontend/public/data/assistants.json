@@ -1,0 +1,156 @@
+{
+  "assistants": [
+    {
+      "id": "reverend",
+      "name_ja": "教区牧師 / The Reverend",
+      "name_en": "The Reverend",
+      "aspects": {
+        "lantern": 2,
+        "knock": 1
+      },
+      "special_categories": [
+        "candle"
+      ]
+    },
+    {
+      "id": "blacksmith",
+      "name_ja": "鍛冶屋 / The Blacksmith",
+      "name_en": "The Blacksmith",
+      "aspects": {
+        "forge": 2,
+        "edge": 2
+      },
+      "special_categories": [
+        "metal"
+      ]
+    },
+    {
+      "id": "coffinmaker",
+      "name_ja": "棺桶職人 / The Coffinmaker",
+      "name_en": "The Coffinmaker",
+      "aspects": {
+        "winter": 2,
+        "sky": 1
+      },
+      "special_categories": [
+        "wood"
+      ]
+    },
+    {
+      "id": "midwife",
+      "name_ja": "助産師 / The Midwife",
+      "name_en": "The Midwife",
+      "aspects": {
+        "grail": 2,
+        "heart": 1
+      },
+      "special_categories": [
+        "fabric"
+      ]
+    },
+    {
+      "id": "miner",
+      "name_ja": "鉱夫 / The Miner",
+      "name_en": "The Miner",
+      "aspects": {
+        "scale": 2,
+        "forge": 1,
+        "moon": 1
+      },
+      "special_categories": []
+    },
+    {
+      "id": "barber",
+      "name_ja": "理髪師 / The Barber",
+      "name_en": "The Barber",
+      "aspects": {
+        "moth": 2,
+        "rose": 1
+      },
+      "special_categories": []
+    },
+    {
+      "id": "orchard_keeper",
+      "name_ja": "果樹園の番人 / The Orchard-Keeper",
+      "name_en": "The Orchard-Keeper",
+      "aspects": {
+        "nectar": 2,
+        "heart": 1
+      },
+      "special_categories": []
+    },
+    {
+      "id": "fisherman",
+      "name_ja": "漁師 / The Fisherman",
+      "name_en": "The Fisherman",
+      "aspects": {
+        "moon": 2,
+        "sky": 1
+      },
+      "special_categories": []
+    },
+    {
+      "id": "fugitive",
+      "name_ja": "逃亡者 / A Fugitive",
+      "name_en": "A Fugitive",
+      "aspects": {
+        "scale": 4,
+        "edge": 4,
+        "heart": 4
+      },
+      "special_categories": []
+    },
+    {
+      "id": "consulting_engineer",
+      "name_ja": "顧問技師 / Consulting Engineer",
+      "name_en": "Consulting Engineer",
+      "aspects": {
+        "forge": 4,
+        "sky": 4,
+        "lantern": 4
+      },
+      "special_categories": [
+        "fuel"
+      ]
+    },
+    {
+      "id": "elegiac_poet",
+      "name_ja": "哀歌詩人 / Elegiac Poet",
+      "name_en": "Elegiac Poet",
+      "aspects": {
+        "winter": 4,
+        "moth": 4,
+        "sky": 4
+      },
+      "special_categories": [
+        "flower"
+      ]
+    },
+    {
+      "id": "surrealist_painter",
+      "name_ja": "超現実主義の画家 / Surrealist Painter",
+      "name_en": "Surrealist Painter",
+      "aspects": {
+        "grail": 4,
+        "moth": 4,
+        "rose": 4
+      },
+      "special_categories": [
+        "pigment"
+      ]
+    },
+    {
+      "id": "unusual_nun",
+      "name_ja": "変わった修道女 / Unusual Nun",
+      "name_en": "Unusual Nun",
+      "aspects": {
+        "knock": 4,
+        "moon": 4,
+        "grail": 4
+      },
+      "special_categories": [
+        "omen"
+      ]
+    }
+  ]
+}

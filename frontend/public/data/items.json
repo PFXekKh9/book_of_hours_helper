@@ -1,0 +1,4408 @@
+{
+  "assistants": [
+    {
+      "id": "elegiac_poet",
+      "name_ja": "詩人",
+      "name_en": "Elegiac Poet",
+      "category": "assistant",
+      "aspects": {
+        "moth": 4,
+        "winter": 4,
+        "sky": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "travelling_musician",
+      "name_ja": "旅の音楽家",
+      "name_en": "Travelling Musician",
+      "category": "assistant",
+      "aspects": {
+        "sky": 4,
+        "rose": 4,
+        "nectar": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "surrealist_painter",
+      "name_ja": "画家",
+      "name_en": "Surrealist Painter",
+      "category": "assistant",
+      "aspects": {
+        "grail": 4,
+        "moth": 4,
+        "rose": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "fugitive",
+      "name_ja": "逃亡者",
+      "name_en": "Fugitive",
+      "category": "assistant",
+      "aspects": {
+        "edge": 4,
+        "scale": 4,
+        "heart": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "consulting_engineer",
+      "name_ja": "技師",
+      "name_en": "Consulting Engineer",
+      "category": "assistant",
+      "aspects": {
+        "forge": 4,
+        "sky": 4,
+        "lantern": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    }
+  ],
+  "items": [
+    {
+      "id": "health",
+      "name_ja": "健康",
+      "name_en": "Health",
+      "category": "soul",
+      "aspects": {
+        "heart": 1,
+        "nectar": 1,
+        "scale": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "chor",
+      "name_ja": "コール",
+      "name_en": "Chor",
+      "category": "soul",
+      "aspects": {
+        "heart": 2,
+        "grail": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "ereb",
+      "name_ja": "エレブ",
+      "name_en": "Ereb",
+      "category": "soul",
+      "aspects": {
+        "grail": 2,
+        "edge": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "fet",
+      "name_ja": "フェット",
+      "name_en": "Fet",
+      "category": "soul",
+      "aspects": {
+        "rose": 2,
+        "moth": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "mettle",
+      "name_ja": "メトル",
+      "name_en": "Mettle",
+      "category": "soul",
+      "aspects": {
+        "forge": 2,
+        "edge": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "phost",
+      "name_ja": "光明",
+      "name_en": "Phost",
+      "category": "soul",
+      "aspects": {
+        "lantern": 2,
+        "sky": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "shapt",
+      "name_ja": "シャプト",
+      "name_en": "Shapt",
+      "category": "soul",
+      "aspects": {
+        "knock": 2,
+        "forge": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "trist",
+      "name_ja": "トリスト",
+      "name_en": "Trist",
+      "category": "soul",
+      "aspects": {
+        "moth": 2,
+        "moon": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "wist",
+      "name_ja": "ウィスト",
+      "name_en": "Wist",
+      "category": "soul",
+      "aspects": {
+        "winter": 2,
+        "lantern": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "pyrus_auricalcinus",
+      "name_ja": "ピルス・アウリカルキヌス",
+      "name_en": "Pyrus Auricalcinus",
+      "category": "food",
+      "aspects": {
+        "forge": 4,
+        "nectar": 4
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [
+        "クラフト: 学者の月(レベル10) （必要なスキル: 欲望と溶解） ＋【必須素材: 木材】",
+        "クラフト: 学者の蜜(レベル10) （必要なスキル: とぐろと裂け目, 葉と棘, 香辛料と風味） ＋【必須素材: 木材】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance"
+    },
+    {
+      "id": "cuckoo_honey",
+      "name_ja": "カッコウ蜂蜜",
+      "name_en": "Cuckoo-Honey",
+      "category": "food",
+      "aspects": {
+        "moth": 3,
+        "nectar": 2,
+        "scale": 3,
+        "edge": 2,
+        "heart": 1,
+        "knock": 1
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance"
+    },
+    {
+      "id": "rosehip_jam",
+      "name_ja": "ローズヒップジャム",
+      "name_en": "Rosehip Jam",
+      "category": "food",
+      "aspects": {
+        "rose": 2,
+        "heart": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance"
+    },
+    {
+      "id": "outsized_egg",
+      "name_ja": "特大の卵",
+      "name_en": "Outsized Egg",
+      "category": "food",
+      "aspects": {
+        "scale": 3
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance"
+    },
+    {
+      "id": "leathy",
+      "name_ja": "レーシー",
+      "name_en": "Leathy",
+      "category": "drink",
+      "aspects": {
+        "grail": 2,
+        "moth": 4,
+        "nectar": 2,
+        "scale": 2
+      },
+      "consumed": true,
+      "notes": "月10または蜜10＋飲み物で作れる",
+      "how_to_get": [
+        "クラフト: 学者の月(レベル10) （必要なスキル: 封じ込めのインク） ＋【必須素材: 飲み物】",
+        "クラフト: 学者の蜜(レベル10) （必要なスキル: ハーブと煎じ薬, 昆虫学と蜜, 蘭と麻薬, 根の儀式） ＋【必須素材: 飲み物】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "skinshuck_mead",
+      "name_ja": "皮殻のミード",
+      "name_en": "Skinshuck Mead",
+      "category": "drink",
+      "aspects": {
+        "moth": 6
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [
+        "クラフト: 番人の月(レベル15) （必要なスキル: 昆虫学と蜜） ＋【必須素材: カッコウ蜂蜜】",
+        "クラフト: 番人の蛾(レベル15) （必要なスキル: 境界の布告, 根の儀式, 限界の聖務, 溶解と分離, 復活と出現, 変容と解放） ＋【必須素材: カッコウ蜂蜜】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "solomons_preparation",
+      "name_ja": "ソロモンの調合",
+      "name_en": "Solomon's Preparation",
+      "category": "drink",
+      "aspects": {
+        "winter": 4
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "dandelion_wine",
+      "name_ja": "タンポポワイン",
+      "name_en": "Dandelion Wine",
+      "category": "drink",
+      "aspects": {
+        "nectar": 2
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "black_dove_wine",
+      "name_ja": "黒鳩のワイン",
+      "name_en": "Black Dove Wine",
+      "category": "drink",
+      "aspects": {
+        "nectar": 4
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "bronze_knife",
+      "name_ja": "青銅のナイフ",
+      "name_en": "Bronze Knife",
+      "category": "tool",
+      "aspects": {
+        "edge": 0,
+        "nectar": 0,
+        "grail": 0
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools"
+    },
+    {
+      "id": "lunar_globe",
+      "name_ja": "月球儀",
+      "name_en": "Lunar Globe",
+      "category": "tool",
+      "aspects": {
+        "moon": 0,
+        "rose": 1
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools"
+    },
+    {
+      "id": "serpent_styled_glass",
+      "name_ja": "蛇型のグラス",
+      "name_en": "Serpent-Styled Glass",
+      "category": "tool",
+      "aspects": {
+        "scale": 1,
+        "lantern": 1
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "shears",
+      "name_ja": "鋏",
+      "name_en": "Shears",
+      "category": "tool",
+      "aspects": {
+        "moth": 1
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "snootle_jar",
+      "name_ja": "スヌートル瓶",
+      "name_en": "Snootle Jar",
+      "category": "tool",
+      "aspects": {
+        "moth": 1,
+        "lantern": 0
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools"
+    },
+    {
+      "id": "chronsichord",
+      "name_ja": "クロンシコード",
+      "name_en": "Chronsichord",
+      "category": "tool",
+      "aspects": {
+        "knock": 0,
+        "forge": 0,
+        "sky": 0,
+        "winter": 3
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [
+        "クラフト: 番人の啓開(レベル15) （必要なスキル: 吹きガラスと器作り, ガラス細工と光の鍛造, 錠前と時計仕掛け, 境界の韻律, 大いなる兆候と大いなる傷） ＋【必須素材: ジェルヴィナイト】",
+        "クラフト: 番人の空(レベル15) （必要なスキル: 錠前と時計仕掛け） ＋【必須素材: 針金（銀）】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools"
+    },
+    {
+      "id": "moth_orchid",
+      "name_ja": "胡蝶蘭",
+      "name_en": "Moth Orchid",
+      "category": "special",
+      "aspects": {
+        "moth": 1
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "paint_red",
+      "name_ja": "赤い絵具",
+      "name_en": "Paint: Red",
+      "category": "special",
+      "aspects": {
+        "rose": 1
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "paint_green",
+      "name_ja": "緑の絵具",
+      "name_en": "Paint: Green",
+      "category": "special",
+      "aspects": {
+        "nectar": 1
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "scent",
+      "name_ja": "匂い",
+      "name_en": "Scent",
+      "category": "memory",
+      "aspects": {
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "consider"
+      ],
+      "how_to_get": [
+        "楽園椰子 / Paradise Palm などを熟考",
+        "大階段一階の極楽ヤシを検討"
+      ],
+      "notes": "蜜1。蜜の枠埋め用",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "sight",
+      "name_ja": "視覚",
+      "name_en": "Sight",
+      "category": "memory",
+      "aspects": {
+        "lantern": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "consider"
+      ],
+      "how_to_get": [
+        "壁の絵などを検討",
+        "壁画・絵・ステンドグラスなどの Wall Art を熟考"
+      ],
+      "notes": "灯1。灯の一番簡単な記憶",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "taste",
+      "name_ja": "味",
+      "name_en": "Taste",
+      "category": "memory",
+      "aspects": {
+        "grail": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "consume"
+      ],
+      "how_to_get": [
+        "ほとんどの飲食物を消費",
+        "多くの食べ物・飲み物を消費"
+      ],
+      "notes": "聖杯1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "touch",
+      "name_ja": "触感",
+      "name_en": "Touch",
+      "category": "memory",
+      "aspects": {
+        "forge": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "consider"
+      ],
+      "how_to_get": [
+        "ほとんどの快適な家具などを検討",
+        "Comforts / 快適品を熟考"
+      ],
+      "notes": "炉1。炉の簡単な記憶",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "sound",
+      "name_ja": "音",
+      "name_en": "Sound",
+      "category": "memory",
+      "aspects": {
+        "heart": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "well",
+        "easy",
+        "consider"
+      ],
+      "how_to_get": [
+        "沈黙の家の鍵を検討、沈黙の家の井戸に物を投げる",
+        "ハッシュ館の鍵を熟考",
+        "井戸に何かを投げる"
+      ],
+      "notes": "心1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "loss",
+      "name_ja": "喪失",
+      "name_en": "Loss",
+      "category": "memory",
+      "aspects": {
+        "edge": 1,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "discard",
+        "sea"
+      ],
+      "how_to_get": [
+        "搬入口のクレーンで物を捨てる",
+        "海辺 / Sea's Edge で物を捨てる",
+        "海辺で何かを捨てる"
+      ],
+      "notes": "刃1・冬1。処分ついでに便利",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "salt",
+      "name_ja": "塩",
+      "name_en": "Salt",
+      "category": "memory",
+      "aspects": {
+        "knock": 1,
+        "moon": 1,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "sea"
+      ],
+      "how_to_get": [
+        "海辺で泳ぐ",
+        "海辺 / Sea's Edge で泳ぐ"
+      ],
+      "notes": "開門・月・冬を同時に持つ便利枠",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "pattern",
+      "name_ja": "型",
+      "name_en": "Pattern",
+      "category": "memory",
+      "aspects": {
+        "knock": 2,
+        "forge": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "特定の開門系の本を再読",
+        "特定の開門の本を再読"
+      ],
+      "notes": "開門2・炉1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "contradiction",
+      "name_ja": "矛盾",
+      "name_en": "Contradiction",
+      "category": "memory",
+      "aspects": {
+        "edge": 2,
+        "moon": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "consider"
+      ],
+      "how_to_get": [
+        "練習武器系を熟考",
+        "特定の刃の本を再読",
+        "特定の刃系の本を再読"
+      ],
+      "notes": "刃2。刃スキル強化で便利",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "solace",
+      "name_ja": "慰め",
+      "name_en": "Solace",
+      "category": "memory",
+      "aspects": {
+        "heart": 2,
+        "sky": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "sea"
+      ],
+      "how_to_get": [
+        "海辺で泳ぎ、タオルのかごで乾かす",
+        "対応本を再読"
+      ],
+      "notes": "心2・空1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "impulse",
+      "name_ja": "衝動",
+      "name_en": "Impulse",
+      "category": "memory",
+      "aspects": {
+        "moth": 2,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "sea"
+      ],
+      "how_to_get": [
+        "海辺で1ペニーを捨てる"
+      ],
+      "notes": "蛾2・蜜1。かなり使いやすい",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "satisfaction",
+      "name_ja": "満足",
+      "name_en": "Satisfaction",
+      "category": "memory",
+      "aspects": {
+        "grail": 2,
+        "heart": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "well",
+        "easy"
+      ],
+      "how_to_get": [
+        "井戸に1ペニーを投げる"
+      ],
+      "notes": "聖杯2・心1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "foresight",
+      "name_ja": "先見",
+      "name_en": "Foresight",
+      "category": "memory",
+      "aspects": {
+        "forge": 2,
+        "lantern": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "consume"
+      ],
+      "how_to_get": [
+        "見張る蝋燭 / Watchful Candle を消費",
+        "苦黒塩 / Bitterblack Salts を消費",
+        "ビターブラックの塩か見守るロウソクを消費する"
+      ],
+      "notes": "炉2・灯1。消費注意",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "sunny",
+      "name_ja": "晴れ",
+      "name_en": "Sunny",
+      "category": "memory",
+      "aspects": {
+        "lantern": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "灯2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "clouds",
+      "name_ja": "雲",
+      "name_en": "Clouds",
+      "category": "memory",
+      "aspects": {
+        "moon": 1,
+        "moth": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "月1・蛾1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "rain",
+      "name_ja": "雨",
+      "name_en": "Rain",
+      "category": "memory",
+      "aspects": {
+        "grail": 2,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "聖杯2・蜜2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "gale",
+      "name_ja": "疾風",
+      "name_en": "Gale",
+      "category": "memory",
+      "aspects": {
+        "heart": 3,
+        "sky": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "心3・空3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "fog",
+      "name_ja": "霧",
+      "name_en": "Fog",
+      "category": "memory",
+      "aspects": {
+        "knock": 3,
+        "moon": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "開門3・月3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "hail",
+      "name_ja": "雹",
+      "name_en": "Hail",
+      "category": "memory",
+      "aspects": {
+        "edge": 3,
+        "sky": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "刃3・空3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "storm",
+      "name_ja": "嵐",
+      "name_en": "Storm",
+      "category": "memory",
+      "aspects": {
+        "heart": 4,
+        "sky": 4
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather",
+        "consume"
+      ],
+      "how_to_get": [
+        "天気",
+        "包まれた雷 / Swaddled Thunder を熟考して消費"
+      ],
+      "notes": "心4・空4。天気版はかなり強い",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "snow",
+      "name_ja": "雪",
+      "name_en": "Snow",
+      "category": "memory",
+      "aspects": {
+        "winter": 3,
+        "sky": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "冬3・空3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "nume_brume",
+      "name_ja": "ヌマの霧",
+      "name_en": "Nume-Brume",
+      "category": "memory",
+      "aspects": {
+        "knock": 5,
+        "rose": 5,
+        "moon": 5,
+        "winter": 5
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather",
+        "numa"
+      ],
+      "how_to_get": [
+        "ヌマの日の天気"
+      ],
+      "notes": "ヌマ限定。開門・薔薇・月・冬が強い",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "beguiling_melody",
+      "name_ja": "魅惑の旋律",
+      "name_en": "Beguiling Melody",
+      "category": "memory",
+      "aspects": {
+        "grail": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": "grail",
+        "level": 5
+      },
+      "how_to_get": [
+        "クラフト: 徒弟の聖杯(レベル5) （必要なスキル: リンゴの輝き, ペンティメントと先駆者, 復活と出現, トリデスマ・ヒエラ）",
+        "対応本を再読"
+      ],
+      "notes": "聖杯2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "bittersweet_certainty",
+      "name_ja": "ほろ苦い確信",
+      "name_en": "Bittersweet Certainty",
+      "category": "memory",
+      "aspects": {
+        "lantern": 1,
+        "winter": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "winter",
+          "moon"
+        ],
+        "level": 5
+      },
+      "how_to_get": [
+        "クラフト: 徒弟の月(レベル5) （必要なスキル: 天体観測）",
+        "クラフト: 徒弟の冬(レベル5) （必要なスキル: 天体観測, ぼろぼろの交差点, 韻と記憶, 雪の物語）",
+        "対応本を再読"
+      ],
+      "notes": "冬2・灯1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "cheerful_ditty",
+      "name_ja": "陽気な小唄",
+      "name_en": "Cheerful Ditty",
+      "category": "memory",
+      "aspects": {
+        "heart": 2,
+        "sky": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": "heart",
+        "level": 5
+      },
+      "how_to_get": [
+        "クラフト: 徒弟の心(レベル5) （必要なスキル: ドラム、そして舞踊, 弦と歌）",
+        "対応本を再読"
+      ],
+      "notes": "心2・空1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "savage_hymn",
+      "name_ja": "野蛮な讃歌",
+      "name_en": "Savage Hymn",
+      "category": "memory",
+      "aspects": {
+        "scale": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "nectar",
+          "scale"
+        ],
+        "level": 5
+      },
+      "how_to_get": [
+        "クラフト: 徒弟の蜜(レベル5) （必要なスキル: ドラム、そして舞踊）",
+        "クラフト: 徒弟の鱗(レベル5) （必要なスキル: ドラム、そして舞踊, 石の物語）",
+        "対応本を再読"
+      ],
+      "notes": "鱗2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "wistful_air",
+      "name_ja": "物憂げな調べ",
+      "name_en": "Wistful Air",
+      "category": "memory",
+      "aspects": {
+        "rose": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "sky",
+        "level": 5
+      },
+      "how_to_get": [
+        "クラフト: 徒弟の空(レベル5) （必要なスキル: 鐘と火鉢, 天体観測, 空の物語, 弦と歌, 見張りの逆説）"
+      ],
+      "notes": "薔薇2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "torgues_cleansing",
+      "name_ja": "トーグの浄化",
+      "name_en": "Torgue's Cleansing",
+      "category": "memory",
+      "aspects": {
+        "edge": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "edge",
+          "sky"
+        ],
+        "level": 5
+      },
+      "how_to_get": [
+        "クラフト: 徒弟の刃(レベル5) （必要なスキル: 極光の黙想, 傷の修練, メニスカテの反射, 鋭利）",
+        "クラフト: 徒弟の空(レベル5) （必要なスキル: 浄化と高揚）"
+      ],
+      "notes": "刃2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "secret_threshold",
+      "name_ja": "秘密の敷居",
+      "name_en": "Secret Threshold",
+      "category": "memory",
+      "aspects": {
+        "knock": 2,
+        "rose": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "knock",
+        "level": 5
+      },
+      "how_to_get": [
+        "クラフト: 徒弟の啓開(レベル5) （必要なスキル: 扉と壁, 境界の布告, 角と象牙, 境界の韻律）"
+      ],
+      "notes": "開門2・薔薇1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "confounding_parable",
+      "name_ja": "混乱寓話",
+      "name_en": "Confounding Parable",
+      "category": "memory",
+      "aspects": {
+        "moon": 2,
+        "rose": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "moon",
+          "rose",
+          "sky"
+        ],
+        "level": 5
+      },
+      "how_to_get": [
+        "クラフト: 徒弟の月(レベル5) （必要なスキル: トリデスマ・ヒエラ）",
+        "クラフト: 徒弟の薔薇(レベル5) （必要なスキル: 境界の韻律, 空の物語）",
+        "クラフト: 徒弟の空(レベル5) （必要なスキル: リンゴの輝き, 不屈の太陽の聖務）",
+        "対応本を再読"
+      ],
+      "notes": "月2・薔薇2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "nameday_riddle",
+      "name_ja": "名づけ日の謎",
+      "name_en": "Nameday Riddle",
+      "category": "memory",
+      "aspects": {
+        "moth": 3,
+        "knock": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "moth",
+        "level": 10
+      },
+      "how_to_get": [
+        "クラフト: 学者の蛾(レベル10) （必要なスキル: 境界の布告, 根の儀式, 限界の聖務, 溶解と分離, 織物と結び目細工） ＋【必須素材: 記憶】"
+      ],
+      "notes": "蛾3・開門2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "winning_move",
+      "name_ja": "勝利の一手",
+      "name_en": "Winning Move",
+      "category": "memory",
+      "aspects": {
+        "edge": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "edge",
+        "level": 10
+      },
+      "how_to_get": [
+        "クラフト: 学者の刃(レベル10) （必要なスキル: 極光の黙想, 槌の修練, メニスカテの反射, ぼろぼろの交差点, 鋭利） ＋【必須素材: 記憶】",
+        "刃の学者"
+      ],
+      "notes": "刃3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "old_moment",
+      "name_ja": "古き瞬間",
+      "name_en": "Old Moment",
+      "category": "memory",
+      "aspects": {
+        "lantern": 2,
+        "moth": 2,
+        "scale": 4
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "special",
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "lantern",
+          "scale"
+        ],
+        "level": 10
+      },
+      "how_to_get": [
+        "クラフト: 学者の灯(レベル10) （必要なスキル: 傷の修練） ＋【必須素材: 記憶】",
+        "クラフト: 学者の鱗(レベル10) （必要なスキル: とぐろと裂け目, 角と象牙, 道と巡礼者, 狼の物語） ＋【必須素材: 記憶】",
+        "カッコウ蜂蜜を消費",
+        "生ける遺物と話す",
+        "学者の灯/鱗"
+      ],
+      "notes": "鱗4・灯2・蛾2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "horizon_sight",
+      "name_ja": "方位視",
+      "name_en": "Horizon-Sight",
+      "category": "memory",
+      "aspects": {
+        "rose": 4
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "special",
+        "numa",
+        "craft"
+      ],
+      "craft": {
+        "principle": "rose",
+        "level": 15
+      },
+      "how_to_get": [
+        "クラフト: 番人の薔薇(レベル15) （必要なスキル: 道と巡礼者, 境界の韻律, 砂の物語, 空の物語） ＋【必須素材: 永続する反省】",
+        "スティンフリングと話す",
+        "ヌマ期に海辺で1ペニーを捨てる",
+        "薔薇の番人、ゲルビナイトを検討、スティンフリングと会話、ヌマの時期にカモメのコロニーから採集",
+        "スティンフリングと会話、ヌマの時期に海辺でペニーを捨てる"
+      ],
+      "notes": "薔薇4。薔薇14突破で重要",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "wind_in_waiting",
+      "name_ja": "待ち風",
+      "name_en": "Wind-in-Waiting",
+      "category": "memory",
+      "aspects": {
+        "grail": 3,
+        "moth": 3,
+        "scale": 3,
+        "sky": 6
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "sky",
+        "level": 15
+      },
+      "how_to_get": [
+        "クラフト: 番人の空(レベル15) （必要なスキル: 毛皮と羽, 不屈の太陽の聖務, 空の物語, 弦と歌） ＋【必須素材: マザリン・ファイフ】",
+        "空の番人"
+      ],
+      "notes": "空6・蛾3・聖杯3・鱗3。支援者突破の超強力枠",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "earth_sign",
+      "name_ja": "大地の徴",
+      "name_en": "Earth-Sign",
+      "category": "memory",
+      "aspects": {
+        "nectar": 2,
+        "scale": 2
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "reread",
+        "conversation"
+      ],
+      "how_to_get": [
+        "読書、毒蛇と会話",
+        "毒蛇 / Viper と話す",
+        "Rapt in the King を読む",
+        "毒蛇と会話\n「De Ratio Quercuum」か「Rapt in the King」を読む",
+        "De Ratio Quercuum を読む"
+      ],
+      "notes": "蜜2・鱗2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "occult_scrap",
+      "name_ja": "オカルトの切れ端",
+      "name_en": "Occult Scrap",
+      "category": "memory",
+      "aspects": {
+        "knock": 2,
+        "moth": 2,
+        "rose": 2
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "consider"
+      ],
+      "how_to_get": [
+        "黄ばんだ新聞を検討",
+        "黄ばんだ新聞 / Yellowing Newspaper を熟考"
+      ],
+      "notes": "開門2・蛾2・薔薇2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "invincible_audacity",
+      "name_ja": "無敵の大胆さ",
+      "name_en": "Invincible Audacity",
+      "category": "memory",
+      "aspects": {
+        "edge": 6,
+        "lantern": 3,
+        "forge": 3
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "edge",
+        "level": 15
+      },
+      "how_to_get": [
+        "クラフト: 番人の刃(レベル15) （必要なスキル: 極光の黙想, 槌の修練, 軍事の布告） ＋【必須素材: 勝利の一手】",
+        "刃の番人"
+      ],
+      "notes": "刃6・灯3・炉3。強いが重い",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "earthquake_name",
+      "name_ja": "地震の名",
+      "name_en": "Earthquake Name",
+      "category": "memory",
+      "aspects": {
+        "scale": 6,
+        "forge": 3
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "lantern",
+          "scale"
+        ],
+        "level": 15
+      },
+      "how_to_get": [
+        "クラフト: 番人の灯(レベル15) （必要なスキル: 傷の修練） ＋【必須素材: 古き瞬間】",
+        "クラフト: 番人の鱗(レベル15) （必要なスキル: とぐろと裂け目, 丘と窪み, 石の物語, 狼の物語） ＋【必須素材: 古き瞬間】",
+        "番人の灯/鱗",
+        "Crafting: 番人の灯/鱗"
+      ],
+      "notes": "鱗6・炉3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "thunderskins_paean",
+      "name_ja": "雷皮の賛歌",
+      "name_en": "Thunderskin's Paean",
+      "category": "memory",
+      "aspects": {
+        "grail": 1,
+        "scale": 1,
+        "heart": 4
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 学者の心(レベル10) （必要なスキル: ドラム、そして舞踊, 弦と歌） ＋【必須素材: 楽器】",
+        "心の学者"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "heart",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "a_stolen_secret",
+      "name_ja": "盗まれた秘密",
+      "name_en": "A Stolen Secret",
+      "category": "memory",
+      "aspects": {
+        "moon": 2,
+        "knock": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "蛾蘭の香りのロウソクを消費"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "fear",
+      "name_ja": "恐怖",
+      "name_en": "Fear",
+      "category": "memory",
+      "aspects": {
+        "scale": 2,
+        "edge": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "夜の椅子を検討、海の洞窟から採集"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "gossip",
+      "name_ja": "噂話",
+      "name_en": "Gossip",
+      "category": "memory",
+      "aspects": {
+        "rose": 2,
+        "grail": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "ミドリインコと会話"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "hindsight",
+      "name_ja": "後知恵",
+      "name_en": "Hindsight",
+      "category": "memory",
+      "aspects": {
+        "winter": 2,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "鍛冶屋（21%）か教区長（17%）と会話"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "intuition",
+      "name_ja": "直感",
+      "name_en": "Intuition",
+      "category": "memory",
+      "aspects": {
+        "moon": 2,
+        "rose": 2
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "暁の霊液を消費"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "regret",
+      "name_ja": "後悔",
+      "name_en": "Regret",
+      "category": "memory",
+      "aspects": {
+        "winter": 2,
+        "forge": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "不快な食べ物を消費、助産師（17%）と会話、秋にミツバチの巣から収穫"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "revelation",
+      "name_ja": "啓示",
+      "name_en": "Revelation",
+      "category": "memory",
+      "aspects": {
+        "lantern": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "レフルギンを消費"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "storm1",
+      "name_ja": "嵐",
+      "name_en": "Storm1",
+      "category": "memory",
+      "aspects": {
+        "heart": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "季節限定/珍しい支援者と会話（6%）"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "wild_surmise",
+      "name_ja": "突飛な推測",
+      "name_en": "Wild Surmise",
+      "category": "memory",
+      "aspects": {
+        "lantern": 3,
+        "moth": 3,
+        "sky": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "歴史蝋のロウソクを消費",
+        "歴史蝋のロウソクを検討"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "wind_rumour",
+      "name_ja": "風の噂",
+      "name_en": "Wind-Rumour",
+      "category": "memory",
+      "aspects": {
+        "heart": 1,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "ペットのカモメと会話",
+        "カモメと会話、ヌマの時期に採集"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "old_wound",
+      "name_ja": "古傷",
+      "name_en": "Old Wound",
+      "category": "memory",
+      "aspects": {
+        "edge": 1,
+        "moon": 2,
+        "winter": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 徒弟の月(レベル5) （必要なスキル: 軍事の布告）"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "moon",
+        "level": 5
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "enduring_reflection",
+      "name_ja": "永続する反省",
+      "name_en": "Enduring Reflection",
+      "category": "memory",
+      "aspects": {
+        "rose": 3,
+        "knock": 1,
+        "heart": 1
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 学者の薔薇(レベル10) （必要なスキル: 道と巡礼者, 真珠と潮, 境界の韻律, 空の物語） ＋【必須素材: 記憶】",
+        "ヌマの時期に海の洞窟で採集（25%）",
+        "薔薇の学者、ヌマの時期に採集"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "rose",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "ascendant_harmony",
+      "name_ja": "上昇する調和",
+      "name_en": "Ascendant Harmony",
+      "category": "memory",
+      "aspects": {
+        "lantern": 2,
+        "sky": 4
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 学者の空(レベル10) （必要なスキル: リンゴの輝き, 鐘と火鉢, 毛皮と羽, 浄化と高揚, 空の物語, 弦と歌） ＋【必須素材: 楽器】",
+        "空の学者"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "sky",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "hives_lament",
+      "name_ja": "ハイブの哀歌",
+      "name_en": "Hive's Lament",
+      "category": "memory",
+      "aspects": {
+        "moth": 2,
+        "nectar": 4
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 学者の蜜(レベル10) （必要なスキル: ドラム、そして舞踊） ＋【必須素材: 楽器】",
+        "危険な成虫と会話、ミツバチの巣から採集",
+        "蜜の学者、危険な成虫と会話、ミツバチの巣から採集"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "nectar",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "curious_hunch",
+      "name_ja": "奇妙な予感",
+      "name_en": "Curious Hunch",
+      "category": "memory",
+      "aspects": {
+        "heart": 3,
+        "knock": 4,
+        "lantern": 3,
+        "moth": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 学者の啓開(レベル10) （必要なスキル: 境界の韻律, 大いなる兆候と大いなる傷） ＋【必須素材: 記憶】",
+        "開門の学者、ヌマの時期に泳ぐ",
+        "海辺で泳ぐ"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "knock",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "wormwood_dream",
+      "name_ja": "ニガヨモギの夢",
+      "name_en": "Wormwood Dream",
+      "category": "memory",
+      "aspects": {
+        "edge": 3,
+        "moon": 6,
+        "winter": 6
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 学者の月(レベル10) （必要なスキル: 軍事の布告） ＋【必須素材: 記憶】",
+        "クラフト: 番人の月(レベル15) （必要なスキル: 不可侵の布告, 韻と記憶, 鎌と日食, 雪の物語, 狼の物語） ＋【必須素材: ステュンパロスの鳥】",
+        "学者/番人の月"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "moon",
+        "level": 15
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "didumos",
+      "name_ja": "ディデュモス",
+      "name_en": "Didumos",
+      "category": "memory",
+      "aspects": {
+        "sky": 6,
+        "knock": 3,
+        "lantern": 3,
+        "winter": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 番人の月(レベル15) （必要なスキル: 天体観測） ＋【必須素材: アシメル】",
+        "クラフト: 番人の空(レベル15) （必要なスキル: リンゴの輝き, 鐘と火鉢, 天体観測, 限界の聖務, 視覚と感覚） ＋【必須素材: 上昇する調和】",
+        "空の番人"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "sky",
+        "level": 15
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "forbidden_epic",
+      "name_ja": "禁じられた叙事詩",
+      "name_en": "Forbidden Epic",
+      "category": "memory",
+      "aspects": {
+        "edge": 6,
+        "moon": 4,
+        "rose": 4
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "クラフト: 番人の月(レベル15) （必要なスキル: 軍事の布告） ＋【必須素材: 混乱寓話】",
+        "月の番人"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "moon",
+        "level": 15
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_a_final_understanding",
+      "name_ja": "ヌメン：a Final Understanding",
+      "name_en": "Numen: a Final Understanding",
+      "category": "memory",
+      "aspects": {
+        "rose": 5,
+        "sky": 5,
+        "winter": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "根本的な美学に向けて：第二版"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_inescapable_confinement",
+      "name_ja": "ヌメン：Inescapable Confinement",
+      "name_en": "Numen: Inescapable Confinement",
+      "category": "memory",
+      "aspects": {
+        "knock": 5,
+        "scale": 5,
+        "winter": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "根本的な美学に向けて"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_back_into_balance",
+      "name_ja": "ヌメン：Back Into Balance",
+      "name_en": "Numen: Back Into Balance",
+      "category": "memory",
+      "aspects": {
+        "heart": 5,
+        "sky": 5,
+        "winter": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "傷跡の空"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_weaving_the_world",
+      "name_ja": "ヌメン：Weaving the World",
+      "name_en": "Numen: Weaving the World",
+      "category": "memory",
+      "aspects": {
+        "heart": 5,
+        "moon": 5,
+        "nectar": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "コプラリスのへそ"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_the_suns_weakness",
+      "name_ja": "ヌメン：the Sun's Weakness",
+      "name_en": "Numen: the Sun's Weakness",
+      "category": "memory",
+      "aspects": {
+        "grail": 5,
+        "lantern": 5,
+        "moth": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "傷つけられた太陽"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_the_bells_of_ys",
+      "name_ja": "ヌメン：the Bells of Ys",
+      "name_en": "Numen: the Bells of Ys",
+      "category": "memory",
+      "aspects": {
+        "edge": 5,
+        "forge": 5,
+        "rose": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "アミラニのベテリ"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_merciless_alteration",
+      "name_ja": "ヌメン：Merciless Alteration",
+      "name_en": "Numen: Merciless Alteration",
+      "category": "memory",
+      "aspects": {
+        "edge": 5,
+        "forge": 5,
+        "grail": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "子供の黄金の午後の宝物庫"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_the_great_counterfeit",
+      "name_ja": "ヌメン：the Great Counterfeit",
+      "name_en": "Numen: the Great Counterfeit",
+      "category": "memory",
+      "aspects": {
+        "lantern": 5,
+        "moon": 5,
+        "nectar": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "シュライトの太陽の書"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_that_old_lost_music",
+      "name_ja": "ヌメン：That Old Lost Music",
+      "name_en": "Numen: That Old Lost Music",
+      "category": "memory",
+      "aspects": {
+        "sky": 5,
+        "rose": 5,
+        "scale": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "ターコイズの手"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_loopholes",
+      "name_ja": "ヌメン：Loopholes",
+      "name_en": "Numen: Loopholes",
+      "category": "memory",
+      "aspects": {
+        "knock": 5,
+        "moon": 5,
+        "moth": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "蛇の根"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_the_paths_of_the_sun",
+      "name_ja": "ヌメン：the Paths of the Sun",
+      "name_en": "Numen: the Paths of the Sun",
+      "category": "memory",
+      "aspects": {
+        "forge": 5,
+        "lantern": 5,
+        "knock": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "太陽の設計"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_three_rules",
+      "name_ja": "ヌメン：Three Rules",
+      "name_en": "Numen: Three Rules",
+      "category": "memory",
+      "aspects": {
+        "heart": 5,
+        "moth": 5,
+        "scale": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "三と三（聖キアヴィ写本）"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_an_irresistible_feast",
+      "name_ja": "ヌメン：an Irresistible Feast",
+      "name_en": "Numen: an Irresistible Feast",
+      "category": "memory",
+      "aspects": {
+        "edge": 5,
+        "grail": 5,
+        "nectar": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "壁の落書き"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "blackberry_jam",
+      "name_ja": "ブラックベリージャム",
+      "name_en": "Blackberry Jam",
+      "category": "food",
+      "aspects": {
+        "grail": 1,
+        "heart": 1,
+        "nectar": 1,
+        "rose": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pickled_pilchards",
+      "name_ja": "イワシのピクルス",
+      "name_en": "Pickled Pilchards",
+      "category": "food",
+      "aspects": {
+        "edge": 1,
+        "heart": 1,
+        "moon": 2,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pickled_mushrooms",
+      "name_ja": "キノコのピクルス",
+      "name_en": "Pickled Mushrooms",
+      "category": "food",
+      "aspects": {
+        "edge": 1,
+        "heart": 1,
+        "moon": 1,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pillas_oat_bread",
+      "name_ja": "ピラスオートパン",
+      "name_en": "Pillas-Oat Bread",
+      "category": "food",
+      "aspects": {
+        "forge": 1,
+        "heart": 1,
+        "nectar": 1,
+        "rose": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "basket_of_apples",
+      "name_ja": "リンゴの籠",
+      "name_en": "Basket of Apples",
+      "category": "food",
+      "aspects": {
+        "grail": 1,
+        "heart": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "basket_of_vegetables",
+      "name_ja": "野菜の籠",
+      "name_en": "Basket of Vegetables",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "amber_pumpkin",
+      "name_ja": "琥珀色のカボチャ",
+      "name_en": "Amber Pumpkin",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "lantern": 1,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "wormy_pumpkin",
+      "name_ja": "虫食いカボチャ",
+      "name_en": "Wormy Pumpkin",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "nectar": 1,
+        "scale": 1,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "soft_amber_pumpkin",
+      "name_ja": "柔らかい琥珀色のカボチャ",
+      "name_en": "Soft Amber Pumpkin",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "lantern": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pumpkin",
+      "name_ja": "カボチャ",
+      "name_en": "Pumpkin",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "bunch_of_grapes",
+      "name_ja": "ブドウの房",
+      "name_en": "Bunch of Grapes",
+      "category": "food",
+      "aspects": {
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "sack_of_vegetables",
+      "name_ja": "野菜の袋",
+      "name_en": "Sack of Vegetables",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pale_marrow",
+      "name_ja": "青白いマロー",
+      "name_en": "Pale Marrow",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "nectar": 2,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "golden_marrow",
+      "name_ja": "黄金のマロー",
+      "name_en": "Golden Marrow",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "lantern": 1,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "mackerel",
+      "name_ja": "サバ",
+      "name_en": "Mackerel",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "moon": 2,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "bowl_of_sea_blest_pears",
+      "name_ja": "海に祝福された梨のボウル",
+      "name_en": "Bowl of Sea-Blest Pears",
+      "category": "food",
+      "aspects": {
+        "grail": 1,
+        "moon": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "acrid_marrow",
+      "name_ja": "刺激臭のするマロー",
+      "name_en": "Acrid Marrow",
+      "category": "food",
+      "aspects": {
+        "edge": 1,
+        "heart": 1,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "basket_of_leeks",
+      "name_ja": "ネギの籠",
+      "name_en": "Basket of Leeks",
+      "category": "food",
+      "aspects": {
+        "edge": 1,
+        "heart": 1,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "basket_of_onions",
+      "name_ja": "玉ねぎの籠",
+      "name_en": "Basket of Onions",
+      "category": "food",
+      "aspects": {
+        "edge": 1,
+        "heart": 1,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "dark_marrow",
+      "name_ja": "暗黒のマロー",
+      "name_en": "Dark Marrow",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "moon": 1,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "honey",
+      "name_ja": "ハチミツ",
+      "name_en": "Honey",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "moth": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "misshapen_fruit",
+      "name_ja": "奇形果実",
+      "name_en": "Misshapen Fruit",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "moth": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "moly",
+      "name_ja": "モーリー",
+      "name_en": "Moly",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "moon": 2,
+        "moth": 2,
+        "nectar": 1,
+        "scale": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "canned_ham",
+      "name_ja": "缶詰のハム",
+      "name_en": "Canned Ham",
+      "category": "food",
+      "aspects": {
+        "heart": 2,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "hens_egg",
+      "name_ja": "鶏の卵",
+      "name_en": "Hen's Egg",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "viper_egg",
+      "name_ja": "毒蛇の卵",
+      "name_en": "Viper Egg",
+      "category": "food",
+      "aspects": {
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "gulls_egg",
+      "name_ja": "カモメの卵",
+      "name_en": "Gull's Egg",
+      "category": "food",
+      "aspects": {
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "almonds",
+      "name_ja": "アーモンド",
+      "name_en": "Almonds",
+      "category": "food",
+      "aspects": {
+        "forge": 1,
+        "grail": 1,
+        "moth": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "beef",
+      "name_ja": "牛肉",
+      "name_en": "Beef",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "scale": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "blackberries",
+      "name_ja": "ブラックベリー",
+      "name_en": "Blackberries",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "bottle_of_milk",
+      "name_ja": "牛乳瓶",
+      "name_en": "Bottle of Milk",
+      "category": "food",
+      "aspects": {
+        "grail": 1,
+        "heart": 1,
+        "scale": 1,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "mushrooms",
+      "name_ja": "キノコ",
+      "name_en": "Mushrooms",
+      "category": "food",
+      "aspects": {
+        "moon": 1,
+        "nectar": 1,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pheasant",
+      "name_ja": "キジ",
+      "name_en": "Pheasant",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "rose": 1,
+        "scale": 1,
+        "sky": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pilchards",
+      "name_ja": "イワシ",
+      "name_en": "Pilchards",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "moon": 2,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "rosehips",
+      "name_ja": "ローズヒップ",
+      "name_en": "Rosehips",
+      "category": "food",
+      "aspects": {
+        "heart": 1,
+        "nectar": 1,
+        "rose": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "kitchen_bowls",
+      "name_ja": "キッチンボウル",
+      "name_en": "Kitchen Bowls",
+      "category": "tool",
+      "aspects": {
+        "heart": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "mortar_&_pestle",
+      "name_ja": "乳鉢と乳棒",
+      "name_en": "Mortar & Pestle",
+      "category": "tool",
+      "aspects": {
+        "forge": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "dearday_lens",
+      "name_ja": "ディアデイ・レンズ",
+      "name_en": "Dearday Lens",
+      "category": "tool",
+      "aspects": {
+        "lantern": 0,
+        "sky": 0,
+        "edge": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "クラフト: 徒弟の灯(レベル5) （必要なスキル: 傷の修練, 吹きガラスと器作り, ガラス細工と光の鍛造, 炎の象形文字）",
+        "クラフト: 徒弟の空(レベル5) （必要なスキル: 吹きガラスと器作り, ガラス細工と光の鍛造）"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "flushed_mommet",
+      "name_ja": "上気したマメット",
+      "name_en": "Flushed Mommet",
+      "category": "tool",
+      "aspects": {
+        "grail": 0,
+        "heart": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "クラフト: 番人の聖杯(レベル15) （必要なスキル: 欲望と溶解, 毛皮と羽, ペンティメントと先駆者, 復活と出現, 大いなる兆候と大いなる傷） ＋【必須素材: 蒼白なマメット】"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "pale_mommet",
+      "name_ja": "蒼白なマメット",
+      "name_en": "Pale Mommet",
+      "category": "tool",
+      "aspects": {
+        "grail": 0,
+        "heart": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "クラフト: 学者の聖杯(レベル10) （必要なスキル: ペンティメントと先駆者, 復活と出現, 海の物語, 大いなる兆候と大いなる傷, トリデスマ・ヒエラ） ＋【必須素材: 布と繊維】"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "swaddled_thunder",
+      "name_ja": "包まれた雷",
+      "name_en": "Swaddled Thunder",
+      "category": "tool",
+      "aspects": {
+        "heart": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "クラフト: 番人の心(レベル15) （必要なスキル: 焼入れと鎮圧, 縫合と製本, 織物と結び目細工） ＋【必須素材: 平穏の横糸】"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "labhitic_tincture",
+      "name_ja": "ラビシック・チンキ",
+      "name_en": "Labhitic Tincture",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の刃(レベル5) （必要なスキル: 槌の修練, 軍事の布告, ぼろぼろの交差点, 鎌と日食）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "edge",
+        "level": 21
+      }
+    },
+    {
+      "id": "bitterblack_salts",
+      "name_ja": "苦黒塩",
+      "name_en": "Bitterblack Salts",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の鍛造(レベル5) （必要なスキル: 琥珀金と宝石細工, 鐘と火鉢, 槌の修練, 扉と壁, 変容と解放）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 1
+      }
+    },
+    {
+      "id": "wire_(orichalcum)",
+      "name_ja": "針金（オリハルコン）",
+      "name_en": "Wire (Orichalcum)",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の鍛造(レベル10) （必要なスキル: 鐘と火鉢, 槌の修練, 扉と壁） ＋【必須素材: 金属】",
+        "クラフト: 学者の啓開(レベル10) （必要なスキル: 吹きガラスと器作り） ＋【必須素材: 金属】",
+        "クラフト: 学者の空(レベル10) （必要なスキル: 錠前と時計仕掛け） ＋【必須素材: 金属】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 41
+      }
+    },
+    {
+      "id": "azoth",
+      "name_ja": "アゾット",
+      "name_en": "Azoth",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の鍛造(レベル15) （必要なスキル: 鐘と火鉢, 槌の修練, 扉と壁, メニスカテの反射, 浄化と高揚, 炎の象形文字） ＋【必須素材: 針金（オリハルコン）】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 26
+      }
+    },
+    {
+      "id": "iotic_essence",
+      "name_ja": "紫のエッセンス",
+      "name_en": "Iotic Essence",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の鍛造(レベル10) （必要なスキル: 琥珀金と宝石細工, メニスカテの反射, 炎の象形文字, 香辛料と風味, 変容と解放） ＋【必須素材: 液体】",
+        "クラフト: 番人の鍛造(レベル15) （必要なスキル: 槌の修練, メニスカテの反射, 変容と解放） ＋【必須素材: 苦黒塩】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 53
+      }
+    },
+    {
+      "id": "perinculate",
+      "name_ja": "ペリンクレイト",
+      "name_en": "Perinculate",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の刃(レベル10) （必要なスキル: 傷の修練, 軍事の布告, 鎌と日食） ＋【必須素材: 葉】",
+        "クラフト: 学者の鱗(レベル10) （必要なスキル: 力のインク） ＋【必須素材: 葉】",
+        "クラフト: 学者の冬(レベル10) （必要なスキル: 腐敗と灰化） ＋【必須素材: 葉】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "edge",
+        "level": 414
+      }
+    },
+    {
+      "id": "solomon’s_preparation",
+      "name_ja": "ソロモンの調合",
+      "name_en": "Solomon’s Preparation",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の月(レベル10) （必要なスキル: 不可侵の布告, マゲフェネの神秘） ＋【必須素材: 花】",
+        "クラフト: 学者の冬(レベル10) （必要なスキル: 封じ込めのインク, 焼入れと鎮圧, ぼろぼろの交差点, 視覚と感覚） ＋【必須素材: 花】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moon",
+        "level": 114
+      }
+    },
+    {
+      "id": "year_tally",
+      "name_ja": "年の記録",
+      "name_en": "Year Tally",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の冬(レベル15) （必要なスキル: 腐敗と灰化, ぼろぼろの交差点, 韻と記憶, 雪の物語） ＋【必須素材: 骨膜のエッセンス】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "winter (principle)",
+        "level": 6
+      }
+    },
+    {
+      "id": "serpent_milk",
+      "name_ja": "蛇の乳",
+      "name_en": "Serpent-Milk",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の刃(レベル15) （必要なスキル: 傷の修練, メニスカテの反射, 鋭利, 鎌と日食） ＋【必須素材: ペリンクレイト】",
+        "クラフト: 番人の鱗(レベル15) （必要なスキル: 蛇と毒） ＋【必須素材: ペリンクレイト】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "edge",
+        "level": 623
+      }
+    },
+    {
+      "id": "catwink",
+      "name_ja": "キャットウィンク",
+      "name_en": "Catwink",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の月(レベル5) （必要なスキル: 不可侵の布告, 封じ込めのインク, 腐敗と灰化, 砂の物語, 鎌と日食）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "edge",
+        "level": 1122
+      }
+    },
+    {
+      "id": "essential_periost",
+      "name_ja": "骨膜のエッセンス",
+      "name_en": "Essential Periost",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の月(レベル10) （必要なスキル: 鋭利, 鎌と日食, 狼の物語） ＋【必須素材: 遺骸】",
+        "クラフト: 学者の蜜(レベル10) （必要なスキル: 石の物語） ＋【必須素材: 遺骸】",
+        "クラフト: 学者の冬(レベル10) （必要なスキル: 韻と記憶, 雪の物語） ＋【必須素材: 遺骸】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moon",
+        "level": 2444
+      }
+    },
+    {
+      "id": "eigengrau",
+      "name_ja": "アイゲングラウ",
+      "name_en": "Eigengrau",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の灯(レベル5) （必要なスキル: 極光の黙想）",
+        "クラフト: 徒弟の月(レベル5) （必要なスキル: マゲフェネの神秘, 真珠と潮）",
+        "クラフト: 徒弟の冬(レベル5) （必要なスキル: 封じ込めのインク, 焼入れと鎮圧, 視覚と感覚）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moon",
+        "level": 11
+      }
+    },
+    {
+      "id": "xanthotic_essence",
+      "name_ja": "黄色のエッセンス",
+      "name_en": "Xanthotic Essence",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の灯(レベル10) （必要なスキル: 極光の黙想, 浄化と高揚, 炎の象形文字, 変容と解放） ＋【必須素材: 液体】",
+        "クラフト: 番人の灯(レベル15) （必要なスキル: 浄化と高揚） ＋【必須素材: 苦黒塩】",
+        "クラフト: 学者の空(レベル10) （必要なスキル: 琥珀金と宝石細工） ＋【必須素材: 液体】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 225
+      }
+    },
+    {
+      "id": "porphyrine",
+      "name_ja": "ポルフィリン",
+      "name_en": "Porphyrine",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の灯(レベル15) （必要なスキル: 極光の黙想） ＋【必須素材: Ichor Auroral】",
+        "クラフト: 番人の薔薇(レベル15) （必要なスキル: 力のインク, 啓示のインク, 砂の物語） ＋【必須素材: Ichor Auroral】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "knock",
+        "level": 777
+      }
+    },
+    {
+      "id": "ichor_auroral",
+      "name_ja": "Ichor Auroral",
+      "name_en": "Ichor Auroral",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の薔薇(レベル10) （必要なスキル: 極光の黙想, 力のインク, 砂の物語） ＋【必須素材: 光】",
+        "クラフト: 学者の空(レベル10) （必要なスキル: 視覚と感覚, 見張りの逆説） ＋【必須素材: 光】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "lantern",
+        "level": 42
+      }
+    },
+    {
+      "id": "westcotts_compounds",
+      "name_ja": "ウェスコットの混合物",
+      "name_en": "Westcott's Compounds",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の鍛造(レベル5) （必要なスキル: メニスカテの反射, 炎の象形文字, 香辛料と風味）",
+        "クラフト: 徒弟の蛾(レベル5) （必要なスキル: 限界の聖務, 溶解と分離）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 21111
+      }
+    },
+    {
+      "id": "midnight_mark",
+      "name_ja": "真夜中の印",
+      "name_en": "Midnight Mark",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の月(レベル5) （必要なスキル: 欲望と溶解, 昆虫学と蜜, 韻と記憶, 蛇と毒, 鋭利, 雪の物語, 狼の物語）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moon",
+        "level": 21
+      }
+    },
+    {
+      "id": "orpiment_exultant",
+      "name_ja": "雄黄の歓喜",
+      "name_en": "Orpiment Exultant",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の鍛造(レベル15) （必要なスキル: 琥珀金と宝石細工, 力のインク, 変容と解放） ＋【必須素材: 紫のエッセンス】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 777
+      }
+    },
+    {
+      "id": "uzult",
+      "name_ja": "ウズルト",
+      "name_en": "Uzult",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の灯(レベル15) （必要なスキル: 琥珀金と宝石細工, ガラス細工と光の鍛造, 啓示のインク, 不屈の太陽の聖務, 見張りの逆説） ＋【必須素材: 黄色のエッセンス】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "lantern",
+        "level": 777
+      }
+    },
+    {
+      "id": "awakened_feather",
+      "name_ja": "目覚めた羽",
+      "name_en": "Awakened Feather",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の空(レベル5) （必要なスキル: 琥珀金と宝石細工, 毛皮と羽, 錠前と時計仕掛け, 限界の聖務, 視覚と感覚, 縫合と製本）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "scale",
+        "level": 12
+      }
+    },
+    {
+      "id": "ashartine",
+      "name_ja": "アシャルティーン",
+      "name_en": "Ashartine",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の灯(レベル15) （必要なスキル: 吹きガラスと器作り, ガラス細工と光の鍛造, 炎の象形文字, 見張りの逆説） ＋【必須素材: Ichor Vitreous】",
+        "クラフト: 番人の空(レベル15) （必要なスキル: 琥珀金と宝石細工, 吹きガラスと器作り） ＋【必須素材: Ichor Vitreous】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 162
+      }
+    },
+    {
+      "id": "glassfinger_toxin",
+      "name_ja": "ガラス指の毒",
+      "name_en": "Glassfinger Toxin",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の啓開(レベル10) （必要なスキル: 扉と壁, 境界の布告, 溶解と分離, 外科手術と瀉血） ＋【必須素材: 液体】",
+        "クラフト: 学者の鱗(レベル10) （必要なスキル: 蛇と毒） ＋【必須素材: 液体】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 242
+      }
+    },
+    {
+      "id": "sacrament_ascite",
+      "name_ja": "サクラメント・アスカイト",
+      "name_en": "Sacrament Ascite",
+      "category": "drink",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の啓開(レベル15) （必要なスキル: 扉と壁, 境界の布告, 吹きガラスと器作り, 角と象牙, 溶解と分離） ＋【必須素材: ガラス指の毒】",
+        "クラフト: 番人の月(レベル15) （必要なスキル: 蛇と毒） ＋【必須素材: ガラス指の毒】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "knock",
+        "level": 6
+      }
+    },
+    {
+      "id": "refulgin",
+      "name_ja": "リフルギン",
+      "name_en": "Refulgin",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の灯(レベル5) （必要なスキル: 啓示のインク, 浄化と高揚, 不屈の太陽の聖務, 変容と解放）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "lantern",
+        "level": 2
+      }
+    },
+    {
+      "id": "chimeric_larva",
+      "name_ja": "キメラの幼虫",
+      "name_en": "Chimeric Larva",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の啓開(レベル10) （必要なスキル: 角と象牙） ＋【必須素材: 卵】",
+        "クラフト: 学者の月(レベル10) （必要なスキル: 丘と窪み, 昆虫学と蜜） ＋【必須素材: 卵】",
+        "クラフト: 学者の蛾(レベル10) （必要なスキル: 復活と出現, 変容と解放） ＋【必須素材: 卵】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "knock",
+        "level": 224
+      }
+    },
+    {
+      "id": "perilous_imago",
+      "name_ja": "危険なイマゴ",
+      "name_en": "Perilous Imago",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の月(レベル15) （必要なスキル: 昆虫学と蜜） ＋【必須素材: キメラの幼虫】",
+        "クラフト: 番人の蛾(レベル15) （必要なスキル: 復活と出現, 変容と解放） ＋【必須素材: キメラの幼虫】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "knock",
+        "level": 2262
+      }
+    },
+    {
+      "id": "thirzas_cordials",
+      "name_ja": "ティルザのコーディアル",
+      "name_en": "Thirza's Cordials",
+      "category": "drink",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の蜜(レベル5) （必要なスキル: とぐろと裂け目, ハーブと煎じ薬, 蘭と麻薬, 香辛料と風味, 石の物語）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moth",
+        "level": 22
+      }
+    },
+    {
+      "id": "sacrament_malachite",
+      "name_ja": "サクラメント・マラカイト",
+      "name_en": "Sacrament Malachite",
+      "category": "drink",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の蜜(レベル15) （必要なスキル: とぐろと裂け目, ドラム、そして舞踊, ハーブと煎じ薬, 葉と棘, 根の儀式, 香辛料と風味） ＋【必須素材: ピルス・アウリカルキヌス】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "nectar",
+        "level": 6
+      }
+    },
+    {
+      "id": "yewgall_ink",
+      "name_ja": "イチイコブのインク",
+      "name_en": "Yewgall Ink",
+      "category": "tool",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の蜜(レベル5) （必要なスキル: 封じ込めのインク, 力のインク, 啓示のインク, 昆虫学と蜜, 葉と棘, 根の儀式）",
+        "クラフト: 徒弟の冬(レベル5) （必要なスキル: 腐敗と灰化）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moth",
+        "level": 12
+      }
+    },
+    {
+      "id": "marakat",
+      "name_ja": "マラカット",
+      "name_en": "Marakat",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の蜜(レベル15) （必要なスキル: 力のインク, 昆虫学と蜜, トリデスマ・ヒエラ） ＋【必須素材: レーシー】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "grail",
+        "level": 777
+      }
+    },
+    {
+      "id": "salt_sign",
+      "name_ja": "塩の徴",
+      "name_en": "Salt-Sign",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の月(レベル5) （必要なスキル: 丘と窪み, 海の物語）",
+        "クラフト: 徒弟の薔薇(レベル5) （必要なスキル: 力のインク, 道と巡礼者, 真珠と潮, 砂の物語）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moon",
+        "level": 22
+      }
+    },
+    {
+      "id": "perhibiate",
+      "name_ja": "パーヒビエイト",
+      "name_en": "Perhibiate",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の心(レベル5) （必要なスキル: 縫合と製本, 織物と結び目細工）",
+        "クラフト: 徒弟の鱗(レベル5) （必要なスキル: 力のインク）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "heart",
+        "level": 2221
+      }
+    },
+    {
+      "id": "stargall_ink",
+      "name_ja": "星虫瘤のインク",
+      "name_en": "Stargall Ink",
+      "category": "tool",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の空(レベル5) （必要なスキル: 封じ込めのインク, 力のインク, 啓示のインク）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 112
+      }
+    },
+    {
+      "id": "witching_tisane",
+      "name_ja": "魔女のハーブティー",
+      "name_en": "Witching Tisane",
+      "category": "drink",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の聖杯(レベル5) （必要なスキル: 欲望と溶解, 葉と棘, 蘭と麻薬, 海の物語, 大いなる兆候と大いなる傷）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "grail",
+        "level": 21
+      }
+    },
+    {
+      "id": "rubywise_ruin",
+      "name_ja": "ルビー色の破滅",
+      "name_en": "Rubywise Ruin",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の聖杯(レベル10) （必要なスキル: リンゴの輝き, 欲望と溶解, 葉と棘, 蘭と麻薬） ＋【必須素材: 花】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "grail",
+        "level": 42222
+      }
+    },
+    {
+      "id": "black_sapphire_wash",
+      "name_ja": "ブラックサファイア・ウォッシュ",
+      "name_en": "Black Sapphire Wash",
+      "category": "tool",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の月(レベル15) （必要なスキル: 欲望と溶解, 真珠と潮, 腐敗と灰化, 海の物語, トリデスマ・ヒエラ） ＋【必須素材: アシメル】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moon",
+        "level": 6
+      }
+    },
+    {
+      "id": "sacrament_calicite",
+      "name_ja": "サクラメント・キャリサイト",
+      "name_en": "Sacrament Calicite",
+      "category": "drink",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の聖杯(レベル15) （必要なスキル: リンゴの輝き, 葉と棘, 蘭と麻薬, 海の物語, トリデスマ・ヒエラ） ＋【必須素材: ルビー色の破滅】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "grail",
+        "level": 6
+      }
+    },
+    {
+      "id": "asimel",
+      "name_ja": "アシメル",
+      "name_en": "Asimel",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の月(レベル10) （必要なスキル: 真珠と潮, 腐敗と灰化, 海の物語） ＋【必須素材: 液体】",
+        "クラフト: 学者の蛾(レベル10) （必要なスキル: 啓示のインク） ＋【必須素材: 液体】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "knock",
+        "level": 3511
+      }
+    },
+    {
+      "id": "amethyst_ampoule",
+      "name_ja": "アメジストのアンプル",
+      "name_en": "Amethyst Ampoule",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の啓開(レベル5) （必要なスキル: 吹きガラスと器作り, 錠前と時計仕掛け, 溶解と分離, 外科手術と瀉血, 大いなる兆候と大いなる傷）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "heart",
+        "level": 22
+      }
+    },
+    {
+      "id": "bisclavrets_knot",
+      "name_ja": "ビスクラヴレの結び目",
+      "name_en": "Bisclavret's Knot",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の鱗(レベル5) （必要なスキル: とぐろと裂け目, 毛皮と羽, 丘と窪み, 角と象牙, 道と巡礼者, ペンティメントと先駆者, 蛇と毒, 狼の物語）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moth",
+        "level": 12
+      }
+    },
+    {
+      "id": "living_relic",
+      "name_ja": "生きた遺物",
+      "name_en": "Living Relic",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の鱗(レベル10) （必要なスキル: 毛皮と羽, 丘と窪み, ペンティメントと先駆者, 石の物語） ＋【必須素材: 卵】",
+        "クラフト: 学者の空(レベル10) （必要なスキル: 縫合と製本） ＋【必須素材: 卵】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "heart",
+        "level": 142
+      }
+    },
+    {
+      "id": "houndsgall",
+      "name_ja": "猟犬の胆汁",
+      "name_en": "Houndsgall",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の鱗(レベル15) （必要なスキル: 角と象牙, 封じ込めのインク, 道と巡礼者, ペンティメントと先駆者） ＋【必須素材: 生きた遺物】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "edge",
+        "level": 125
+      }
+    },
+    {
+      "id": "tanglebrag",
+      "name_ja": "タングルブラグ",
+      "name_en": "Tanglebrag",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の灯(レベル5) （必要なスキル: 見張りの逆説）",
+        "クラフト: 徒弟の蛾(レベル5) （必要なスキル: 境界の布告, 復活と出現, 根の儀式, 織物と結び目細工）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "lantern",
+        "level": 1211
+      }
+    },
+    {
+      "id": "stymphling",
+      "name_ja": "ステュンパロスの鳥",
+      "name_en": "Stymphling",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の月(レベル10) （必要なスキル: 韻と記憶, 砂の物語, 蛇と毒, 雪の物語, トリデスマ・ヒエラ） ＋【必須素材: 卵】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moon",
+        "level": 33
+      }
+    },
+    {
+      "id": "frith_weft",
+      "name_ja": "平穏の横糸",
+      "name_en": "Frith-Weft",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の心(レベル10) （必要なスキル: 縫合と製本, 織物と結び目細工） ＋【必須素材: 布と繊維】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "heart",
+        "level": 3
+      }
+    },
+    {
+      "id": "wyrd_weft",
+      "name_ja": "運命の横糸",
+      "name_en": "Wyrd-Weft",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の冬(レベル15) （必要なスキル: 縫合と製本, 織物と結び目細工） ＋【必須素材: 布と繊維】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "heart",
+        "level": 36
+      }
+    },
+    {
+      "id": "regensburg_balm",
+      "name_ja": "レーゲンスブルクの軟膏",
+      "name_en": "Regensburg Balm",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の心(レベル5) （必要なスキル: 不可侵の布告, ハーブと煎じ薬, マゲフェネの神秘, 焼入れと鎮圧, 外科手術と瀉血）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "heart",
+        "level": 22
+      }
+    },
+    {
+      "id": "gideons_soaks",
+      "name_ja": "ギデオンの酒",
+      "name_en": "Gideon's Soaks",
+      "category": "drink",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の心(レベル10) （必要なスキル: 不可侵の布告, ハーブと煎じ薬, マゲフェネの神秘, 焼入れと鎮圧, 外科手術と瀉血） ＋【必須素材: 液体】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "forge",
+        "level": 2432
+      }
+    },
+    {
+      "id": "january_sanguinary",
+      "name_ja": "一月の血",
+      "name_en": "January Sanguinary",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の心(レベル15) （必要なスキル: 不可侵の布告, ハーブと煎じ薬, マゲフェネの神秘, 外科手術と瀉血） ＋【必須素材: ギデオンの酒】",
+        "クラフト: 番人の啓開(レベル15) （必要なスキル: 外科手術と瀉血） ＋【必須素材: ガラス指の毒】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "heart",
+        "level": 533
+      }
+    },
+    {
+      "id": "ichor_vitreous",
+      "name_ja": "Ichor Vitreous",
+      "name_en": "Ichor Vitreous",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の灯(レベル10) （必要なスキル: 吹きガラスと器作り, ガラス細工と光の鍛造, 啓示のインク, 不屈の太陽の聖務, 見張りの逆説） ＋【必須素材: ガラス】",
+        "クラフト: 学者の空(レベル10) （必要なスキル: 吹きガラスと器作り） ＋【必須素材: ガラス】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "lantern",
+        "level": 4
+      }
+    },
+    {
+      "id": "gervinite",
+      "name_ja": "ジェルヴィナイト",
+      "name_en": "Gervinite",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の啓開(レベル10) （必要なスキル: 錠前と時計仕掛け） ＋【必須素材: ガラス】",
+        "クラフト: 学者の空(レベル10) （必要なスキル: ガラス細工と光の鍛造） ＋【必須素材: 金属】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "knock",
+        "level": 42
+      }
+    },
+    {
+      "id": "paint:_moth_gold",
+      "name_ja": "絵の具：蛾の金",
+      "name_en": "Paint: Moth-Gold",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 徒弟の蛾(レベル5) （必要なスキル: 啓示のインク）"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "moth",
+        "level": 2
+      }
+    },
+    {
+      "id": "mazarine_fife",
+      "name_ja": "マザリン・ファイフ",
+      "name_en": "Mazarine Fife",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 学者の空(レベル10) （必要なスキル: 天体観測, 限界の聖務, 不屈の太陽の聖務） ＋【必須素材: 木材】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "sky",
+        "level": 3
+      }
+    },
+    {
+      "id": "nillycant",
+      "name_ja": "ニリキャント",
+      "name_en": "Nillycant",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の冬(レベル15) （必要なスキル: 封じ込めのインク, 視覚と感覚） ＋【必須素材: ソロモンの調合】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "edge",
+        "level": 777
+      }
+    },
+    {
+      "id": "year_tally",
+      "name_ja": "年の記録",
+      "name_en": "Year-Tally",
+      "category": "crafted",
+      "aspects": {},
+      "how_to_get": [
+        "クラフト: 番人の空(レベル15) （必要なスキル: 天体観測） ＋【必須素材: 骨膜のエッセンス】"
+      ],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "craft": {
+        "principle": "winter (principle)",
+        "level": 6
+      }
+    }
+  ]
+}

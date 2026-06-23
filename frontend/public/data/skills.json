@@ -1,0 +1,652 @@
+{
+  "skills": [
+    {
+      "id": "anbary_and_lapidary",
+      "name_en": "Anbary & Lapidary",
+      "name_ja": "琥珀金と宝石細工",
+      "aspects": [
+        "sky",
+        "forge"
+      ]
+    },
+    {
+      "id": "applebright_euphonies",
+      "name_en": "Applebright Euphonies",
+      "name_ja": "リンゴの輝き",
+      "aspects": [
+        "sky",
+        "grail"
+      ]
+    },
+    {
+      "id": "auroral_contemplations",
+      "name_en": "Auroral Contemplations",
+      "name_ja": "極光の黙想",
+      "aspects": [
+        "lantern",
+        "edge"
+      ]
+    },
+    {
+      "id": "bells_and_brazieries",
+      "name_en": "Bells & Brazieries",
+      "name_ja": "鐘と火鉢",
+      "aspects": [
+        "forge",
+        "sky"
+      ]
+    },
+    {
+      "id": "coil_and_chasm",
+      "name_en": "Coil & Chasm",
+      "name_ja": "とぐろと裂け目",
+      "aspects": [
+        "scale",
+        "nectar"
+      ]
+    },
+    {
+      "id": "desires_and_dissolutions",
+      "name_en": "Desires & Dissolutions",
+      "name_ja": "欲望と溶解",
+      "aspects": [
+        "grail",
+        "moon"
+      ]
+    },
+    {
+      "id": "disciplines_of_the_hammer",
+      "name_en": "Disciplines of the Hammer",
+      "name_ja": "槌の修練",
+      "aspects": [
+        "edge",
+        "forge"
+      ]
+    },
+    {
+      "id": "disciplines_of_the_scar",
+      "name_en": "Disciplines of the Scar",
+      "name_ja": "傷の修練",
+      "aspects": [
+        "edge",
+        "lantern"
+      ]
+    },
+    {
+      "id": "door_and_wall",
+      "name_en": "Door & Wall",
+      "name_ja": "扉と壁",
+      "aspects": [
+        "knock",
+        "forge"
+      ]
+    },
+    {
+      "id": "drums_and_dances",
+      "name_en": "Drums & Dances",
+      "name_ja": "ドラム、そして舞踊",
+      "aspects": [
+        "heart",
+        "nectar"
+      ]
+    },
+    {
+      "id": "edicts_inviolable",
+      "name_en": "Edicts Inviolable",
+      "name_ja": "不可侵の布告",
+      "aspects": [
+        "heart",
+        "moon"
+      ]
+    },
+    {
+      "id": "edicts_liminal",
+      "name_en": "Edicts Liminal",
+      "name_ja": "境界の布告",
+      "aspects": [
+        "moth",
+        "knock"
+      ]
+    },
+    {
+      "id": "edicts_martial",
+      "name_en": "Edicts Martial",
+      "name_ja": "軍事の布告",
+      "aspects": [
+        "moon",
+        "edge"
+      ]
+    },
+    {
+      "id": "furs_and_feathers",
+      "name_en": "Furs & Feathers",
+      "name_ja": "毛皮と羽",
+      "aspects": [
+        "sky",
+        "scale"
+      ]
+    },
+    {
+      "id": "glassblowing_and_vesselcrafting",
+      "name_en": "Glassblowing & Vesselcrafting",
+      "name_ja": "吹きガラスと器作り",
+      "aspects": [
+        "knock",
+        "sky"
+      ]
+    },
+    {
+      "id": "glaziery_and_lightsmithing",
+      "name_en": "Glaziery & Lightsmithing",
+      "name_ja": "ガラス細工と光の鍛造",
+      "aspects": [
+        "lantern",
+        "sky"
+      ]
+    },
+    {
+      "id": "herbs_and_infusions",
+      "name_en": "Herbs & Infusions",
+      "name_ja": "ハーブと煎じ薬",
+      "aspects": [
+        "heart",
+        "nectar"
+      ]
+    },
+    {
+      "id": "hill_and_hollow",
+      "name_en": "Hill & Hollow",
+      "name_ja": "丘と窪み",
+      "aspects": [
+        "moon",
+        "scale"
+      ]
+    },
+    {
+      "id": "horns_and_ivories",
+      "name_en": "Horns & Ivories",
+      "name_ja": "角と象牙",
+      "aspects": [
+        "scale",
+        "knock"
+      ]
+    },
+    {
+      "id": "inks_of_containment",
+      "name_en": "Inks of Containment",
+      "name_ja": "封じ込めのインク",
+      "aspects": [
+        "moon"
+      ]
+    },
+    {
+      "id": "inks_of_power",
+      "name_en": "Inks of Power",
+      "name_ja": "力のインク",
+      "aspects": [
+        "rose",
+        "scale"
+      ]
+    },
+    {
+      "id": "inks_of_revelation",
+      "name_en": "Inks of Revelation",
+      "name_ja": "啓示のインク",
+      "aspects": [
+        "lantern",
+        "moth"
+      ]
+    },
+    {
+      "id": "insects_and_nectars",
+      "name_en": "Insects & Nectars",
+      "name_ja": "昆虫学と蜜",
+      "aspects": [
+        "nectar",
+        "moon"
+      ]
+    },
+    {
+      "id": "leaves_and_thorns",
+      "name_en": "Leaves & Thorns",
+      "name_ja": "葉と棘",
+      "aspects": [
+        "nectar",
+        "grail"
+      ]
+    },
+    {
+      "id": "lockworks_and_clockworks",
+      "name_en": "Lockworks & Clockworks",
+      "name_ja": "錠前と時計仕掛け",
+      "aspects": [
+        "knock",
+        "sky"
+      ]
+    },
+    {
+      "id": "maggephene_mysteries",
+      "name_en": "Maggephene Mysteries",
+      "name_ja": "マゲフェネの神秘",
+      "aspects": [
+        "moon",
+        "heart"
+      ]
+    },
+    {
+      "id": "meniscate_reflections",
+      "name_en": "Meniscate Reflections",
+      "name_ja": "メニスカテの反射",
+      "aspects": [
+        "forge",
+        "edge"
+      ]
+    },
+    {
+      "id": "orchids_and_narcotics",
+      "name_en": "Orchids & Narcotics",
+      "name_ja": "蘭と麻薬",
+      "aspects": [
+        "grail",
+        "nectar"
+      ]
+    },
+    {
+      "id": "ouranoscopy",
+      "name_en": "Ouranoscopy",
+      "name_ja": "天体観測",
+      "aspects": [
+        "sky",
+        "moon"
+      ]
+    },
+    {
+      "id": "path_and_pilgrim",
+      "name_en": "Path & Pilgrim",
+      "name_ja": "道と巡礼者",
+      "aspects": [
+        "rose",
+        "scale"
+      ]
+    },
+    {
+      "id": "pearl_and_tide",
+      "name_en": "Pearl & Tide",
+      "name_ja": "真珠と潮",
+      "aspects": [
+        "rose",
+        "moon"
+      ]
+    },
+    {
+      "id": "pentiments_and_precursors",
+      "name_en": "Pentiments & Precursors",
+      "name_ja": "ペンティメントと先駆者",
+      "aspects": [
+        "scale",
+        "grail"
+      ]
+    },
+    {
+      "id": "preliminal_meter",
+      "name_en": "Preliminal Meter",
+      "name_ja": "境界の韻律",
+      "aspects": [
+        "knock",
+        "rose"
+      ]
+    },
+    {
+      "id": "purifications_and_exaltations",
+      "name_en": "Purifications & Exaltations",
+      "name_ja": "浄化と高揚",
+      "aspects": [
+        "sky",
+        "lantern"
+      ]
+    },
+    {
+      "id": "putrefactions_and_calcinations",
+      "name_en": "Putrefactions & Calcinations",
+      "name_ja": "腐敗と灰化",
+      "aspects": [
+        "moon"
+      ]
+    },
+    {
+      "id": "pyroglyphics",
+      "name_en": "Pyroglyphics",
+      "name_ja": "炎の象形文字",
+      "aspects": [
+        "forge",
+        "lantern"
+      ]
+    },
+    {
+      "id": "quenchings_and_quellings",
+      "name_en": "Quenchings & Quellings",
+      "name_ja": "焼入れと鎮圧",
+      "aspects": [
+        "heart"
+      ]
+    },
+    {
+      "id": "ragged_crossroads",
+      "name_en": "Ragged Crossroads",
+      "name_ja": "ぼろぼろの交差点",
+      "aspects": [
+        "edge"
+      ]
+    },
+    {
+      "id": "resurgences_and_emergences",
+      "name_en": "Resurgences & Emergences",
+      "name_ja": "復活と出現",
+      "aspects": [
+        "moth",
+        "grail"
+      ]
+    },
+    {
+      "id": "rhyme_and_remembrance",
+      "name_en": "Rhyme & Remembrance",
+      "name_ja": "韻と記憶",
+      "aspects": [
+        "moon"
+      ]
+    },
+    {
+      "id": "rites_of_the_roots",
+      "name_en": "Rites of the Roots",
+      "name_ja": "根の儀式",
+      "aspects": [
+        "nectar",
+        "moth"
+      ]
+    },
+    {
+      "id": "sacra_limiae",
+      "name_en": "Sacra Limiae",
+      "name_ja": "限界の聖務",
+      "aspects": [
+        "moth",
+        "sky"
+      ]
+    },
+    {
+      "id": "sacra_solis_invicti",
+      "name_en": "Sacra Solis Invicti",
+      "name_ja": "不屈の太陽の聖務",
+      "aspects": [
+        "lantern",
+        "sky"
+      ]
+    },
+    {
+      "id": "sand_stories",
+      "name_en": "Sand Stories",
+      "name_ja": "砂の物語",
+      "aspects": [
+        "rose",
+        "moon"
+      ]
+    },
+    {
+      "id": "sea_stories",
+      "name_en": "Sea Stories",
+      "name_ja": "海の物語",
+      "aspects": [
+        "moon",
+        "grail"
+      ]
+    },
+    {
+      "id": "serpents_and_venoms",
+      "name_en": "Serpents & Venoms",
+      "name_ja": "蛇と毒",
+      "aspects": [
+        "scale",
+        "moon"
+      ]
+    },
+    {
+      "id": "sharps",
+      "name_en": "Sharps",
+      "name_ja": "鋭利",
+      "aspects": [
+        "edge",
+        "moon"
+      ]
+    },
+    {
+      "id": "sickle_and_eclipse",
+      "name_en": "Sickle & Eclipse",
+      "name_ja": "鎌と日食",
+      "aspects": [
+        "edge",
+        "moon"
+      ]
+    },
+    {
+      "id": "sights_and_sensations",
+      "name_en": "Sights & Sensations",
+      "name_ja": "視覚と感覚",
+      "aspects": [
+        "sky"
+      ]
+    },
+    {
+      "id": "sky_stories",
+      "name_en": "Sky Stories",
+      "name_ja": "空の物語",
+      "aspects": [
+        "sky",
+        "rose"
+      ]
+    },
+    {
+      "id": "snow_stories",
+      "name_en": "Snow Stories",
+      "name_ja": "雪の物語",
+      "aspects": [
+        "moon"
+      ]
+    },
+    {
+      "id": "solutions_and_separations",
+      "name_en": "Solutions & Separations",
+      "name_ja": "溶解と分離",
+      "aspects": [
+        "moth",
+        "knock"
+      ]
+    },
+    {
+      "id": "spices_and_savours",
+      "name_en": "Spices & Savours",
+      "name_ja": "香辛料と風味",
+      "aspects": [
+        "nectar",
+        "forge"
+      ]
+    },
+    {
+      "id": "stitching_and_binding",
+      "name_en": "Stitching & Binding",
+      "name_ja": "縫合と製本",
+      "aspects": [
+        "sky",
+        "heart"
+      ]
+    },
+    {
+      "id": "stone_stories",
+      "name_en": "Stone Stories",
+      "name_ja": "石の物語",
+      "aspects": [
+        "scale",
+        "nectar"
+      ]
+    },
+    {
+      "id": "strings_and_songs",
+      "name_en": "Strings & Songs",
+      "name_ja": "弦と歌",
+      "aspects": [
+        "sky",
+        "heart"
+      ]
+    },
+    {
+      "id": "surgeries_and_exsanguinations",
+      "name_en": "Surgeries & Exsanguinations",
+      "name_ja": "外科手術と瀉血",
+      "aspects": [
+        "heart",
+        "knock"
+      ]
+    },
+    {
+      "id": "the_great_signs_and_the_great_scars",
+      "name_en": "The Great Signs and the Great Scars",
+      "name_ja": "大いなる兆候と大いなる傷",
+      "aspects": [
+        "grail",
+        "knock"
+      ]
+    },
+    {
+      "id": "transformations_and_liberations",
+      "name_en": "Transformations & Liberations",
+      "name_ja": "変容と解放",
+      "aspects": [
+        "forge",
+        "moth"
+      ]
+    },
+    {
+      "id": "tridesma_hiera",
+      "name_en": "Tridesma Hiera",
+      "name_ja": "トリデスマ・ヒエラ",
+      "aspects": [
+        "moon",
+        "grail"
+      ]
+    },
+    {
+      "id": "watchman's_paradoxes",
+      "name_en": "Watchman's Paradoxes",
+      "name_ja": "見張りの逆説",
+      "aspects": [
+        "lantern",
+        "sky"
+      ]
+    },
+    {
+      "id": "weaving_and_knotworking",
+      "name_en": "Weaving & Knotworking",
+      "name_ja": "織物と結び目細工",
+      "aspects": [
+        "heart",
+        "moth"
+      ]
+    },
+    {
+      "id": "wolf_stories",
+      "name_en": "Wolf Stories",
+      "name_ja": "狼の物語",
+      "aspects": [
+        "moon",
+        "scale"
+      ]
+    },
+    {
+      "id": "cracktrack",
+      "name_en": "Cracktrack",
+      "name_ja": "クラックトラック",
+      "aspects": [
+        "nectar",
+        "scale"
+      ]
+    },
+    {
+      "id": "deep_mandaic",
+      "name_en": "Deep Mandaic",
+      "name_ja": "深淵マンダ語",
+      "aspects": [
+        "forge",
+        "lantern"
+      ]
+    },
+    {
+      "id": "ericapaean",
+      "name_en": "Ericapaean",
+      "name_ja": "エリカパイオス語",
+      "aspects": [
+        "lantern"
+      ]
+    },
+    {
+      "id": "fucine",
+      "name_en": "Fucine",
+      "name_ja": "フュシン語",
+      "aspects": [
+        "heart",
+        "knock"
+      ]
+    },
+    {
+      "id": "henavek",
+      "name_en": "Henavek",
+      "name_ja": "ヘナヴェク語",
+      "aspects": [
+        "scale",
+        "forge"
+      ]
+    },
+    {
+      "id": "hyksos",
+      "name_en": "Hyksos",
+      "name_ja": "ヒクソス語",
+      "aspects": [
+        "grail",
+        "edge"
+      ]
+    },
+    {
+      "id": "killasimi",
+      "name_en": "Killasimi",
+      "name_ja": "キラシミ語",
+      "aspects": [
+        "moon"
+      ]
+    },
+    {
+      "id": "ramsund",
+      "name_en": "Ramsund",
+      "name_ja": "ラムスンド語",
+      "aspects": [
+        "moth",
+        "sky"
+      ]
+    },
+    {
+      "id": "sabazine",
+      "name_en": "Sabazine",
+      "name_ja": "サバジン語",
+      "aspects": [
+        "moth",
+        "lantern"
+      ]
+    },
+    {
+      "id": "vak",
+      "name_en": "Vak",
+      "name_ja": "ヴァク語",
+      "aspects": [
+        "knock",
+        "rose"
+      ]
+    }
+  ]
+}

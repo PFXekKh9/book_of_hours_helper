@@ -1,0 +1,507 @@
+{
+  "Disciplines of the Hammer": [
+    "Labhitic Tincture",
+    "Winning Move",
+    "Invincible Audacity",
+    "Bitterblack Salts",
+    "Wire (Orichalcum)",
+    "Azoth",
+    "Iotic Essence"
+  ],
+  "Edicts Martial": [
+    "Labhitic Tincture",
+    "Perinculate",
+    "Invincible Audacity",
+    "Old Wound",
+    "Wormwood Dream",
+    "Forbidden Epic"
+  ],
+  "Ragged Crossroads": [
+    "Labhitic Tincture",
+    "Winning Move",
+    "Bittersweet Certainty",
+    "Solomon’s Preparation",
+    "Year Tally"
+  ],
+  "Sickle & Eclipse": [
+    "Labhitic Tincture",
+    "Perinculate",
+    "Serpent-Milk",
+    "Catwink",
+    "Essential Periost",
+    "Wormwood Dream"
+  ],
+  "Auroral Contemplations": [
+    "Torgue's Cleansing",
+    "Winning Move",
+    "Invincible Audacity",
+    "Eigengrau",
+    "Xanthotic Essence",
+    "Porphyrine",
+    "Ichor Auroral"
+  ],
+  "Disciplines of the Scar": [
+    "Torgue's Cleansing",
+    "Perinculate",
+    "Serpent-Milk",
+    "Dearday Lens",
+    "Old Moment",
+    "Earthquake Name"
+  ],
+  "Meniscate Reflections": [
+    "Torgue's Cleansing",
+    "Winning Move",
+    "Serpent-Milk",
+    "Westcott's Compounds",
+    "Iotic Essence",
+    "Azoth"
+  ],
+  "Sharps": [
+    "Torgue's Cleansing",
+    "Winning Move",
+    "Serpent-Milk",
+    "Midnight Mark",
+    "Essential Periost"
+  ],
+  "Anbary & Lapidary": [
+    "Bitterblack Salts",
+    "Iotic Essence",
+    "Orpiment Exultant",
+    "Uzult",
+    "Awakened Feather",
+    "Xanthotic Essence",
+    "Ashartine"
+  ],
+  "Bells & Brazieries": [
+    "Bitterblack Salts",
+    "Wire (Orichalcum)",
+    "Azoth",
+    "Wistful Air",
+    "Ascendant Harmony",
+    "Didumos"
+  ],
+  "Door & Wall": [
+    "Bitterblack Salts",
+    "Wire (Orichalcum)",
+    "Azoth",
+    "Secret Threshold",
+    "Glassfinger Toxin",
+    "Sacrament Ascite"
+  ],
+  "Transformations & Liberations": [
+    "Bitterblack Salts",
+    "Iotic Essence",
+    "Orpiment Exultant",
+    "Refulgin",
+    "Xanthotic Essence",
+    "Chimeric Larva",
+    "Skinshuck Mead",
+    "Perilous Imago"
+  ],
+  "Pyroglyphics": [
+    "Westcott's Compounds",
+    "Iotic Essence",
+    "Azoth",
+    "Dearday Lens",
+    "Xanthotic Essence",
+    "Ashartine"
+  ],
+  "Spices & Savours": [
+    "Westcott's Compounds",
+    "Iotic Essence",
+    "Thirza's Cordials",
+    "Pyrus Auricalcinus",
+    "Sacrament Malachite"
+  ],
+  "Purifications & Exaltations": [
+    "Azoth",
+    "Refulgin",
+    "Xanthotic Essence",
+    "Torgue's Cleansing",
+    "Ascendant Harmony"
+  ],
+  "Inks of Power": [
+    "Orpiment Exultant",
+    "Yewgall Ink",
+    "Marakat",
+    "Salt-Sign",
+    "Ichor Auroral",
+    "Porphyrine",
+    "Perhibiate",
+    "Perinculate",
+    "Stargall Ink"
+  ],
+  "Desires & Dissolutions": [
+    "Witching Tisane",
+    "Rubywise Ruin",
+    "Flushed Mommet",
+    "Midnight Mark",
+    "Pyrus Auricalcinus",
+    "Black Sapphire Wash"
+  ],
+  "Leaves & Thorns": [
+    "Witching Tisane",
+    "Rubywise Ruin",
+    "Sacrament Calicite",
+    "Yewgall Ink",
+    "Pyrus Auricalcinus",
+    "Sacrament Malachite"
+  ],
+  "Orchids & Narcotics": [
+    "Witching Tisane",
+    "Rubywise Ruin",
+    "Sacrament Calicite",
+    "Thirza's Cordials",
+    "Leathy"
+  ],
+  "Sea Stories": [
+    "Witching Tisane",
+    "Pale Mommet",
+    "Sacrament Calicite",
+    "Salt-Sign",
+    "Asimel",
+    "Black Sapphire Wash"
+  ],
+  "The Great Signs and the Great Scars": [
+    "Witching Tisane",
+    "Pale Mommet",
+    "Flushed Mommet",
+    "Amethyst Ampoule",
+    "Curious Hunch",
+    "Chronsichord"
+  ],
+  "Applebright Euphonies": [
+    "Beguiling Melody",
+    "Rubywise Ruin",
+    "Sacrament Calicite",
+    "Confounding Parable",
+    "Ascendant Harmony",
+    "Didumos"
+  ],
+  "Pentiments & Precursors": [
+    "Beguiling Melody",
+    "Pale Mommet",
+    "Flushed Mommet",
+    "Bisclavret's Knot",
+    "Living Relic",
+    "Houndsgall"
+  ],
+  "Resurgences & Emergences": [
+    "Beguiling Melody",
+    "Pale Mommet",
+    "Flushed Mommet",
+    "Tanglebrag",
+    "Chimeric Larva",
+    "Skinshuck Mead",
+    "Perilous Imago"
+  ],
+  "Tridesma Hiera": [
+    "Beguiling Melody",
+    "Pale Mommet",
+    "Sacrament Calicite",
+    "Confounding Parable",
+    "Stymphling",
+    "Black Sapphire Wash",
+    "Marakat"
+  ],
+  "Furs & Feathers": [
+    "Flushed Mommet",
+    "Bisclavret's Knot",
+    "Living Relic",
+    "Awakened Feather",
+    "Ascendant Harmony",
+    "Wind-in-Waiting"
+  ],
+  "Stitching & Binding": [
+    "Perhibiate",
+    "Frith-Weft",
+    "Swaddled Thunder",
+    "Awakened Feather",
+    "Living Relic",
+    "Wyrd-Weft"
+  ],
+  "Weaving & Knotworking": [
+    "Perhibiate",
+    "Frith-Weft",
+    "Swaddled Thunder",
+    "Tanglebrag",
+    "Nameday Riddle",
+    "Wyrd-Weft"
+  ],
+  "Edicts Inviolable": [
+    "Regensburg Balm",
+    "Gideon's Soaks",
+    "January Sanguinary",
+    "Catwink",
+    "Solomon’s Preparation",
+    "Wormwood Dream"
+  ],
+  "Herbs & Infusions": [
+    "Regensburg Balm",
+    "Gideon's Soaks",
+    "January Sanguinary",
+    "Thirza's Cordials",
+    "Leathy",
+    "Sacrament Malachite"
+  ],
+  "Maggephene Mysteries": [
+    "Regensburg Balm",
+    "Gideon's Soaks",
+    "January Sanguinary",
+    "Eigengrau",
+    "Solomon’s Preparation"
+  ],
+  "Quenchings & Quellings": [
+    "Regensburg Balm",
+    "Gideon's Soaks",
+    "Swaddled Thunder",
+    "Eigengrau",
+    "Solomon’s Preparation"
+  ],
+  "Surgeries & Exsanguinations": [
+    "Regensburg Balm",
+    "Gideon's Soaks",
+    "January Sanguinary",
+    "Amethyst Ampoule",
+    "Glassfinger Toxin"
+  ],
+  "Drums & Dances": [
+    "Cheerful Ditty",
+    "Thunderskin's Paean",
+    "Savage Hymn",
+    "Hive's Lament",
+    "Sacrament Malachite"
+  ],
+  "Strings & Songs": [
+    "Cheerful Ditty",
+    "Thunderskin's Paean",
+    "Wistful Air",
+    "Ascendant Harmony",
+    "Wind-in-Waiting"
+  ],
+  "Glassblowing & Vesselcrafting": [
+    "Amethyst Ampoule",
+    "Wire (Orichalcum)",
+    "Chronsichord",
+    "Sacrament Ascite",
+    "Dearday Lens",
+    "Ichor Vitreous",
+    "Ashartine"
+  ],
+  "Lockworks & Clockworks": [
+    "Amethyst Ampoule",
+    "Gervinite",
+    "Chronsichord",
+    "Awakened Feather",
+    "Wire (Orichalcum)"
+  ],
+  "Solutions & Separations": [
+    "Amethyst Ampoule",
+    "Glassfinger Toxin",
+    "Sacrament Ascite",
+    "Westcott's Compounds",
+    "Nameday Riddle",
+    "Skinshuck Mead"
+  ],
+  "Edicts Liminal": [
+    "Secret Threshold",
+    "Glassfinger Toxin",
+    "Sacrament Ascite",
+    "Tanglebrag",
+    "Nameday Riddle",
+    "Skinshuck Mead"
+  ],
+  "Horns & Ivories": [
+    "Secret Threshold",
+    "Chimeric Larva",
+    "Sacrament Ascite",
+    "Bisclavret's Knot",
+    "Old Moment",
+    "Houndsgall"
+  ],
+  "Preliminal Meter": [
+    "Secret Threshold",
+    "Curious Hunch",
+    "Chronsichord",
+    "Confounding Parable",
+    "Enduring Reflection",
+    "Horizon-Sight"
+  ],
+  "Glaziery & Lightsmithing": [
+    "Chronsichord",
+    "Dearday Lens",
+    "Ichor Vitreous",
+    "Ashartine",
+    "Uzult",
+    "Gervinite"
+  ],
+  "Inks of Revelation": [
+    "Refulgin",
+    "Ichor Vitreous",
+    "Uzult",
+    "Paint: Moth-Gold",
+    "Asimel",
+    "Yewgall Ink",
+    "Porphyrine",
+    "Stargall Ink"
+  ],
+  "Sacra Solis Invicti": [
+    "Refulgin",
+    "Ichor Vitreous",
+    "Uzult",
+    "Confounding Parable",
+    "Mazarine Fife",
+    "Wind-in-Waiting"
+  ],
+  "Watchman's Paradoxes": [
+    "Tanglebrag",
+    "Ichor Vitreous",
+    "Ashartine",
+    "Uzult",
+    "Wistful Air",
+    "Ichor Auroral"
+  ],
+  "Inks of Containment": [
+    "Catwink",
+    "Leathy",
+    "Yewgall Ink",
+    "Houndsgall",
+    "Stargall Ink",
+    "Eigengrau",
+    "Solomon’s Preparation",
+    "Nillycant"
+  ],
+  "Putrefactions & Calcinations": [
+    "Catwink",
+    "Asimel",
+    "Black Sapphire Wash",
+    "Yewgall Ink",
+    "Perinculate",
+    "Year Tally"
+  ],
+  "Sand Stories": [
+    "Catwink",
+    "Stymphling",
+    "Salt-Sign",
+    "Ichor Auroral",
+    "Porphyrine",
+    "Horizon-Sight"
+  ],
+  "Pearl & Tide": [
+    "Eigengrau",
+    "Asimel",
+    "Black Sapphire Wash",
+    "Salt-Sign",
+    "Enduring Reflection"
+  ],
+  "Insects & Nectars": [
+    "Midnight Mark",
+    "Chimeric Larva",
+    "Skinshuck Mead",
+    "Perilous Imago",
+    "Yewgall Ink",
+    "Leathy",
+    "Marakat"
+  ],
+  "Rhyme & Remembrance": [
+    "Midnight Mark",
+    "Stymphling",
+    "Wormwood Dream",
+    "Bittersweet Certainty",
+    "Essential Periost",
+    "Year Tally"
+  ],
+  "Serpents & Venoms": [
+    "Midnight Mark",
+    "Stymphling",
+    "Sacrament Ascite",
+    "Bisclavret's Knot",
+    "Glassfinger Toxin",
+    "Serpent-Milk"
+  ],
+  "Snow Stories": [
+    "Midnight Mark",
+    "Stymphling",
+    "Wormwood Dream",
+    "Bittersweet Certainty",
+    "Essential Periost",
+    "Year Tally"
+  ],
+  "Wolf Stories": [
+    "Midnight Mark",
+    "Essential Periost",
+    "Wormwood Dream",
+    "Bisclavret's Knot",
+    "Old Moment",
+    "Earthquake Name"
+  ],
+  "Hill & Hollow": [
+    "Salt-Sign",
+    "Chimeric Larva",
+    "Bisclavret's Knot",
+    "Living Relic",
+    "Earthquake Name"
+  ],
+  "Ouranoscopy": [
+    "Bittersweet Certainty",
+    "Didumos",
+    "Wistful Air",
+    "Mazarine Fife",
+    "Year-Tally"
+  ],
+  "Rites of the Roots": [
+    "Tanglebrag",
+    "Nameday Riddle",
+    "Skinshuck Mead",
+    "Yewgall Ink",
+    "Leathy",
+    "Sacrament Malachite"
+  ],
+  "Sacra Limiae": [
+    "Westcott's Compounds",
+    "Nameday Riddle",
+    "Skinshuck Mead",
+    "Awakened Feather",
+    "Mazarine Fife",
+    "Didumos"
+  ],
+  "Coil & Chasm": [
+    "Thirza's Cordials",
+    "Pyrus Auricalcinus",
+    "Sacrament Malachite",
+    "Bisclavret's Knot",
+    "Old Moment",
+    "Earthquake Name"
+  ],
+  "Stone Stories": [
+    "Thirza's Cordials",
+    "Essential Periost",
+    "Savage Hymn",
+    "Living Relic",
+    "Earthquake Name"
+  ],
+  "Path & Pilgrim": [
+    "Salt-Sign",
+    "Enduring Reflection",
+    "Horizon-Sight",
+    "Bisclavret's Knot",
+    "Old Moment",
+    "Houndsgall"
+  ],
+  "Sky Stories": [
+    "Confounding Parable",
+    "Enduring Reflection",
+    "Horizon-Sight",
+    "Wistful Air",
+    "Ascendant Harmony",
+    "Wind-in-Waiting"
+  ],
+  "Sights & Sensations": [
+    "Awakened Feather",
+    "Ichor Auroral",
+    "Didumos",
+    "Eigengrau",
+    "Solomon’s Preparation",
+    "Nillycant"
+  ]
+}

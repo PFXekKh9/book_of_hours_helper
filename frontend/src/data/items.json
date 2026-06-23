@@ -1,0 +1,3375 @@
+{
+  "assistants": [
+    {
+      "id": "elegiac_poet",
+      "name_ja": "詩人",
+      "name_en": "Elegiac Poet",
+      "category": "assistant",
+      "aspects": {
+        "moth": 4,
+        "winter": 4,
+        "sky": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "travelling_musician",
+      "name_ja": "旅の音楽家",
+      "name_en": "Travelling Musician",
+      "category": "assistant",
+      "aspects": {
+        "sky": 4,
+        "rose": 4,
+        "nectar": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "surrealist_painter",
+      "name_ja": "画家",
+      "name_en": "Surrealist Painter",
+      "category": "assistant",
+      "aspects": {
+        "grail": 4,
+        "moth": 4,
+        "rose": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "fugitive",
+      "name_ja": "逃亡者",
+      "name_en": "Fugitive",
+      "category": "assistant",
+      "aspects": {
+        "edge": 4,
+        "scale": 4,
+        "heart": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "consulting_engineer",
+      "name_ja": "技師",
+      "name_en": "Consulting Engineer",
+      "category": "assistant",
+      "aspects": {
+        "forge": 4,
+        "sky": 4,
+        "lantern": 4
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    }
+  ],
+  "items": [
+    {
+      "id": "health",
+      "name_ja": "健康",
+      "name_en": "Health",
+      "category": "soul",
+      "aspects": {
+        "heart": 1,
+        "nectar": 1,
+        "scale": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "chor",
+      "name_ja": "コール",
+      "name_en": "Chor",
+      "category": "soul",
+      "aspects": {
+        "heart": 2,
+        "grail": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "ereb",
+      "name_ja": "エレブ",
+      "name_en": "Ereb",
+      "category": "soul",
+      "aspects": {
+        "grail": 2,
+        "edge": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "fet",
+      "name_ja": "フェット",
+      "name_en": "Fet",
+      "category": "soul",
+      "aspects": {
+        "rose": 2,
+        "moth": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "mettle",
+      "name_ja": "メトル",
+      "name_en": "Mettle",
+      "category": "soul",
+      "aspects": {
+        "forge": 2,
+        "edge": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "phost",
+      "name_ja": "光明",
+      "name_en": "Phost",
+      "category": "soul",
+      "aspects": {
+        "lantern": 2,
+        "sky": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "shapt",
+      "name_ja": "シャプト",
+      "name_en": "Shapt",
+      "category": "soul",
+      "aspects": {
+        "knock": 2,
+        "forge": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "trist",
+      "name_ja": "トリスト",
+      "name_en": "Trist",
+      "category": "soul",
+      "aspects": {
+        "moth": 2,
+        "moon": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "wist",
+      "name_ja": "ウィスト",
+      "name_en": "Wist",
+      "category": "soul",
+      "aspects": {
+        "winter": 2,
+        "lantern": 1
+      },
+      "consumed": false,
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "pyrus_auricalcinus",
+      "name_ja": "銅梨",
+      "name_en": "Pyrus Auricalcinus",
+      "category": "food",
+      "aspects": {
+        "forge": 404,
+        "nectar": 4
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance"
+    },
+    {
+      "id": "cuckoo_honey",
+      "name_ja": "カッコウ蜂蜜",
+      "name_en": "Cuckoo-Honey",
+      "category": "food",
+      "aspects": {
+        "moth": 302,
+        "nectar": 203,
+        "scale": 3,
+        "edge": 201,
+        "heart": 101,
+        "knock": 103
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance"
+    },
+    {
+      "id": "rosehip_jam",
+      "name_ja": "ローズヒップジャム",
+      "name_en": "Rosehip Jam",
+      "category": "food",
+      "aspects": {
+        "rose": 2,
+        "heart": 101,
+        "nectar": 102
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance"
+    },
+    {
+      "id": "outsized_egg",
+      "name_ja": "特大卵",
+      "name_en": "Outsized Egg",
+      "category": "food",
+      "aspects": {
+        "scale": 3
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance"
+    },
+    {
+      "id": "leathy",
+      "name_ja": "レアシー",
+      "name_en": "Leathy",
+      "category": "drink",
+      "aspects": {
+        "grail": 2,
+        "moth": 4,
+        "nectar": 2,
+        "scale": 2
+      },
+      "consumed": true,
+      "notes": "月10または蜜10＋飲み物で作れる",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "skinshuck_mead",
+      "name_ja": "皮脱ぎ蜂蜜酒",
+      "name_en": "Skinshuck Mead",
+      "category": "drink",
+      "aspects": {
+        "moth": 6
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "solomons_preparation",
+      "name_ja": "ソロモンの調合液",
+      "name_en": "Solomon's Preparation",
+      "category": "drink",
+      "aspects": {
+        "winter": 4
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "dandelion_wine",
+      "name_ja": "ダンデライオンワイン",
+      "name_en": "Dandelion Wine",
+      "category": "drink",
+      "aspects": {
+        "nectar": 2
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "black_dove_wine",
+      "name_ja": "黒鳩ワイン",
+      "name_en": "Black Dove Wine",
+      "category": "drink",
+      "aspects": {
+        "nectar": 4
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "bronze_knife",
+      "name_ja": "青銅のナイフ",
+      "name_en": "Bronze Knife",
+      "category": "tool",
+      "aspects": {
+        "edge": 0,
+        "nectar": 0,
+        "grail": 0
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools"
+    },
+    {
+      "id": "lunar_globe",
+      "name_ja": "月球儀",
+      "name_en": "Lunar Globe",
+      "category": "tool",
+      "aspects": {
+        "moon": 0,
+        "rose": 1
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools"
+    },
+    {
+      "id": "serpent_styled_glass",
+      "name_ja": "蛇飾りのガラス",
+      "name_en": "Serpent-Styled Glass",
+      "category": "tool",
+      "aspects": {
+        "scale": 1,
+        "lantern": 1
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "shears",
+      "name_ja": "鋏",
+      "name_en": "Shears",
+      "category": "tool",
+      "aspects": {
+        "moth": 1
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "snootle_jar",
+      "name_ja": "スヌートル瓶",
+      "name_en": "Snootle Jar",
+      "category": "tool",
+      "aspects": {
+        "moth": 1,
+        "lantern": 0
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools"
+    },
+    {
+      "id": "chronsichord",
+      "name_ja": "クロンズコード",
+      "name_en": "Chronsichord",
+      "category": "tool",
+      "aspects": {
+        "knock": 0,
+        "forge": 0,
+        "sky": 0,
+        "winter": 3
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": [],
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools"
+    },
+    {
+      "id": "moth_orchid",
+      "name_ja": "蛾蘭",
+      "name_en": "Moth Orchid",
+      "category": "special",
+      "aspects": {
+        "moth": 1
+      },
+      "consumed": false,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "paint_red",
+      "name_ja": "赤い絵具",
+      "name_en": "Paint: Red",
+      "category": "special",
+      "aspects": {
+        "rose": 1
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "paint_green",
+      "name_ja": "緑の絵具",
+      "name_en": "Paint: Green",
+      "category": "special",
+      "aspects": {
+        "nectar": 1
+      },
+      "consumed": true,
+      "notes": "",
+      "how_to_get": [],
+      "locations": [],
+      "recipe": null,
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "scent",
+      "name_ja": "匂い",
+      "name_en": "Scent",
+      "category": "memory",
+      "aspects": {
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "consider"
+      ],
+      "how_to_get": [
+        "楽園椰子 / Paradise Palm などを熟考",
+        "Consider Paradise Palm in Grand Ascent - Ground Floor"
+      ],
+      "notes": "蜜1。蜜の枠埋め用",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "sight",
+      "name_ja": "視覚",
+      "name_en": "Sight",
+      "category": "memory",
+      "aspects": {
+        "lantern": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "consider"
+      ],
+      "how_to_get": [
+        "Consider any Wall Art",
+        "壁画・絵・ステンドグラスなどの Wall Art を熟考"
+      ],
+      "notes": "灯1。灯の一番簡単な記憶",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "taste",
+      "name_ja": "味",
+      "name_en": "Taste",
+      "category": "memory",
+      "aspects": {
+        "grail": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "consume"
+      ],
+      "how_to_get": [
+        "Consume most food/drink",
+        "多くの食べ物・飲み物を消費"
+      ],
+      "notes": "聖杯1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "touch",
+      "name_ja": "触感",
+      "name_en": "Touch",
+      "category": "memory",
+      "aspects": {
+        "forge": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "consider"
+      ],
+      "how_to_get": [
+        "Consider most Comforts",
+        "Comforts / 快適品を熟考"
+      ],
+      "notes": "炉1。炉の簡単な記憶",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "sound",
+      "name_ja": "音",
+      "name_en": "Sound",
+      "category": "memory",
+      "aspects": {
+        "heart": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "well",
+        "easy",
+        "consider"
+      ],
+      "how_to_get": [
+        "Consider Hush House Key, throw something in the Hush House Well",
+        "ハッシュ館の鍵を熟考",
+        "井戸に何かを投げる"
+      ],
+      "notes": "心1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "loss",
+      "name_ja": "喪失",
+      "name_en": "Loss",
+      "category": "memory",
+      "aspects": {
+        "edge": 1,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "discard",
+        "sea"
+      ],
+      "how_to_get": [
+        "搬入口のクレーンで物を捨てる",
+        "海辺 / Sea's Edge で物を捨てる",
+        "Discard anything at Sea's Edge"
+      ],
+      "notes": "刃1・冬1。処分ついでに便利",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "salt",
+      "name_ja": "塩",
+      "name_en": "Salt",
+      "category": "memory",
+      "aspects": {
+        "knock": 1,
+        "moon": 1,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "sea"
+      ],
+      "how_to_get": [
+        "Swim at Sea's Edge",
+        "海辺 / Sea's Edge で泳ぐ"
+      ],
+      "notes": "開門・月・冬を同時に持つ便利枠",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "pattern",
+      "name_ja": "型",
+      "name_en": "Pattern",
+      "category": "memory",
+      "aspects": {
+        "knock": 2,
+        "forge": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "特定の開門系の本を再読",
+        "Re-read certain 00Knock Books"
+      ],
+      "notes": "開門2・炉1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "contradiction",
+      "name_ja": "矛盾",
+      "name_en": "Contradiction",
+      "category": "memory",
+      "aspects": {
+        "edge": 2,
+        "moon": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "consider"
+      ],
+      "how_to_get": [
+        "練習武器系を熟考",
+        "Re-read certain 00Edge Books",
+        "特定の刃系の本を再読"
+      ],
+      "notes": "刃2。刃スキル強化で便利",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "solace",
+      "name_ja": "慰め",
+      "name_en": "Solace",
+      "category": "memory",
+      "aspects": {
+        "heart": 2,
+        "sky": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "sea"
+      ],
+      "how_to_get": [
+        "Swim with Basket of Towels at Sea's Edge",
+        "対応本を再読",
+        "海辺で泳ぎ、タオルのかごで乾かす"
+      ],
+      "notes": "心2・空1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "impulse",
+      "name_ja": "衝動",
+      "name_en": "Impulse",
+      "category": "memory",
+      "aspects": {
+        "moth": 2,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "easy",
+        "sea"
+      ],
+      "how_to_get": [
+        "海辺 / Sea's Edge で1ペニーを捨てる",
+        "Discard a Penny at Sea's Edge"
+      ],
+      "notes": "蛾2・蜜1。かなり使いやすい",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "satisfaction",
+      "name_ja": "満足",
+      "name_en": "Satisfaction",
+      "category": "memory",
+      "aspects": {
+        "grail": 2,
+        "heart": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "well",
+        "easy"
+      ],
+      "how_to_get": [
+        "Discard a Penny at the Well",
+        "井戸 / Well に1ペニーを捨てる"
+      ],
+      "notes": "聖杯2・心1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "foresight",
+      "name_ja": "先見",
+      "name_en": "Foresight",
+      "category": "memory",
+      "aspects": {
+        "forge": 2,
+        "lantern": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "consume"
+      ],
+      "how_to_get": [
+        "見張る蝋燭 / Watchful Candle を消費",
+        "苦黒塩 / Bitterblack Salts を消費",
+        "Consume Bitterblack Salts or Watchful Candle"
+      ],
+      "notes": "炉2・灯1。消費注意",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "sunny",
+      "name_ja": "晴れ",
+      "name_en": "Sunny",
+      "category": "memory",
+      "aspects": {
+        "lantern": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "灯2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "clouds",
+      "name_ja": "雲",
+      "name_en": "Clouds",
+      "category": "memory",
+      "aspects": {
+        "moon": 1,
+        "moth": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "月1・蛾1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "rain",
+      "name_ja": "雨",
+      "name_en": "Rain",
+      "category": "memory",
+      "aspects": {
+        "grail": 2,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "聖杯2・蜜2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "gale",
+      "name_ja": "疾風",
+      "name_en": "Gale",
+      "category": "memory",
+      "aspects": {
+        "heart": 3,
+        "sky": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "心3・空3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "fog",
+      "name_ja": "霧",
+      "name_en": "Fog",
+      "category": "memory",
+      "aspects": {
+        "knock": 3,
+        "moon": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "開門3・月3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "hail",
+      "name_ja": "雹",
+      "name_en": "Hail",
+      "category": "memory",
+      "aspects": {
+        "edge": 3,
+        "sky": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "刃3・空3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "storm",
+      "name_ja": "嵐",
+      "name_en": "Storm",
+      "category": "memory",
+      "aspects": {
+        "heart": 4,
+        "sky": 4
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather",
+        "consume"
+      ],
+      "how_to_get": [
+        "天気",
+        "包まれた雷 / Swaddled Thunder を熟考して消費"
+      ],
+      "notes": "心4・空4。天気版はかなり強い",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "snow",
+      "name_ja": "雪",
+      "name_en": "Snow",
+      "category": "memory",
+      "aspects": {
+        "winter": 3,
+        "sky": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather"
+      ],
+      "how_to_get": [
+        "天気"
+      ],
+      "notes": "冬3・空3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "nume_brume",
+      "name_ja": "ヌマの霧",
+      "name_en": "Nume-Brume",
+      "category": "memory",
+      "aspects": {
+        "knock": 5,
+        "rose": 5,
+        "moon": 5,
+        "winter": 5
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "weather",
+        "numa"
+      ],
+      "how_to_get": [
+        "ヌマの日の天気"
+      ],
+      "notes": "ヌマ限定。開門・薔薇・月・冬が強い",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null
+    },
+    {
+      "id": "beguiling_melody",
+      "name_ja": "魅惑の旋律",
+      "name_en": "Beguiling Melody",
+      "category": "memory",
+      "aspects": {
+        "grail": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": "grail",
+        "level": 5
+      },
+      "how_to_get": [
+        "聖杯5クラフト",
+        "対応本を再読",
+        "Crafting: Prentice 00Grail"
+      ],
+      "notes": "聖杯2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "bittersweet_certainty",
+      "name_ja": "ほろ苦い確信",
+      "name_en": "Bittersweet Certainty",
+      "category": "memory",
+      "aspects": {
+        "lantern": 1,
+        "winter": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "winter",
+          "moon"
+        ],
+        "level": 5
+      },
+      "how_to_get": [
+        "対応本を再読",
+        "冬5または月5クラフト",
+        "Crafting: Prentice 00Winter/00Moon"
+      ],
+      "notes": "冬2・灯1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "cheerful_ditty",
+      "name_ja": "陽気な小唄",
+      "name_en": "Cheerful Ditty",
+      "category": "memory",
+      "aspects": {
+        "heart": 2,
+        "sky": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": "heart",
+        "level": 5
+      },
+      "how_to_get": [
+        "心5クラフト",
+        "対応本を再読",
+        "Crafting: Prentice 00Heart"
+      ],
+      "notes": "心2・空1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "savage_hymn",
+      "name_ja": "野蛮な讃歌",
+      "name_en": "Savage Hymn",
+      "category": "memory",
+      "aspects": {
+        "scale": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "nectar",
+          "scale"
+        ],
+        "level": 5
+      },
+      "how_to_get": [
+        "Crafting: Prentice 00Nectar/00Scale",
+        "蜜5または鱗5クラフト",
+        "対応本を再読"
+      ],
+      "notes": "鱗2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "wistful_air",
+      "name_ja": "物憂げな調べ",
+      "name_en": "Wistful Air",
+      "category": "memory",
+      "aspects": {
+        "rose": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "sky",
+        "level": 5
+      },
+      "how_to_get": [
+        "Crafting: Prentice 00Sky",
+        "空5クラフト"
+      ],
+      "notes": "薔薇2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "torgues_cleansing",
+      "name_ja": "トーグの浄化",
+      "name_en": "Torgue's Cleansing",
+      "category": "memory",
+      "aspects": {
+        "edge": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "edge",
+          "sky"
+        ],
+        "level": 5
+      },
+      "how_to_get": [
+        "Crafting: Prentice 00Edge/00Sky",
+        "刃5または空5クラフト"
+      ],
+      "notes": "刃2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "secret_threshold",
+      "name_ja": "秘密の敷居",
+      "name_en": "Secret Threshold",
+      "category": "memory",
+      "aspects": {
+        "knock": 2,
+        "rose": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "knock",
+        "level": 5
+      },
+      "how_to_get": [
+        "開門5クラフト",
+        "Crafting: Prentice 00Knock"
+      ],
+      "notes": "開門2・薔薇1",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "confounding_parable",
+      "name_ja": "混乱寓話",
+      "name_en": "Confounding Parable",
+      "category": "memory",
+      "aspects": {
+        "moon": 2,
+        "rose": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "reread",
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "moon",
+          "rose",
+          "sky"
+        ],
+        "level": 5
+      },
+      "how_to_get": [
+        "Crafting: Prentice 00Moon/00Rose/00Sky",
+        "対応本を再読",
+        "月5・薔薇5・空5クラフト"
+      ],
+      "notes": "月2・薔薇2・空2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "nameday_riddle",
+      "name_ja": "名づけ日の謎",
+      "name_en": "Nameday Riddle",
+      "category": "memory",
+      "aspects": {
+        "moth": 3,
+        "knock": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "moth",
+        "level": 10
+      },
+      "how_to_get": [
+        "蛾10クラフト",
+        "Crafting: Scholar 00Moth"
+      ],
+      "notes": "蛾3・開門2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "winning_move",
+      "name_ja": "勝利の一手",
+      "name_en": "Winning Move",
+      "category": "memory",
+      "aspects": {
+        "edge": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "edge",
+        "level": 10
+      },
+      "how_to_get": [
+        "刃10クラフト",
+        "Scholar 00Edge",
+        "Crafting: Scholar 00Edge"
+      ],
+      "notes": "刃3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "old_moment",
+      "name_ja": "古き瞬間",
+      "name_en": "Old Moment",
+      "category": "memory",
+      "aspects": {
+        "lantern": 2,
+        "moth": 2,
+        "scale": 4
+      },
+      "consumed": true,
+      "persistent": false,
+      "obtain_type": [
+        "special",
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "lantern",
+          "scale"
+        ],
+        "level": 10
+      },
+      "how_to_get": [
+        "カッコウ蜂蜜を消費",
+        "Crafting: Scholar 00Lantern/00Scale, consume cuckoo-honey, talk to living relic",
+        "灯10または鱗10クラフト",
+        "生ける遺物と話す",
+        "Scholar 00Lantern/00Scale"
+      ],
+      "notes": "鱗4・灯2・蛾2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "horizon_sight",
+      "name_ja": "方位視",
+      "name_en": "Horizon-Sight",
+      "category": "memory",
+      "aspects": {
+        "rose": 4
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "special",
+        "numa",
+        "craft"
+      ],
+      "craft": {
+        "principle": "rose",
+        "level": 15
+      },
+      "how_to_get": [
+        "スティンフリングと話す",
+        "ヌマ期に海辺で1ペニーを捨てる",
+        "Crafting: Keeper 00Rose",
+        "薔薇15クラフト",
+        "Keeper 00Rose, Considering Gervinite, Talking to Stymphling, Gathering from the Gull Colony in Numa",
+        "Talk to StymphlingDiscard a penny at Sea's Edge in Numa"
+      ],
+      "notes": "薔薇4。薔薇14突破で重要",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "wind_in_waiting",
+      "name_ja": "待ち風",
+      "name_en": "Wind-in-Waiting",
+      "category": "memory",
+      "aspects": {
+        "grail": 3,
+        "moth": 3,
+        "scale": 3,
+        "sky": 6
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "sky",
+        "level": 15
+      },
+      "how_to_get": [
+        "空15クラフト",
+        "Crafting: Keeper 00Sky",
+        "Keeper 00Sky"
+      ],
+      "notes": "空6・蛾3・聖杯3・鱗3。支援者突破の超強力枠",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "earth_sign",
+      "name_ja": "大地の徴",
+      "name_en": "Earth-Sign",
+      "category": "memory",
+      "aspects": {
+        "nectar": 2,
+        "scale": 2
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "reread",
+        "conversation"
+      ],
+      "how_to_get": [
+        "Reading, Talking to Viper",
+        "毒蛇 / Viper と話す",
+        "Rapt in the King を読む",
+        "Talk to Viper\nRead De Ratio Quercuum or Rapt in the King",
+        "De Ratio Quercuum を読む"
+      ],
+      "notes": "蜜2・鱗2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "occult_scrap",
+      "name_ja": "オカルトの切れ端",
+      "name_en": "Occult Scrap",
+      "category": "memory",
+      "aspects": {
+        "knock": 2,
+        "moth": 2,
+        "rose": 2
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "consider"
+      ],
+      "how_to_get": [
+        "Consider Yellowing Newspaper",
+        "黄ばんだ新聞 / Yellowing Newspaper を熟考",
+        "Considering Yellowing Newspaper"
+      ],
+      "notes": "開門2・蛾2・薔薇2",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "invincible_audacity",
+      "name_ja": "無敵の大胆さ",
+      "name_en": "Invincible Audacity",
+      "category": "memory",
+      "aspects": {
+        "edge": 6,
+        "lantern": 3,
+        "forge": 3
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": "edge",
+        "level": 15
+      },
+      "how_to_get": [
+        "Crafting: Keeper 00Edge",
+        "刃15クラフト",
+        "Keeper 00Edge"
+      ],
+      "notes": "刃6・灯3・炉3。強いが重い",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "earthquake_name",
+      "name_ja": "地震の名",
+      "name_en": "Earthquake Name",
+      "category": "memory",
+      "aspects": {
+        "scale": 6,
+        "forge": 3
+      },
+      "consumed": true,
+      "persistent": true,
+      "obtain_type": [
+        "craft"
+      ],
+      "craft": {
+        "principle": [
+          "lantern",
+          "scale"
+        ],
+        "level": 15
+      },
+      "how_to_get": [
+        "灯15または鱗15クラフト",
+        "Keeper 00Lantern/00Scale",
+        "Crafting: Keeper 00Lantern/00Scale"
+      ],
+      "notes": "鱗6・炉3",
+      "tags": [],
+      "rarity": "common",
+      "locations": [],
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory"
+    },
+    {
+      "id": "thunderskins_paean",
+      "name_ja": "Thunderskin's Paean",
+      "name_en": "Thunderskin's Paean",
+      "category": "memory",
+      "aspects": {
+        "grail": 1,
+        "scale": 1,
+        "heart": 4
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Scholar 00Heart",
+        "Crafting: Scholar 00Heart"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "heart",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "a_stolen_secret",
+      "name_ja": "A Stolen Secret",
+      "name_en": "A Stolen Secret",
+      "category": "memory",
+      "aspects": {
+        "moon": 2,
+        "knock": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Consume Moth-Orchid-Scented Candle"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "fear",
+      "name_ja": "Fear",
+      "name_en": "Fear",
+      "category": "memory",
+      "aspects": {
+        "scale": 2,
+        "edge": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Consider Nighted Chair, gather from sea caves"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "gossip",
+      "name_ja": "Gossip",
+      "name_en": "Gossip",
+      "category": "memory",
+      "aspects": {
+        "rose": 2,
+        "grail": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Talk with Green Cockatoo"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "hindsight",
+      "name_ja": "Hindsight",
+      "name_en": "Hindsight",
+      "category": "memory",
+      "aspects": {
+        "winter": 2,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Talk with The Blacksmith (21%) or The Rector (17%)"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "intuition",
+      "name_ja": "Intuition",
+      "name_en": "Intuition",
+      "category": "memory",
+      "aspects": {
+        "moon": 2,
+        "rose": 2
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Consume Ichor Auroral"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "regret",
+      "name_ja": "Regret",
+      "name_en": "Regret",
+      "category": "memory",
+      "aspects": {
+        "winter": 2,
+        "forge": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Consume unpleasant food, talk with The Midwife (17%), harvest from beehive in fall"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "revelation",
+      "name_ja": "Revelation",
+      "name_en": "Revelation",
+      "category": "memory",
+      "aspects": {
+        "lantern": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Consume Refulgin"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "storm1",
+      "name_ja": "Storm1",
+      "name_en": "Storm1",
+      "category": "memory",
+      "aspects": {
+        "heart": 2,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Talk with Seasonal/Unusual assistants (6%)"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "wild_surmise",
+      "name_ja": "Wild Surmise",
+      "name_en": "Wild Surmise",
+      "category": "memory",
+      "aspects": {
+        "lantern": 3,
+        "moth": 3,
+        "sky": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Consume a Historywax Candle",
+        "Consider a Historywax Candle"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "wind_rumour",
+      "name_ja": "Wind-Rumour",
+      "name_en": "Wind-Rumour",
+      "category": "memory",
+      "aspects": {
+        "heart": 1,
+        "sky": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [
+        "Talk to a Pet Gull",
+        "Talking to a Gull, Gathering during Numa"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "old_wound",
+      "name_ja": "Old Wound",
+      "name_en": "Old Wound",
+      "category": "memory",
+      "aspects": {
+        "edge": 1,
+        "moon": 2,
+        "winter": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Crafting: Prentice 00Moon"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "moon",
+        "level": 5
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "enduring_reflection",
+      "name_ja": "Enduring Reflection",
+      "name_en": "Enduring Reflection",
+      "category": "memory",
+      "aspects": {
+        "rose": 3,
+        "knock": 1,
+        "heart": 1
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Gather at The Sea-Caves during Numa (25%)",
+        "Scholar 00Rose, Gathering in Numa",
+        "Crafting: Scholar 00Rose"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "rose",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "ascendant_harmony",
+      "name_ja": "Ascendant Harmony",
+      "name_en": "Ascendant Harmony",
+      "category": "memory",
+      "aspects": {
+        "lantern": 2,
+        "sky": 4
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Crafting: Scholar 00Sky",
+        "Scholar 00Sky"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "sky",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "hives_lament",
+      "name_ja": "Hive's Lament",
+      "name_en": "Hive's Lament",
+      "category": "memory",
+      "aspects": {
+        "moth": 2,
+        "nectar": 4
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Talk to Perilous ImagoGather from the Beehive",
+        "Crafting: Scholar 00Nectar",
+        "Scholar 00Nectar, Talking to Perilous Imago, Gathering from the Beehive"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "nectar",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "curious_hunch",
+      "name_ja": "Curious Hunch",
+      "name_en": "Curious Hunch",
+      "category": "memory",
+      "aspects": {
+        "heart": 3,
+        "knock": 4,
+        "lantern": 3,
+        "moth": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Scholar 00Knock, Swimming in Numa",
+        "Crafting: Scholar 00Knock",
+        "Swim at Sea's Edge"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "knock",
+        "level": 10
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "wormwood_dream",
+      "name_ja": "Wormwood Dream",
+      "name_en": "Wormwood Dream",
+      "category": "memory",
+      "aspects": {
+        "edge": 3,
+        "moon": 6,
+        "winter": 6
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Crafting: Scholar/Keeper 00Moon",
+        "Scholar/Keeper 00Moon"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "moon",
+        "level": 15
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "didumos",
+      "name_ja": "Didumos",
+      "name_en": "Didumos",
+      "category": "memory",
+      "aspects": {
+        "sky": 6,
+        "knock": 3,
+        "lantern": 3,
+        "winter": 3
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Crafting: Keeper 00Sky",
+        "Keeper 00Sky"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "sky",
+        "level": 15
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "forbidden_epic",
+      "name_ja": "Forbidden Epic",
+      "name_en": "Forbidden Epic",
+      "category": "memory",
+      "aspects": {
+        "edge": 6,
+        "moon": 4,
+        "rose": 4
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "craft"
+      ],
+      "how_to_get": [
+        "Keeper 00Moon",
+        "Crafting: Keeper 00Moon"
+      ],
+      "locations": [],
+      "craft": {
+        "principle": "moon",
+        "level": 15
+      },
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_a_final_understanding",
+      "name_ja": "Numen: a Final Understanding",
+      "name_en": "Numen: a Final Understanding",
+      "category": "memory",
+      "aspects": {
+        "rose": 5,
+        "sky": 5,
+        "winter": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "Towards a Fundamental Aesthetic: Second Edition"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_inescapable_confinement",
+      "name_ja": "Numen: Inescapable Confinement",
+      "name_en": "Numen: Inescapable Confinement",
+      "category": "memory",
+      "aspects": {
+        "knock": 5,
+        "scale": 5,
+        "winter": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "Towards a Fundamental Aesthetic"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_back_into_balance",
+      "name_ja": "Numen: Back Into Balance",
+      "name_en": "Numen: Back Into Balance",
+      "category": "memory",
+      "aspects": {
+        "heart": 5,
+        "sky": 5,
+        "winter": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "The Sky in the Scar"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_weaving_the_world",
+      "name_ja": "Numen: Weaving the World",
+      "name_en": "Numen: Weaving the World",
+      "category": "memory",
+      "aspects": {
+        "heart": 5,
+        "moon": 5,
+        "nectar": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "Kopralith Omphalos"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_the_suns_weakness",
+      "name_ja": "Numen: the Sun's Weakness",
+      "name_en": "Numen: the Sun's Weakness",
+      "category": "memory",
+      "aspects": {
+        "grail": 5,
+        "lantern": 5,
+        "moth": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "The Sun Disfigured"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_the_bells_of_ys",
+      "name_ja": "Numen: the Bells of Ys",
+      "name_en": "Numen: the Bells of Ys",
+      "category": "memory",
+      "aspects": {
+        "edge": 5,
+        "forge": 5,
+        "rose": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "Amiranis Beteli"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_merciless_alteration",
+      "name_ja": "Numen: Merciless Alteration",
+      "name_en": "Numen: Merciless Alteration",
+      "category": "memory",
+      "aspects": {
+        "edge": 5,
+        "forge": 5,
+        "grail": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "A Child's Treasury of Golden Afternoons"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_the_great_counterfeit",
+      "name_ja": "Numen: the Great Counterfeit",
+      "name_en": "Numen: the Great Counterfeit",
+      "category": "memory",
+      "aspects": {
+        "lantern": 5,
+        "moon": 5,
+        "nectar": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "Shuritic Book of Suns"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_that_old_lost_music",
+      "name_ja": "Numen: That Old Lost Music",
+      "name_en": "Numen: That Old Lost Music",
+      "category": "memory",
+      "aspects": {
+        "sky": 5,
+        "rose": 5,
+        "scale": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "The Turquoise Hand"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_loopholes",
+      "name_ja": "Numen: Loopholes",
+      "name_en": "Numen: Loopholes",
+      "category": "memory",
+      "aspects": {
+        "knock": 5,
+        "moon": 5,
+        "moth": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "Serpent-Root"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_the_paths_of_the_sun",
+      "name_ja": "Numen: the Paths of the Sun",
+      "name_en": "Numen: the Paths of the Sun",
+      "category": "memory",
+      "aspects": {
+        "forge": 5,
+        "lantern": 5,
+        "knock": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "The Sun's Design"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_three_rules",
+      "name_ja": "Numen: Three Rules",
+      "name_en": "Numen: Three Rules",
+      "category": "memory",
+      "aspects": {
+        "heart": 5,
+        "moth": 5,
+        "scale": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "The Three and the Three (St Chiavi Manuscript)"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "numen:_an_irresistible_feast",
+      "name_ja": "Numen: an Irresistible Feast",
+      "name_en": "Numen: an Irresistible Feast",
+      "category": "memory",
+      "aspects": {
+        "edge": 5,
+        "grail": 5,
+        "nectar": 5
+      },
+      "consumed": true,
+      "persistent": true,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [
+        "reread"
+      ],
+      "how_to_get": [
+        "The Writing on the Wall"
+      ],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Memory",
+      "notes": ""
+    },
+    {
+      "id": "blackberry_jam",
+      "name_ja": "Blackberry Jam",
+      "name_en": "Blackberry Jam",
+      "category": "food",
+      "aspects": {
+        "grail": 101,
+        "heart": 101,
+        "nectar": 101,
+        "rose": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pickled_pilchards",
+      "name_ja": "Pickled Pilchards",
+      "name_en": "Pickled Pilchards",
+      "category": "food",
+      "aspects": {
+        "edge": 101,
+        "heart": 102,
+        "moon": 201,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pickled_mushrooms",
+      "name_ja": "Pickled Mushrooms",
+      "name_en": "Pickled Mushrooms",
+      "category": "food",
+      "aspects": {
+        "edge": 101,
+        "heart": 101,
+        "moon": 102,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pillas_oat_bread",
+      "name_ja": "Pillas-Oat Bread",
+      "name_en": "Pillas-Oat Bread",
+      "category": "food",
+      "aspects": {
+        "forge": 101,
+        "heart": 101,
+        "nectar": 101,
+        "rose": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "basket_of_apples",
+      "name_ja": "Basket of Apples",
+      "name_en": "Basket of Apples",
+      "category": "food",
+      "aspects": {
+        "grail": 101,
+        "heart": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "basket_of_vegetables",
+      "name_ja": "Basket of Vegetables",
+      "name_en": "Basket of Vegetables",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "amber_pumpkin",
+      "name_ja": "Amber Pumpkin",
+      "name_en": "Amber Pumpkin",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "lantern": 102,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "wormy_pumpkin",
+      "name_ja": "Wormy Pumpkin",
+      "name_en": "Wormy Pumpkin",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "nectar": 101,
+        "scale": 101,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "soft_amber_pumpkin",
+      "name_ja": "Soft Amber Pumpkin",
+      "name_en": "Soft Amber Pumpkin",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "lantern": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pumpkin",
+      "name_ja": "Pumpkin",
+      "name_en": "Pumpkin",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "bunch_of_grapes",
+      "name_ja": "Bunch of Grapes",
+      "name_en": "Bunch of Grapes",
+      "category": "food",
+      "aspects": {
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "sack_of_vegetables",
+      "name_ja": "Sack of Vegetables",
+      "name_en": "Sack of Vegetables",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pale_marrow",
+      "name_ja": "Pale Marrow",
+      "name_en": "Pale Marrow",
+      "category": "food",
+      "aspects": {
+        "heart": 102,
+        "nectar": 201,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "golden_marrow",
+      "name_ja": "Golden Marrow",
+      "name_en": "Golden Marrow",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "lantern": 102,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "mackerel",
+      "name_ja": "Mackerel",
+      "name_en": "Mackerel",
+      "category": "food",
+      "aspects": {
+        "heart": 102,
+        "moon": 201,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "bowl_of_sea_blest_pears",
+      "name_ja": "Bowl of Sea-Blest Pears",
+      "name_en": "Bowl of Sea-Blest Pears",
+      "category": "food",
+      "aspects": {
+        "grail": 101,
+        "moon": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "acrid_marrow",
+      "name_ja": "Acrid Marrow",
+      "name_en": "Acrid Marrow",
+      "category": "food",
+      "aspects": {
+        "edge": 101,
+        "heart": 102,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "basket_of_leeks",
+      "name_ja": "Basket of Leeks",
+      "name_en": "Basket of Leeks",
+      "category": "food",
+      "aspects": {
+        "edge": 101,
+        "heart": 102,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "basket_of_onions",
+      "name_ja": "Basket of Onions",
+      "name_en": "Basket of Onions",
+      "category": "food",
+      "aspects": {
+        "edge": 101,
+        "heart": 102,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "dark_marrow",
+      "name_ja": "Dark Marrow",
+      "name_en": "Dark Marrow",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "moon": 102,
+        "nectar": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "honey",
+      "name_ja": "Honey",
+      "name_en": "Honey",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "moth": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "misshapen_fruit",
+      "name_ja": "Misshapen Fruit",
+      "name_en": "Misshapen Fruit",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "moth": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "moly",
+      "name_ja": "Moly",
+      "name_en": "Moly",
+      "category": "food",
+      "aspects": {
+        "heart": 102,
+        "moon": 202,
+        "moth": 201,
+        "nectar": 102,
+        "scale": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "canned_ham",
+      "name_ja": "Canned Ham",
+      "name_en": "Canned Ham",
+      "category": "food",
+      "aspects": {
+        "heart": 201,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "hens_egg",
+      "name_ja": "Hen's Egg",
+      "name_en": "Hen's Egg",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "viper_egg",
+      "name_ja": "Viper Egg",
+      "name_en": "Viper Egg",
+      "category": "food",
+      "aspects": {
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "gulls_egg",
+      "name_ja": "Gull's Egg",
+      "name_en": "Gull's Egg",
+      "category": "food",
+      "aspects": {
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "almonds",
+      "name_ja": "Almonds",
+      "name_en": "Almonds",
+      "category": "food",
+      "aspects": {
+        "forge": 101,
+        "grail": 101,
+        "moth": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "beef",
+      "name_ja": "Beef",
+      "name_en": "Beef",
+      "category": "food",
+      "aspects": {
+        "heart": 102,
+        "scale": 2
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "blackberries",
+      "name_ja": "Blackberries",
+      "name_en": "Blackberries",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "nectar": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "bottle_of_milk",
+      "name_ja": "Bottle of Milk",
+      "name_en": "Bottle of Milk",
+      "category": "food",
+      "aspects": {
+        "grail": 101,
+        "heart": 101,
+        "scale": 101,
+        "winter": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "mushrooms",
+      "name_ja": "Mushrooms",
+      "name_en": "Mushrooms",
+      "category": "food",
+      "aspects": {
+        "moon": 101,
+        "nectar": 101,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pheasant",
+      "name_ja": "Pheasant",
+      "name_en": "Pheasant",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "rose": 101,
+        "scale": 101,
+        "sky": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "pilchards",
+      "name_ja": "Pilchards",
+      "name_en": "Pilchards",
+      "category": "food",
+      "aspects": {
+        "heart": 102,
+        "moon": 201,
+        "scale": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "rosehips",
+      "name_ja": "Rosehips",
+      "name_en": "Rosehips",
+      "category": "food",
+      "aspects": {
+        "heart": 101,
+        "nectar": 101,
+        "rose": 1
+      },
+      "consumed": true,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Sustenance",
+      "notes": ""
+    },
+    {
+      "id": "kitchen_bowls",
+      "name_ja": "Kitchen Bowls",
+      "name_en": "Kitchen Bowls",
+      "category": "tool",
+      "aspects": {
+        "heart": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "mortar_&_pestle",
+      "name_ja": "Mortar & Pestle",
+      "name_en": "Mortar & Pestle",
+      "category": "tool",
+      "aspects": {
+        "forge": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "dearday_lens",
+      "name_ja": "Dearday Lens",
+      "name_en": "Dearday Lens",
+      "category": "tool",
+      "aspects": {
+        "lantern": 0,
+        "sky": 0,
+        "edge": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "flushed_mommet",
+      "name_ja": "Flushed Mommet",
+      "name_en": "Flushed Mommet",
+      "category": "tool",
+      "aspects": {
+        "grail": 0,
+        "heart": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "pale_mommet",
+      "name_ja": "Pale Mommet",
+      "name_en": "Pale Mommet",
+      "category": "tool",
+      "aspects": {
+        "grail": 0,
+        "heart": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    },
+    {
+      "id": "swaddled_thunder",
+      "name_ja": "Swaddled Thunder",
+      "name_en": "Swaddled Thunder",
+      "category": "tool",
+      "aspects": {
+        "heart": 0
+      },
+      "consumed": false,
+      "persistent": false,
+      "rarity": "common",
+      "tags": [],
+      "obtain_type": [],
+      "how_to_get": [],
+      "locations": [],
+      "craft": null,
+      "recipe": null,
+      "source_url": "https://book-of-hours.fandom.com/wiki/Tools",
+      "notes": ""
+    }
+  ]
+}

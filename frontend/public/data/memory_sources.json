@@ -1,0 +1,2930 @@
+[
+  {
+    "memory_id": "contradiction",
+    "memory_name_ja": "矛盾",
+    "memory_name_en": "Contradiction",
+    "aspects": {
+      "edge": 2,
+      "moon": 1
+    },
+    "books": [
+      {
+        "book_id": "the_ascendant",
+        "name_ja": "上昇するもの",
+        "name_en": "The Ascendant",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Hyksos",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Ascendant"
+      },
+      {
+        "book_id": "as_the_sun_his_course",
+        "name_ja": "太陽の如きその軌道",
+        "name_en": "As The Sun His Course",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/As_The_Sun_His_Course"
+      },
+      {
+        "book_id": "the_book_of_thrones",
+        "name_ja": "玉座の書",
+        "name_en": "The Book of Thrones",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Book_of_Thrones"
+      },
+      {
+        "book_id": "de_bellis_murorum",
+        "name_ja": "城壁の戦いについて",
+        "name_en": "De Bellis Murorum",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/De_Bellis_Murorum"
+      },
+      {
+        "book_id": "de_horis_book_3",
+        "name_ja": "時の書 第三巻",
+        "name_en": "De Horis book 3",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/De_Horis_book_3"
+      },
+      {
+        "book_id": "the_victory_of_crowns",
+        "name_ja": "王冠の勝利",
+        "name_en": "The Victory of Crowns",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Victory_of_Crowns"
+      },
+      {
+        "book_id": "quirinic_meditations",
+        "name_ja": "クゥイリヌスの瞑想",
+        "name_en": "Quirinic Meditations",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Ericapaean",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Quirinic_Meditations"
+      },
+      {
+        "book_id": "wainscot_histories",
+        "name_ja": "羽目板の歴史",
+        "name_en": "Wainscot Histories",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Wainscot_Histories"
+      },
+      {
+        "book_id": "an_exorcists_field_manual",
+        "name_ja": "悪魔祓いの野外マニュアル",
+        "name_en": "An Exorcist's Field Manual",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/An_Exorcist's_Field_Manual"
+      },
+      {
+        "book_id": "observations_on_the_peacock_door",
+        "name_ja": "孔雀の扉の観察",
+        "name_en": "Observations on the Peacock Door",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Observations_on_the_Peacock_Door"
+      },
+      {
+        "book_id": "honey:_the_comprehensive_guide",
+        "name_ja": "蜂蜜：総合ガイド",
+        "name_en": "Honey: the Comprehensive Guide",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Honey:_the_Comprehensive_Guide"
+      },
+      {
+        "book_id": "those_indignities_perpetrated_by_the_deceitful_fraternity_of_obliviates",
+        "name_ja": "忘却の欺瞞的な兄弟団によって犯されたこれらの屈辱",
+        "name_en": "Those Indignities Perpetrated By the Deceitful Fraternity of Obliviates",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Those_Indignities_Perpetrated_By_the_Deceitful_Fraternity_of_Obliviates"
+      }
+    ]
+  },
+  {
+    "memory_id": "fear",
+    "memory_name_ja": "恐怖",
+    "memory_name_en": "Fear",
+    "aspects": {
+      "scale": 2,
+      "edge": 1
+    },
+    "books": [
+      {
+        "book_id": "book_of_true_blood",
+        "name_ja": "真血の書",
+        "name_en": "Book of True Blood",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Book_of_True_Blood"
+      },
+      {
+        "book_id": "the_deeds_of_the_scarred_captain",
+        "name_ja": "傷だらけの船長の功績",
+        "name_en": "The Deeds of the Scarred Captain",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Deeds_of_the_Scarred_Captain"
+      },
+      {
+        "book_id": "exorcism_for_girls",
+        "name_ja": "少女のための悪魔祓い",
+        "name_en": "Exorcism for Girls",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Exorcism_for_Girls"
+      },
+      {
+        "book_id": "how_the_end_will_begin",
+        "name_ja": "終わりはいかに始まるか",
+        "name_en": "How the End will Begin",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/How_the_End_will_Begin"
+      },
+      {
+        "book_id": "journal_of_sir_david_greene,_1903",
+        "name_ja": "デヴィッド・グリーン卿の日記、1903年",
+        "name_en": "Journal of Sir David Greene, 1903",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Hyksos",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Journal_of_Sir_David_Greene,_1903"
+      },
+      {
+        "book_id": "the_leonine_tantra",
+        "name_ja": "獅子のタントラ",
+        "name_en": "The Leonine Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Leonine_Tantra"
+      },
+      {
+        "book_id": "the_sevenfold_slaying_of_the_seven_coiled",
+        "name_ja": "七とぐろの七重の殺戮",
+        "name_en": "The Sevenfold Slaying of the Seven-Coiled",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Sevenfold_Slaying_of_the_Seven-Coiled"
+      },
+      {
+        "book_id": "the_suns_lament",
+        "name_ja": "太陽の哀歌",
+        "name_en": "The Sun's Lament",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Sun's_Lament"
+      },
+      {
+        "book_id": "skin_of_silver",
+        "name_ja": "銀の皮膚",
+        "name_en": "Skin of Silver",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Skin_of_Silver"
+      },
+      {
+        "book_id": "medusan_commentaries",
+        "name_ja": "メドゥーサの注釈",
+        "name_en": "Medusan Commentaries",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Killasimi",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Medusan_Commentaries"
+      },
+      {
+        "book_id": "one_thousand_threads",
+        "name_ja": "千の糸",
+        "name_en": "One Thousand Threads",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Killasimi",
+        "source_url": "https://book-of-hours.fandom.com/wiki/One_Thousand_Threads"
+      },
+      {
+        "book_id": "the_treatise_on_underplaces",
+        "name_ja": "地下の場所に関する論文",
+        "name_en": "The Treatise on Underplaces",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Treatise_on_Underplaces"
+      },
+      {
+        "book_id": "black_nephrite",
+        "name_ja": "黒き軟玉",
+        "name_en": "Black Nephrite",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Black_Nephrite"
+      },
+      {
+        "book_id": "nix_abolix",
+        "name_ja": "ニックス・アボリックス",
+        "name_en": "Nix Abolix",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Nix_Abolix"
+      },
+      {
+        "book_id": "the_viennese_conundra",
+        "name_ja": "ウィーンの謎",
+        "name_en": "The Viennese Conundra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Viennese_Conundra"
+      },
+      {
+        "book_id": "the_encircling_tantra",
+        "name_ja": "取り囲むタントラ",
+        "name_en": "The Encircling Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Encircling_Tantra"
+      },
+      {
+        "book_id": "hunting_journals_of_bryan_dewulf",
+        "name_ja": "ブライアン・デウルフの狩猟日記",
+        "name_en": "Hunting Journals of Bryan Dewulf",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Hunting_Journals_of_Bryan_Dewulf"
+      },
+      {
+        "book_id": "key_of_night",
+        "name_ja": "夜の鍵",
+        "name_en": "Key of Night",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Key_of_Night"
+      },
+      {
+        "book_id": "medusas_lament",
+        "name_ja": "メドゥーサの哀歌",
+        "name_en": "Medusa's Lament",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Medusa's_Lament"
+      },
+      {
+        "book_id": "recordings_from_the_althiban_abyss",
+        "name_ja": "アルティバン深淵からの録音",
+        "name_en": "Recordings from the Althiban Abyss",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Recordings_from_the_Althiban_Abyss"
+      },
+      {
+        "book_id": "stolen_histories",
+        "name_ja": "盗まれた歴史",
+        "name_en": "Stolen Histories",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Stolen_Histories"
+      },
+      {
+        "book_id": "the_tantra_of_worms",
+        "name_ja": "蛆虫のタントラ",
+        "name_en": "The Tantra of Worms",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Tantra_of_Worms"
+      },
+      {
+        "book_id": "seven_faces_of_icarus",
+        "name_ja": "イカロスの七つの顔",
+        "name_en": "Seven Faces of Icarus",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Seven_Faces_of_Icarus"
+      },
+      {
+        "book_id": "a_true_history_of_valentine_dewulf",
+        "name_ja": "ヴァレンタイン・デウルフの真実の歴史",
+        "name_en": "A True History of Valentine Dewulf",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_True_History_of_Valentine_Dewulf"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_merciless_alteration",
+    "memory_name_ja": "ヌメン：Merciless Alteration",
+    "memory_name_en": "Numen: Merciless Alteration",
+    "aspects": {
+      "edge": 5,
+      "forge": 5,
+      "grail": 5
+    },
+    "books": [
+      {
+        "book_id": "a_childs_treasury_of_golden_afternoons",
+        "name_ja": "子供の黄金の午後の宝物庫",
+        "name_en": "A Child's Treasury of Golden Afternoons",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Hyksos",
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Child's_Treasury_of_Golden_Afternoons"
+      }
+    ]
+  },
+  {
+    "memory_id": "foresight",
+    "memory_name_ja": "先見",
+    "memory_name_en": "Foresight",
+    "aspects": {
+      "forge": 2,
+      "lantern": 1
+    },
+    "books": [
+      {
+        "book_id": "de_horis_book_2",
+        "name_ja": "時の書 第二巻",
+        "name_en": "De Horis book 2",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/De_Horis_book_2"
+      },
+      {
+        "book_id": "the_high_traditions_of_the_noble_endeavour",
+        "name_ja": "高貴なる努力の高き伝統",
+        "name_en": "The High Traditions of the Noble Endeavour",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_High_Traditions_of_the_Noble_Endeavour"
+      },
+      {
+        "book_id": "the_iron_book",
+        "name_ja": "鉄の書",
+        "name_en": "The Iron Book",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Iron_Book"
+      },
+      {
+        "book_id": "the_war_of_the_roads,_1451_1551",
+        "name_ja": "道路戦争 1451-1551",
+        "name_en": "The War of the Roads, 1451-1551",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_War_of_the_Roads,_1451-1551"
+      },
+      {
+        "book_id": "the_admonitory_automata_project",
+        "name_ja": "訓戒的自動機械計画",
+        "name_en": "The Admonitory Automata Project",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Admonitory_Automata_Project"
+      },
+      {
+        "book_id": "the_amalgam_of_the_red_rose",
+        "name_ja": "赤薔薇の混合物",
+        "name_en": "The Amalgam of the Red Rose",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Amalgam_of_the_Red_Rose"
+      },
+      {
+        "book_id": "the_book_of_cinders",
+        "name_ja": "灰の書",
+        "name_en": "The Book of Cinders",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Book_of_Cinders"
+      },
+      {
+        "book_id": "the_book_of_dissolution",
+        "name_ja": "溶解の書",
+        "name_en": "The Book of Dissolution",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Book_of_Dissolution"
+      },
+      {
+        "book_id": "the_burning_woman",
+        "name_ja": "燃える女",
+        "name_en": "The Burning Woman",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Burning_Woman"
+      },
+      {
+        "book_id": "the_carmine_petal:_revised",
+        "name_ja": "洋紅の花びら：改訂版",
+        "name_en": "The Carmine Petal: Revised",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Carmine_Petal:_Revised"
+      },
+      {
+        "book_id": "the_carmine_petal:_unexpurgated",
+        "name_ja": "洋紅の花びら：無削除版",
+        "name_en": "The Carmine Petal: Unexpurgated",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Carmine_Petal:_Unexpurgated"
+      },
+      {
+        "book_id": "a_descent_of_the_shell",
+        "name_ja": "殻の降下",
+        "name_en": "A Descent of the Shell",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Descent_of_the_Shell"
+      },
+      {
+        "book_id": "the_incandescent_tantra",
+        "name_ja": "白熱のタントラ",
+        "name_en": "The Incandescent Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Incandescent_Tantra"
+      },
+      {
+        "book_id": "journal_of_walter_dewulf",
+        "name_ja": "ウォルター・デウルフの日記",
+        "name_en": "Journal of Walter Dewulf",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Journal_of_Walter_Dewulf"
+      },
+      {
+        "book_id": "the_manner_in_which_the_alchemist_was_spared",
+        "name_ja": "錬金術師がいかにして見逃されたか",
+        "name_en": "The Manner in which the Alchemist was Spared",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Manner_in_which_the_Alchemist_was_Spared"
+      },
+      {
+        "book_id": "my_deeds,_my_powers,_my_achievements_and_the_injustices_perpetrated_against_me",
+        "name_ja": "我が功績、我が力、我が達成、そして我に対する不当行為",
+        "name_en": "My Deeds, My Powers, My Achievements and the Injustices Perpetrated Against Me",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/My_Deeds,_My_Powers,_My_Achievements_and_the_Injustices_Perpetrated_Against_Me"
+      },
+      {
+        "book_id": "old_coppernose_and_the_softer_metal",
+        "name_ja": "オールド・カッパーノーズとより柔らかい金属",
+        "name_en": "Old Coppernose and the Softer Metal",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Old_Coppernose_and_the_Softer_Metal"
+      },
+      {
+        "book_id": "the_vinzant_inscriptions",
+        "name_ja": "ヴィンザントの碑文",
+        "name_en": "The Vinzant Inscriptions",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Vinzant_Inscriptions"
+      },
+      {
+        "book_id": "vinzants_minglings",
+        "name_ja": "ヴィンザントの混合",
+        "name_en": "Vinzant's Minglings",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Vinzant's_Minglings"
+      },
+      {
+        "book_id": "bancroft_diaries",
+        "name_ja": "バンクロフトの日記",
+        "name_en": "Bancroft Diaries",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Bancroft_Diaries"
+      },
+      {
+        "book_id": "the_chandlers_wish",
+        "name_ja": "蝋燭屋の願い",
+        "name_en": "The Chandler's Wish",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Chandler's_Wish"
+      },
+      {
+        "book_id": "in_the_malleary",
+        "name_ja": "鍛冶場にて",
+        "name_en": "In the Malleary",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/In_the_Malleary"
+      },
+      {
+        "book_id": "opus_magnum_caeruleum",
+        "name_ja": "青き大いなる業",
+        "name_en": "Opus Magnum Caeruleum",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Opus_Magnum_Caeruleum"
+      },
+      {
+        "book_id": "the_sky,_the_soul",
+        "name_ja": "空、魂",
+        "name_en": "The Sky, the Soul",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Sky,_the_Soul"
+      },
+      {
+        "book_id": "inaam,_kapigiginlupir,_garkie,_cryppys",
+        "name_ja": "イナアム、カピギギンルピル、ガーキー、クリピス",
+        "name_en": "Inaam, Kapigiginlupir, Garkie, Cryppys",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Inaam,_Kapigiginlupir,_Garkie,_Cryppys"
+      },
+      {
+        "book_id": "plantagenet_mysteries",
+        "name_ja": "プランタジネットの謎",
+        "name_en": "Plantagenet Mysteries",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Plantagenet_Mysteries"
+      },
+      {
+        "book_id": "the_six_letters_on_necessity",
+        "name_ja": "必然性に関する六通の手紙",
+        "name_en": "The Six Letters on Necessity",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Six_Letters_on_Necessity"
+      },
+      {
+        "book_id": "evas_treasury",
+        "name_ja": "エヴァの宝物庫",
+        "name_en": "Eva's Treasury",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Eva's_Treasury"
+      },
+      {
+        "book_id": "on_resonance",
+        "name_ja": "共鳴について",
+        "name_en": "On Resonance",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_Resonance"
+      },
+      {
+        "book_id": "sunset_celia_and_the_end_of_days",
+        "name_ja": "日没のセリアと終わりの日",
+        "name_en": "Sunset Celia and the End of Days",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Sunset_Celia_and_the_End_of_Days"
+      }
+    ]
+  },
+  {
+    "memory_id": "revelation",
+    "memory_name_ja": "啓示",
+    "memory_name_en": "Revelation",
+    "aspects": {
+      "lantern": 2
+    },
+    "books": [
+      {
+        "book_id": "the_open_head",
+        "name_ja": "開かれた頭",
+        "name_en": "THE OPEN HEAD",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Hyksos",
+        "source_url": "https://book-of-hours.fandom.com/wiki/THE_OPEN_HEAD"
+      },
+      {
+        "book_id": "a_shape_in_smoke",
+        "name_ja": "煙の中の形",
+        "name_en": "A Shape in Smoke",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Shape_in_Smoke"
+      },
+      {
+        "book_id": "sunset_passages",
+        "name_ja": "日没の通路",
+        "name_en": "Sunset Passages",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Sunset_Passages"
+      },
+      {
+        "book_id": "colours_in_the_liver",
+        "name_ja": "肝臓の色彩",
+        "name_en": "COLOURS IN THE LIVER",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/COLOURS_IN_THE_LIVER"
+      },
+      {
+        "book_id": "the_alloy_of_the_white_rose",
+        "name_ja": "白薔薇の合金",
+        "name_en": "The Alloy of the White Rose",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Alloy_of_the_White_Rose"
+      },
+      {
+        "book_id": "gospel_of_nicodemus",
+        "name_ja": "ニコデモの福音書",
+        "name_en": "Gospel of Nicodemus",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Gospel_of_Nicodemus"
+      },
+      {
+        "book_id": "the_high_mysteries_of_the_innermost_chamber_of_our_church_solar",
+        "name_ja": "我らが太陽教会の最奥の間の高次神秘",
+        "name_en": "The High Mysteries of the Innermost Chamber of our Church Solar",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_High_Mysteries_of_the_Innermost_Chamber_of_our_Church_Solar"
+      },
+      {
+        "book_id": "the_known_unknown_tantra",
+        "name_ja": "既知と未知のタントラ",
+        "name_en": "The Known-Unknown Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Known-Unknown_Tantra"
+      },
+      {
+        "book_id": "letters_to_my_successor",
+        "name_ja": "後継者への手紙",
+        "name_en": "Letters To My Successor",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Letters_To_My_Successor"
+      },
+      {
+        "book_id": "a_light_in_the_inkwell",
+        "name_ja": "インク壺の光",
+        "name_en": "A Light in the Inkwell",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Light_in_the_Inkwell"
+      },
+      {
+        "book_id": "the_locksmiths_dream:_a_light_through_the_keyhole",
+        "name_ja": "鍵師の夢：鍵穴からの光",
+        "name_en": "The Locksmith's Dream: a Light through the Keyhole",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Locksmith's_Dream:_a_Light_through_the_Keyhole"
+      },
+      {
+        "book_id": "prophecies_of_glory",
+        "name_ja": "栄光の予言",
+        "name_en": "Prophecies of Glory",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Prophecies_of_Glory"
+      },
+      {
+        "book_id": "the_rose_of_waznei",
+        "name_ja": "ワズネイの薔薇",
+        "name_en": "The Rose of Waznei",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Rose_of_Waznei"
+      },
+      {
+        "book_id": "sunrise_awakenings",
+        "name_ja": "日の出の目覚め",
+        "name_en": "Sunrise Awakenings",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Sunrise_Awakenings"
+      },
+      {
+        "book_id": "the_watchful_tantra",
+        "name_ja": "見守るタントラ",
+        "name_en": "The Watchful Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Watchful_Tantra"
+      },
+      {
+        "book_id": "experiment_beyond_sight",
+        "name_ja": "視覚を超える実験",
+        "name_en": "EXPERIMENT BEYOND SIGHT",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/EXPERIMENT_BEYOND_SIGHT"
+      },
+      {
+        "book_id": "the_secret_colours",
+        "name_ja": "秘密の色",
+        "name_en": "The Secret Colours",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Secret_Colours"
+      },
+      {
+        "book_id": "the_book_of_the_white_cat",
+        "name_ja": "白猫の書",
+        "name_en": "The Book of the White Cat",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Book_of_the_White_Cat"
+      },
+      {
+        "book_id": "each_flame_his_fuel",
+        "name_ja": "各々の炎が彼の燃料",
+        "name_en": "Each Flame His Fuel",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Each_Flame_His_Fuel"
+      },
+      {
+        "book_id": "the_focus_of_amber",
+        "name_ja": "琥珀の焦点",
+        "name_en": "The Focus of Amber",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Focus_of_Amber"
+      },
+      {
+        "book_id": "the_lion_and_the_glass",
+        "name_ja": "ライオンと鏡",
+        "name_en": "The Lion and the Glass",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Lion_and_the_Glass"
+      },
+      {
+        "book_id": "the_locksmiths_dream:_stolen_reflections",
+        "name_ja": "鍵師の夢：盗まれた反射",
+        "name_en": "The Locksmith's Dream: Stolen Reflections",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Locksmith's_Dream:_Stolen_Reflections"
+      }
+    ]
+  },
+  {
+    "memory_id": "hindsight",
+    "memory_name_ja": "後知恵",
+    "memory_name_en": "Hindsight",
+    "aspects": {
+      "winter": 2,
+      "scale": 1
+    },
+    "books": [
+      {
+        "book_id": "seven_shards",
+        "name_ja": "七つの欠片",
+        "name_en": "Seven Shards",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Seven_Shards"
+      },
+      {
+        "book_id": "nyns_cages_(avignon_text)",
+        "name_ja": "ニンの檻（アヴィニョン版）",
+        "name_en": "Nyn's Cages (Avignon Text)",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Ericapaean",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Nyn's_Cages_(Avignon_Text)"
+      },
+      {
+        "book_id": "the_carbonek_schism",
+        "name_ja": "カルボネックの分裂",
+        "name_en": "The Carbonek Schism",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sabazine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Carbonek_Schism"
+      },
+      {
+        "book_id": "the_hissing_key",
+        "name_ja": "シューと鳴る鍵",
+        "name_en": "The Hissing Key",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Hissing_Key"
+      },
+      {
+        "book_id": "ettery_after",
+        "name_ja": "エッタリーの後で",
+        "name_en": "Ettery After",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Ettery_After"
+      },
+      {
+        "book_id": "exercises_in_the_continuity_of_self",
+        "name_ja": "自己の連続性の練習",
+        "name_en": "Exercises in the Continuity of Self",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Exercises_in_the_Continuity_of_Self"
+      },
+      {
+        "book_id": "in_memory_of_gods",
+        "name_ja": "神々の記憶に",
+        "name_en": "In Memory of Gods",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/In_Memory_of_Gods"
+      },
+      {
+        "book_id": "an_introduction_to_histories",
+        "name_ja": "歴史学入門",
+        "name_en": "An Introduction to Histories",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/An_Introduction_to_Histories"
+      },
+      {
+        "book_id": "naenian_sketches",
+        "name_ja": "ネニアのスケッチ",
+        "name_en": "Naenian Sketches",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sabazine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Naenian_Sketches"
+      },
+      {
+        "book_id": "nyns_cages_(bruges_text,_illuminated)",
+        "name_ja": "ニンの檻（ブルージュ版、装飾付き）",
+        "name_en": "Nyn's Cages (Bruges Text, Illuminated)",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Ericapaean",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Nyn's_Cages_(Bruges_Text,_Illuminated)"
+      },
+      {
+        "book_id": "oblations_in_iron",
+        "name_ja": "鉄の奉納",
+        "name_en": "Oblations in Iron",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Oblations_in_Iron"
+      },
+      {
+        "book_id": "operations_of_a_certain_finality",
+        "name_ja": "ある種の最終的な作戦",
+        "name_en": "Operations of a Certain Finality",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Operations_of_a_Certain_Finality"
+      },
+      {
+        "book_id": "a_second_glory",
+        "name_ja": "第二の栄光",
+        "name_en": "A Second Glory",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Second_Glory"
+      },
+      {
+        "book_id": "the_white_book_of_brittany",
+        "name_ja": "ブルターニュの白き書",
+        "name_en": "The White Book of Brittany",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_White_Book_of_Brittany"
+      },
+      {
+        "book_id": "the_world_does_not_weep",
+        "name_ja": "世界は泣かない",
+        "name_en": "The World Does Not Weep",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_World_Does_Not_Weep"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_back_into_balance",
+    "memory_name_ja": "ヌメン：Back Into Balance",
+    "memory_name_en": "Numen: Back Into Balance",
+    "aspects": {
+      "heart": 5,
+      "sky": 5,
+      "winter": 5
+    },
+    "books": [
+      {
+        "book_id": "the_sky_in_the_scar",
+        "name_ja": "傷跡の空",
+        "name_en": "The Sky in the Scar",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sabazine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Sky_in_the_Scar"
+      }
+    ]
+  },
+  {
+    "memory_id": "regret",
+    "memory_name_ja": "後悔",
+    "memory_name_en": "Regret",
+    "aspects": {
+      "winter": 2,
+      "forge": 1
+    },
+    "books": [
+      {
+        "book_id": "the_wound_wounds",
+        "name_ja": "傷の傷",
+        "name_en": "The Wound-Wounds",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Killasimi",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Wound-Wounds"
+      },
+      {
+        "book_id": "codex_acephali",
+        "name_ja": "無頭の写本",
+        "name_en": "Codex Acephali",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Codex_Acephali"
+      },
+      {
+        "book_id": "the_twelve_letters_on_consequence",
+        "name_ja": "結果に関する十二通の手紙",
+        "name_en": "The Twelve Letters On Consequence",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Twelve_Letters_On_Consequence"
+      },
+      {
+        "book_id": "the_fallen_cross",
+        "name_ja": "堕ちた十字架",
+        "name_en": "The Fallen Cross",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Fallen_Cross"
+      },
+      {
+        "book_id": "annals_of_st_brandans",
+        "name_ja": "聖ブランダン年代記",
+        "name_en": "Annals of St Brandan's",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Annals_of_St_Brandan's"
+      },
+      {
+        "book_id": "the_barrowchilds_elegies",
+        "name_ja": "塚の子供の悲歌",
+        "name_en": "The Barrowchild's Elegies",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Barrowchild's_Elegies"
+      },
+      {
+        "book_id": "chione_at_abydos",
+        "name_ja": "アビドスのキオネ",
+        "name_en": "Chione at Abydos",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Chione_at_Abydos"
+      },
+      {
+        "book_id": "the_five_letters_on_memory",
+        "name_ja": "記憶に関する五通の手紙",
+        "name_en": "The Five Letters On Memory",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Five_Letters_On_Memory"
+      },
+      {
+        "book_id": "the_ivory_book",
+        "name_ja": "象牙の書",
+        "name_en": "The Ivory Book",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Ivory_Book"
+      },
+      {
+        "book_id": "lady_evas_repose",
+        "name_ja": "エヴァ夫人の休息",
+        "name_en": "Lady Eva's Repose",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Lady_Eva's_Repose"
+      },
+      {
+        "book_id": "on_the_white",
+        "name_ja": "白について",
+        "name_en": "On the White",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_the_White"
+      },
+      {
+        "book_id": "the_scar_in_the_sky",
+        "name_ja": "空の傷跡",
+        "name_en": "The Scar in the Sky",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Scar_in_the_Sky"
+      }
+    ]
+  },
+  {
+    "memory_id": "impulse",
+    "memory_name_ja": "衝動",
+    "memory_name_en": "Impulse",
+    "aspects": {
+      "moth": 2,
+      "nectar": 1
+    },
+    "books": [
+      {
+        "book_id": "ambrosial!",
+        "name_ja": "アンブロシア！",
+        "name_en": "Ambrosial!",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Ambrosial!"
+      },
+      {
+        "book_id": "on_matthias_and_the_amethyst_imago:_transformation",
+        "name_ja": "マティアスと紫水晶の成虫について：変態",
+        "name_en": "On Matthias and the Amethyst Imago: Transformation",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_Matthias_and_the_Amethyst_Imago:_Transformation"
+      },
+      {
+        "book_id": "on_thirstlies,_ivories_and_lovelies",
+        "name_ja": "渇き、象牙、そして愛らしさについて",
+        "name_en": "On Thirstlies, Ivories and Lovelies",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_Thirstlies,_Ivories_and_Lovelies"
+      },
+      {
+        "book_id": "twenty_six_enticements,_seven_torments",
+        "name_ja": "26の誘惑、7つの苦痛",
+        "name_en": "Twenty-Six Enticements, Seven Torments",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Twenty-Six_Enticements,_Seven_Torments"
+      },
+      {
+        "book_id": "a_true_and_complete_accounting_of_the_asclepian_mysteries_of_the_roots_of_the_house",
+        "name_ja": "館の根のアルスレピオスの神秘についての真実かつ完全な報告",
+        "name_en": "A True and Complete Accounting of the Asclepian Mysteries of the Roots of the House",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_True_and_Complete_Accounting_of_the_Asclepian_Mysteries_of_the_Roots_of_the_House"
+      },
+      {
+        "book_id": "the_ceaseless_tantra",
+        "name_ja": "絶え間ないタントラ",
+        "name_en": "The Ceaseless Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Ceaseless_Tantra"
+      },
+      {
+        "book_id": "warming_draughts_to_uplift_the_heart",
+        "name_ja": "心を高揚させる温かい飲み薬",
+        "name_en": "Warming Draughts to Uplift the Heart",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Warming_Draughts_to_Uplift_the_Heart"
+      },
+      {
+        "book_id": "the_locksmiths_dream:_trespasses",
+        "name_ja": "鍵師の夢：侵入",
+        "name_en": "The Locksmith's Dream: Trespasses",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Locksmith's_Dream:_Trespasses"
+      },
+      {
+        "book_id": "travelling_at_night,_vol_1",
+        "name_ja": "夜の旅、第1巻",
+        "name_en": "Travelling at Night, vol 1",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Travelling_at_Night,_vol_1"
+      },
+      {
+        "book_id": "malachite_supplications",
+        "name_ja": "孔雀石の嘆願",
+        "name_en": "Malachite Supplications",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Malachite_Supplications"
+      },
+      {
+        "book_id": "the_book_of_masks",
+        "name_ja": "仮面の書",
+        "name_en": "The Book of Masks",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Book_of_Masks"
+      },
+      {
+        "book_id": "the_debate_of_seven_cups",
+        "name_ja": "七つの杯の議論",
+        "name_en": "The Debate of Seven Cups",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Debate_of_Seven_Cups"
+      },
+      {
+        "book_id": "an_echo_of_silence",
+        "name_ja": "沈黙の反響",
+        "name_en": "An Echo of Silence",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sabazine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/An_Echo_of_Silence"
+      },
+      {
+        "book_id": "kitling_ripe_and_the_moldywarps_grave_(and_other_stories)",
+        "name_ja": "キトリング・ライプとモグラの墓（その他の物語）",
+        "name_en": "Kitling Ripe and the Moldywarp's Grave (and Other Stories)",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Kitling_Ripe_and_the_Moldywarp's_Grave_(and_Other_Stories)"
+      },
+      {
+        "book_id": "the_shaven_lock_tantra",
+        "name_ja": "剃髪のタントラ",
+        "name_en": "The Shaven Lock Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Shaven_Lock_Tantra"
+      },
+      {
+        "book_id": "the_silver_book",
+        "name_ja": "銀の書",
+        "name_en": "The Silver Book",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Silver_Book"
+      },
+      {
+        "book_id": "white_jade_tablet",
+        "name_ja": "白玉の石板",
+        "name_en": "White Jade Tablet",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Cracktrack",
+        "source_url": "https://book-of-hours.fandom.com/wiki/White_Jade_Tablet"
+      },
+      {
+        "book_id": "the_bee_keepers_ends",
+        "name_ja": "養蜂家の最期",
+        "name_en": "The Bee-Keeper's Ends",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Bee-Keeper's_Ends"
+      },
+      {
+        "book_id": "cucurbit_prisoner_records_1927",
+        "name_ja": "ククルビット囚人記録 1927",
+        "name_en": "Cucurbit Prisoner Records 1927",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Cucurbit_Prisoner_Records_1927"
+      },
+      {
+        "book_id": "de_horis_book_1",
+        "name_ja": "時の書 第一巻",
+        "name_en": "De Horis book 1",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/De_Horis_book_1"
+      },
+      {
+        "book_id": "green_jasper_tablet",
+        "name_ja": "緑碧玉の石板",
+        "name_en": "Green Jasper Tablet",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Cracktrack",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Green_Jasper_Tablet"
+      },
+      {
+        "book_id": "the_most_sorrowful_end_of_the_lady_nonna",
+        "name_ja": "ノンナ姫の最も悲しい最期",
+        "name_en": "The Most Sorrowful End of the Lady Nonna",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Kernewek Henavek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Most_Sorrowful_End_of_the_Lady_Nonna"
+      },
+      {
+        "book_id": "the_shadow_in_the_stair",
+        "name_ja": "階段の影",
+        "name_en": "The Shadow in the Stair",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Shadow_in_the_Stair"
+      },
+      {
+        "book_id": "ascite_supplications",
+        "name_ja": "腹水の嘆願",
+        "name_en": "Ascite Supplications",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Ascite_Supplications"
+      },
+      {
+        "book_id": "echidnalia",
+        "name_ja": "エキドナリア",
+        "name_en": "Echidnalia",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Cracktrack",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Echidnalia"
+      },
+      {
+        "book_id": "ud_rocashaas",
+        "name_ja": "ウード・ロカシャース",
+        "name_en": "Ud Rocashaas",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Kernewek Henavek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Ud_Rocashaas"
+      },
+      {
+        "book_id": "damascene_traditions_of_the_house_of_lethe",
+        "name_ja": "レテの家のダマスカスの伝統",
+        "name_en": "Damascene Traditions of the House of Lethe",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Damascene_Traditions_of_the_House_of_Lethe"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_the_bells_of_ys",
+    "memory_name_ja": "ヌメン：the Bells of Ys",
+    "memory_name_en": "Numen: the Bells of Ys",
+    "aspects": {
+      "edge": 5,
+      "forge": 5,
+      "rose": 5
+    },
+    "books": [
+      {
+        "book_id": "amiranis_beteli",
+        "name_ja": "アミラニのベテリ",
+        "name_en": "Amiranis Beteli",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Amiranis_Beteli"
+      }
+    ]
+  },
+  {
+    "memory_id": "bittersweet_certainty",
+    "memory_name_ja": "ほろ苦い確信",
+    "memory_name_en": "Bittersweet Certainty",
+    "aspects": {
+      "lantern": 1,
+      "winter": 2
+    },
+    "books": [
+      {
+        "book_id": "glimmerings",
+        "name_ja": "かすかな光",
+        "name_en": "Glimmerings",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Glimmerings"
+      },
+      {
+        "book_id": "the_book_of_the_extinguished_heart",
+        "name_ja": "消えた心臓の書",
+        "name_en": "The Book of the Extinguished Heart",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Book_of_the_Extinguished_Heart"
+      },
+      {
+        "book_id": "the_black_book_of_brittany",
+        "name_ja": "ブルターニュの黒き書",
+        "name_en": "The Black Book of Brittany",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Black_Book_of_Brittany"
+      },
+      {
+        "book_id": "musgraves_sketches",
+        "name_ja": "マスグレイブのスケッチ",
+        "name_en": "Musgrave's Sketches",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Musgrave's_Sketches"
+      }
+    ]
+  },
+  {
+    "memory_id": "pattern",
+    "memory_name_ja": "型",
+    "memory_name_en": "Pattern",
+    "aspects": {
+      "knock": 2,
+      "forge": 1
+    },
+    "books": [
+      {
+        "book_id": "the_messenger_awaiting_her_destination",
+        "name_ja": "目的地を待つ使者",
+        "name_en": "The Messenger Awaiting Her Destination",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Messenger_Awaiting_Her_Destination"
+      },
+      {
+        "book_id": "the_time_of_division",
+        "name_ja": "分裂の時代",
+        "name_en": "The Time of Division",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Time_of_Division"
+      },
+      {
+        "book_id": "advice_on_containment",
+        "name_ja": "封じ込めの助言",
+        "name_en": "Advice on Containment",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Advice_on_Containment"
+      },
+      {
+        "book_id": "by_their_marks_shall_ye_know_them",
+        "name_ja": "その印によって彼らを知るだろう",
+        "name_en": "By Their Marks Shall Ye Know them",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/By_Their_Marks_Shall_Ye_Know_them"
+      },
+      {
+        "book_id": "cardeas_delights",
+        "name_ja": "カルデアの喜び",
+        "name_en": "Cardea's Delights",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Cardea's_Delights"
+      },
+      {
+        "book_id": "the_elations_of_limentinus",
+        "name_ja": "リメンティヌスの歓喜",
+        "name_en": "The Elations of Limentinus",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Elations_of_Limentinus"
+      },
+      {
+        "book_id": "the_grand_passage_of_the_hours",
+        "name_ja": "時の大いなる通過",
+        "name_en": "The Grand Passage of the Hours",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Grand_Passage_of_the_Hours"
+      },
+      {
+        "book_id": "oghkor_oghkor_tissilak_oghkor",
+        "name_ja": "オグコル オグコル ティシラク オグコル",
+        "name_en": "OGHKOR OGHKOR TISSILAK OGHKOR",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/OGHKOR_OGHKOR_TISSILAK_OGHKOR"
+      },
+      {
+        "book_id": "on_imperfections",
+        "name_ja": "不完全性について",
+        "name_en": "On Imperfections",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_Imperfections"
+      },
+      {
+        "book_id": "on_the_winding_stair",
+        "name_ja": "曲がりくねった階段について",
+        "name_en": "On the Winding Stair",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Ramsund",
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_the_Winding_Stair"
+      },
+      {
+        "book_id": "the_raptures_of_forculus",
+        "name_ja": "フォルクルスの狂喜",
+        "name_en": "The Raptures of Forculus",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Raptures_of_Forculus"
+      },
+      {
+        "book_id": "the_road_to_janus",
+        "name_ja": "ヤヌスへの道",
+        "name_en": "The Road to Janus",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Road_to_Janus"
+      },
+      {
+        "book_id": "the_twin_serpent_tantra",
+        "name_ja": "双蛇のタントラ",
+        "name_en": "The Twin-Serpent Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Twin-Serpent_Tantra"
+      },
+      {
+        "book_id": "travelling_at_night,_vol_3",
+        "name_ja": "夜の旅、第3巻",
+        "name_en": "Travelling at Night, vol 3",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Travelling_at_Night,_vol_3"
+      },
+      {
+        "book_id": "the_songs_of_the_carapace_cross",
+        "name_ja": "甲羅の十字架の歌",
+        "name_en": "The Songs of the Carapace Cross",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Songs_of_the_Carapace_Cross"
+      },
+      {
+        "book_id": "just_verse",
+        "name_ja": "ただの詩",
+        "name_en": "Just Verse",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Just_Verse"
+      },
+      {
+        "book_id": "the_radical_measure_(glossed)",
+        "name_ja": "急進的な手段（注釈付き）",
+        "name_en": "The Radical Measure (Glossed)",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Radical_Measure_(Glossed)"
+      },
+      {
+        "book_id": "the_radical_measure",
+        "name_ja": "急進的な手段",
+        "name_en": "The Radical Measure",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Radical_Measure"
+      },
+      {
+        "book_id": "against_vitruvius",
+        "name_ja": "ウィトルウィウスに対抗して",
+        "name_en": "Against Vitruvius",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Against_Vitruvius"
+      },
+      {
+        "book_id": "on_what_is_contained_by_silver",
+        "name_ja": "銀に含まれるものについて",
+        "name_en": "On What is Contained By Silver",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_What_is_Contained_By_Silver"
+      },
+      {
+        "book_id": "the_other_eye_of_the_serpent",
+        "name_ja": "蛇のもう一つの目",
+        "name_en": "The Other Eye of the Serpent",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Other_Eye_of_the_Serpent"
+      }
+    ]
+  },
+  {
+    "memory_id": "secret_threshold",
+    "memory_name_ja": "秘密の敷居",
+    "memory_name_en": "Secret Threshold",
+    "aspects": {
+      "knock": 2,
+      "rose": 1
+    },
+    "books": [
+      {
+        "book_id": "the_temptations_of_architecture",
+        "name_ja": "建築の誘惑",
+        "name_en": "The Temptations of Architecture",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Temptations_of_Architecture"
+      },
+      {
+        "book_id": "an_almanac_of_entrances",
+        "name_ja": "入り口の年鑑",
+        "name_en": "An Almanac of Entrances",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/An_Almanac_of_Entrances"
+      },
+      {
+        "book_id": "a_manual_for_departure",
+        "name_ja": "出発のマニュアル",
+        "name_en": "A Manual for Departure",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Manual_for_Departure"
+      },
+      {
+        "book_id": "on_the_matter_and_the_deeds_of_serpents",
+        "name_ja": "蛇の物質と行為について",
+        "name_en": "On the Matter and the Deeds of Serpents",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_the_Matter_and_the_Deeds_of_Serpents"
+      }
+    ]
+  },
+  {
+    "memory_id": "satisfaction",
+    "memory_name_ja": "満足",
+    "memory_name_en": "Satisfaction",
+    "aspects": {
+      "grail": 2,
+      "heart": 1
+    },
+    "books": [
+      {
+        "book_id": "calicite_supplications",
+        "name_ja": "カリサイトの嘆願",
+        "name_en": "Calicite Supplications",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Calicite_Supplications"
+      },
+      {
+        "book_id": "a_catalogue_of_uncharted_pleasures",
+        "name_ja": "未知の喜びの目録",
+        "name_en": "A Catalogue of Uncharted Pleasures",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Catalogue_of_Uncharted_Pleasures"
+      },
+      {
+        "book_id": "the_geminiad_ii",
+        "name_ja": "双子座の書 ii",
+        "name_en": "The Geminiad ii",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Geminiad_ii"
+      },
+      {
+        "book_id": "an_impertinent_vitulation",
+        "name_ja": "無礼な歓呼",
+        "name_en": "An Impertinent Vitulation",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/An_Impertinent_Vitulation"
+      },
+      {
+        "book_id": "a_journey_to_the_grove",
+        "name_ja": "木立ちへの旅",
+        "name_en": "A Journey to the Grove",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Journey_to_the_Grove"
+      },
+      {
+        "book_id": "the_orchid_transfigurations:_a_birth",
+        "name_ja": "蘭の変容：誕生",
+        "name_en": "The Orchid Transfigurations: a Birth",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Orchid_Transfigurations:_a_Birth"
+      },
+      {
+        "book_id": "the_rose_of_nuriel",
+        "name_ja": "ヌリエルの薔薇",
+        "name_en": "The Rose of Nuriel",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Rose_of_Nuriel"
+      },
+      {
+        "book_id": "the_thirsting_tantra",
+        "name_ja": "渇きのタントラ",
+        "name_en": "The Thirsting Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Thirsting_Tantra"
+      },
+      {
+        "book_id": "the_wonderful_shape",
+        "name_ja": "素晴らしい形",
+        "name_en": "The Wonderful Shape",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Killasimi",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Wonderful_Shape"
+      },
+      {
+        "book_id": "commandments_for_the_preservation_of_all_that_exists",
+        "name_ja": "存在するすべての保存のための戒律",
+        "name_en": "Commandments For the Preservation of All That Exists",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Commandments_For_the_Preservation_of_All_That_Exists"
+      },
+      {
+        "book_id": "two_wombs,_one_heart",
+        "name_ja": "二つの子宮、一つの心臓",
+        "name_en": "Two Wombs, One Heart",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Killasimi",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Two_Wombs,_One_Heart"
+      },
+      {
+        "book_id": "the_berrybook",
+        "name_ja": "木の実の書",
+        "name_en": "The Berrybook",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Killasimi",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Berrybook"
+      },
+      {
+        "book_id": "fekris_herbary",
+        "name_ja": "フェクリの薬草園",
+        "name_en": "Fekri's Herbary",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Fekri's_Herbary"
+      },
+      {
+        "book_id": "kitling_ripes_tasty_treats",
+        "name_ja": "キトリング・ライプの美味しいおやつ",
+        "name_en": "Kitling Ripe's Tasty Treats",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Kitling_Ripe's_Tasty_Treats"
+      },
+      {
+        "book_id": "the_red_book_of_brittany",
+        "name_ja": "ブルターニュの赤き書",
+        "name_en": "The Red Book of Brittany",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Red_Book_of_Brittany"
+      }
+    ]
+  },
+  {
+    "memory_id": "confounding_parable",
+    "memory_name_ja": "混乱寓話",
+    "memory_name_en": "Confounding Parable",
+    "aspects": {
+      "moon": 2,
+      "rose": 2,
+      "sky": 2
+    },
+    "books": [
+      {
+        "book_id": "the_devoured_tantra",
+        "name_ja": "貪られたタントラ",
+        "name_en": "The Devoured Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Devoured_Tantra"
+      },
+      {
+        "book_id": "snare_of_the_tree:_collected_proverbs_of_aunt_mopsy",
+        "name_ja": "木の罠：モプシーおばさんのことわざ集",
+        "name_en": "Snare of the Tree: Collected Proverbs of Aunt Mopsy",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Snare_of_the_Tree:_Collected_Proverbs_of_Aunt_Mopsy"
+      },
+      {
+        "book_id": "the_other_line",
+        "name_ja": "もう一つの血統",
+        "name_en": "The Other Line",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Other_Line"
+      },
+      {
+        "book_id": "a_tower_falls",
+        "name_ja": "塔が倒れる",
+        "name_en": "A Tower Falls",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Tower_Falls"
+      },
+      {
+        "book_id": "xenodicene_odes",
+        "name_ja": "ゼノディケの頌歌",
+        "name_en": "Xenodicene Odes",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Xenodicene_Odes"
+      },
+      {
+        "book_id": "the_locksmiths_dream:_incursus",
+        "name_ja": "鍵師の夢：襲撃",
+        "name_en": "The Locksmith's Dream: Incursus",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Locksmith's_Dream:_Incursus"
+      },
+      {
+        "book_id": "the_moons_egg",
+        "name_ja": "月の卵",
+        "name_en": "The Moon's Egg",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Moon's_Egg"
+      },
+      {
+        "book_id": "the_serenity_of_the_black_wood",
+        "name_ja": "黒き森の静けさ",
+        "name_en": "The Serenity of the Black Wood",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Serenity_of_the_Black_Wood"
+      },
+      {
+        "book_id": "isaac_of_karths_history_of_the_shadowless_kings",
+        "name_ja": "カルスのアイザックによる影なき王たちの歴史",
+        "name_en": "Isaac of Karth's History of the Shadowless Kings",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Isaac_of_Karth's_History_of_the_Shadowless_Kings"
+      },
+      {
+        "book_id": "letters_from_a_fugitive",
+        "name_ja": "逃亡者からの手紙",
+        "name_en": "Letters from a Fugitive",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Letters_from_a_Fugitive"
+      },
+      {
+        "book_id": "a_novel_method_for_invocation_&_contrition",
+        "name_ja": "召喚と痛悔の新しい方法",
+        "name_en": "A Novel Method for Invocation & Contrition",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Ericapaean",
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Novel_Method_for_Invocation_&_Contrition"
+      },
+      {
+        "book_id": "a_tower_rises",
+        "name_ja": "塔が建つ",
+        "name_en": "A Tower Rises",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Tower_Rises"
+      },
+      {
+        "book_id": "it_is_written",
+        "name_ja": "それは書かれている",
+        "name_en": "It Is Written",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/It_Is_Written"
+      },
+      {
+        "book_id": "one_hundred_and_eight",
+        "name_ja": "百と八",
+        "name_en": "One Hundred And Eight",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/One_Hundred_And_Eight"
+      },
+      {
+        "book_id": "the_locksmiths_dream:_portions_and_proportions",
+        "name_ja": "鍵師の夢：部分と割合",
+        "name_en": "The Locksmith's Dream: Portions and Proportions",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Locksmith's_Dream:_Portions_and_Proportions"
+      },
+      {
+        "book_id": "the_origins_of_hours",
+        "name_ja": "時の起源",
+        "name_en": "The Origins of Hours",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Origins_of_Hours"
+      },
+      {
+        "book_id": "a_seventh_voice",
+        "name_ja": "第七の声",
+        "name_en": "A Seventh Voice",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Seventh_Voice"
+      }
+    ]
+  },
+  {
+    "memory_id": "gossip",
+    "memory_name_ja": "噂話",
+    "memory_name_en": "Gossip",
+    "aspects": {
+      "rose": 2,
+      "grail": 1
+    },
+    "books": [
+      {
+        "book_id": "the_dream_of_the_conspiracy_of_the_lower_skies",
+        "name_ja": "下層の空の陰謀の夢",
+        "name_en": "The Dream of the Conspiracy of the Lower Skies",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Dream_of_the_Conspiracy_of_the_Lower_Skies"
+      },
+      {
+        "book_id": "on_matthias_and_the_amethyst_imago:_pursuit",
+        "name_ja": "マティアスと紫水晶の成虫について：追跡",
+        "name_en": "On Matthias and the Amethyst Imago: Pursuit",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_Matthias_and_the_Amethyst_Imago:_Pursuit"
+      },
+      {
+        "book_id": "the_kerisham_portolan",
+        "name_ja": "ケリシャムの海図",
+        "name_en": "The Kerisham Portolan",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Kerisham_Portolan"
+      },
+      {
+        "book_id": "five_creations",
+        "name_ja": "五つの創造",
+        "name_en": "Five Creations",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Five_Creations"
+      },
+      {
+        "book_id": "three_flowers_hath_the_tree",
+        "name_ja": "その木には三つの花がある",
+        "name_en": "Three Flowers Hath the Tree",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Three_Flowers_Hath_the_Tree"
+      },
+      {
+        "book_id": "the_queens_of_the_rivers",
+        "name_ja": "川の女王たち",
+        "name_en": "The Queens of the Rivers",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Queens_of_the_Rivers"
+      },
+      {
+        "book_id": "the_humours_of_a_gentleman",
+        "name_ja": "紳士の気質",
+        "name_en": "The Humours of a Gentleman",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Humours_of_a_Gentleman"
+      },
+      {
+        "book_id": "in_the_mountains_as_upon_the_plain_there_may_not_be_a_path_where_none_has_passed",
+        "name_ja": "誰も通らなかった道は、平野にも山にもない",
+        "name_en": "In The Mountains As Upon The Plain There May Not Be A Path Where None Has Passed",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/In_The_Mountains_As_Upon_The_Plain_There_May_Not_Be_A_Path_Where_None_Has_Passed"
+      }
+    ]
+  },
+  {
+    "memory_id": "beguiling_melody",
+    "memory_name_ja": "魅惑の旋律",
+    "memory_name_en": "Beguiling Melody",
+    "aspects": {
+      "grail": 2,
+      "sky": 2
+    },
+    "books": [
+      {
+        "book_id": "the_intimations_of_skin",
+        "name_ja": "皮膚の暗示",
+        "name_en": "The Intimations of Skin",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Intimations_of_Skin"
+      },
+      {
+        "book_id": "the_skeleton_songs",
+        "name_ja": "骸骨の歌",
+        "name_en": "The Skeleton Songs",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Skeleton_Songs"
+      },
+      {
+        "book_id": "the_winds_ruin",
+        "name_ja": "風の破滅",
+        "name_en": "The Wind's Ruin",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Wind's_Ruin"
+      },
+      {
+        "book_id": "lake_fucino_recordings",
+        "name_ja": "フチーノ湖の録音",
+        "name_en": "Lake Fucino Recordings",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Lake_Fucino_Recordings"
+      },
+      {
+        "book_id": "the_morphy_codex",
+        "name_ja": "モーフィーの写本",
+        "name_en": "The Morphy Codex",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Morphy_Codex"
+      },
+      {
+        "book_id": "the_geminiad_iii",
+        "name_ja": "双子座の書 iii",
+        "name_en": "The Geminiad iii",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Geminiad_iii"
+      }
+    ]
+  },
+  {
+    "memory_id": "intuition",
+    "memory_name_ja": "直感",
+    "memory_name_en": "Intuition",
+    "aspects": {
+      "moon": 2,
+      "rose": 2
+    },
+    "books": [
+      {
+        "book_id": "the_orchid_transfigurations:_a_feast",
+        "name_ja": "蘭の変容：祝宴",
+        "name_en": "The Orchid Transfigurations: a Feast",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Orchid_Transfigurations:_a_Feast"
+      },
+      {
+        "book_id": "the_tripled_heart",
+        "name_ja": "三重の心臓",
+        "name_en": "The Tripled Heart",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Kernewek Henavek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Tripled_Heart"
+      },
+      {
+        "book_id": "collected_hush_house_lectures",
+        "name_ja": "沈黙の家の講義集",
+        "name_en": "Collected Hush House Lectures",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Collected_Hush_House_Lectures"
+      },
+      {
+        "book_id": "enchiridion_tragularis",
+        "name_ja": "悲劇の手引書",
+        "name_en": "Enchiridion Tragularis",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Enchiridion_Tragularis"
+      },
+      {
+        "book_id": "the_three_and_the_three_(kerisham_manuscript)",
+        "name_ja": "三と三（ケリシャム写本）",
+        "name_en": "The Three and the Three (Kerisham Manuscript)",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Three_and_the_Three_(Kerisham_Manuscript)"
+      },
+      {
+        "book_id": "the_three_and_the_three_(vatican_manuscript)",
+        "name_ja": "三と三（バチカン写本）",
+        "name_en": "The Three and the Three (Vatican Manuscript)",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Three_and_the_Three_(Vatican_Manuscript)"
+      },
+      {
+        "book_id": "the_fire_circle_tantra",
+        "name_ja": "火の輪のタントラ",
+        "name_en": "The Fire-Circle Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Fire-Circle_Tantra"
+      },
+      {
+        "book_id": "from_history_to_eternity",
+        "name_ja": "歴史から永遠へ",
+        "name_en": "From History to Eternity",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/From_History_to_Eternity"
+      },
+      {
+        "book_id": "book_of_miah",
+        "name_ja": "ミアの書",
+        "name_en": "Book of Miah",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Hyksos",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Book_of_Miah"
+      },
+      {
+        "book_id": "the_book_of_the_centipede",
+        "name_ja": "百足の書",
+        "name_en": "The Book of the Centipede",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Book_of_the_Centipede"
+      },
+      {
+        "book_id": "the_concursum_diaries",
+        "name_ja": "コンクルスムの日記",
+        "name_en": "The Concursum Diaries",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Concursum_Diaries"
+      },
+      {
+        "book_id": "the_history_of_inks",
+        "name_ja": "インクの歴史",
+        "name_en": "The History of Inks",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_History_of_Inks"
+      },
+      {
+        "book_id": "where_has_she_gone?",
+        "name_ja": "彼女はどこへ行ったのか？",
+        "name_en": "Where Has She Gone?",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Where_Has_She_Gone?"
+      },
+      {
+        "book_id": "the_republic_of_teeth",
+        "name_ja": "歯の共和国",
+        "name_en": "The Republic of Teeth",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Republic_of_Teeth"
+      },
+      {
+        "book_id": "against_the_sisterhood_of_the_knot_and_the_foulness_of_their_depraved_customs",
+        "name_ja": "結び目の姉妹団とその堕落した習慣の汚らしさに対抗して",
+        "name_en": "Against the Sisterhood of the Knot and the Foulness of their Depraved Customs",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Against_the_Sisterhood_of_the_Knot_and_the_Foulness_of_their_Depraved_Customs"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_the_suns_weakness",
+    "memory_name_ja": "ヌメン：the Sun's Weakness",
+    "memory_name_en": "Numen: the Sun's Weakness",
+    "aspects": {
+      "grail": 5,
+      "lantern": 5,
+      "moth": 5
+    },
+    "books": [
+      {
+        "book_id": "the_sun_disfigured",
+        "name_ja": "傷つけられた太陽",
+        "name_en": "The Sun Disfigured",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Cracktrack",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Sun_Disfigured"
+      }
+    ]
+  },
+  {
+    "memory_id": "storm",
+    "memory_name_ja": "嵐",
+    "memory_name_en": "Storm",
+    "aspects": {
+      "heart": 4,
+      "sky": 4
+    },
+    "books": [
+      {
+        "book_id": "apollo_and_marsyas",
+        "name_ja": "アポロンとマルシュアス",
+        "name_en": "Apollo and Marsyas",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Apollo_and_Marsyas"
+      },
+      {
+        "book_id": "the_flayed_tantra",
+        "name_ja": "剥がされたタントラ",
+        "name_en": "The Flayed Tantra",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sanskrit",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Flayed_Tantra"
+      },
+      {
+        "book_id": "those_who_do_not_sleep",
+        "name_ja": "眠らぬ者たち",
+        "name_en": "Those Who Do Not Sleep",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Those_Who_Do_Not_Sleep"
+      },
+      {
+        "book_id": "what_does_not_bark",
+        "name_ja": "吠えないもの",
+        "name_en": "What Does Not Bark",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/What_Does_Not_Bark"
+      },
+      {
+        "book_id": "de_motu_corporum_vetitorum",
+        "name_ja": "禁じられた物体の運動について",
+        "name_en": "De motu corporum vetitorum",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/De_motu_corporum_vetitorum"
+      }
+    ]
+  },
+  {
+    "memory_id": "solace",
+    "memory_name_ja": "慰め",
+    "memory_name_en": "Solace",
+    "aspects": {
+      "heart": 2,
+      "sky": 1
+    },
+    "books": [
+      {
+        "book_id": "the_geminiad_i",
+        "name_ja": "双子座の書 i",
+        "name_en": "The Geminiad i",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Geminiad_i"
+      },
+      {
+        "book_id": "notes_on_bindings",
+        "name_ja": "装丁に関するメモ",
+        "name_en": "Notes on Bindings",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Notes_on_Bindings"
+      },
+      {
+        "book_id": "the_orchid_transfigurations:_noon",
+        "name_ja": "蘭の変容：正午",
+        "name_en": "The Orchid Transfigurations: Noon",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Orchid_Transfigurations:_Noon"
+      },
+      {
+        "book_id": "the_world_despoild",
+        "name_ja": "略奪された世界",
+        "name_en": "The World Despoil'd",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_World_Despoil'd"
+      },
+      {
+        "book_id": "the_rose_of_hypatia",
+        "name_ja": "ヒュパティアの薔薇",
+        "name_en": "The Rose of Hypatia",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Rose_of_Hypatia"
+      },
+      {
+        "book_id": "the_mirror_of_melancthe",
+        "name_ja": "メランクテの鏡",
+        "name_en": "The Mirror of Melancthe",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Mirror_of_Melancthe"
+      },
+      {
+        "book_id": "travelling_at_night,_vol_2",
+        "name_ja": "夜の旅、第2巻",
+        "name_en": "Travelling at Night, vol 2",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Travelling_at_Night,_vol_2"
+      }
+    ]
+  },
+  {
+    "memory_id": "cheerful_ditty",
+    "memory_name_ja": "陽気な小唄",
+    "memory_name_en": "Cheerful Ditty",
+    "aspects": {
+      "heart": 2,
+      "sky": 1
+    },
+    "books": [
+      {
+        "book_id": "the_instruments_of_the_heart",
+        "name_ja": "心の道具",
+        "name_en": "The Instruments of the Heart",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Instruments_of_the_Heart"
+      },
+      {
+        "book_id": "the_invisible_opera_(unfinished_recording)",
+        "name_ja": "見えないオペラ（未完成の録音）",
+        "name_en": "The Invisible Opera (Unfinished Recording)",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Invisible_Opera_(Unfinished_Recording)"
+      },
+      {
+        "book_id": "opening_the_sky",
+        "name_ja": "空を開く",
+        "name_en": "Opening the Sky",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Opening_the_Sky"
+      },
+      {
+        "book_id": "perugian_diaries",
+        "name_ja": "ペルージャの日記",
+        "name_en": "Perugian Diaries",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Perugian_Diaries"
+      }
+    ]
+  },
+  {
+    "memory_id": "earth_sign",
+    "memory_name_ja": "大地の徴",
+    "memory_name_en": "Earth-Sign",
+    "aspects": {
+      "nectar": 2,
+      "scale": 2
+    },
+    "books": [
+      {
+        "book_id": "rapt_in_the_king",
+        "name_ja": "王に夢中",
+        "name_en": "Rapt in the King",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Rapt_in_the_King"
+      },
+      {
+        "book_id": "de_ratio_quercuum",
+        "name_ja": "樫の木の比率について",
+        "name_en": "De Ratio Quercuum",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/De_Ratio_Quercuum"
+      }
+    ]
+  },
+  {
+    "memory_id": "a_stolen_secret",
+    "memory_name_ja": "盗まれた秘密",
+    "memory_name_en": "A Stolen Secret",
+    "aspects": {
+      "moon": 2,
+      "knock": 1
+    },
+    "books": [
+      {
+        "book_id": "velletri_interviews",
+        "name_ja": "ヴェッレトリのインタビュー",
+        "name_en": "Velletri Interviews",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Velletri_Interviews"
+      },
+      {
+        "book_id": "deaths_and_their_evasions",
+        "name_ja": "死とその回避",
+        "name_en": "Deaths and their Evasions",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Deaths_and_their_Evasions"
+      },
+      {
+        "book_id": "the_gospel_of_zacchaeus",
+        "name_ja": "ザアカイの福音書",
+        "name_en": "The Gospel of Zacchaeus",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Greek",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Gospel_of_Zacchaeus"
+      },
+      {
+        "book_id": "the_account_of_kanishk_at_the_spiders_door",
+        "name_ja": "蜘蛛の扉におけるカニシカの報告",
+        "name_en": "The Account of Kanishk at the Spider's Door",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Account_of_Kanishk_at_the_Spider's_Door"
+      },
+      {
+        "book_id": "an_investigation_of_a_foundered_country",
+        "name_ja": "沈んだ国の調査",
+        "name_en": "An Investigation of A Foundered Country",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/An_Investigation_of_A_Foundered_Country"
+      },
+      {
+        "book_id": "on_matthias_and_the_amethyst_imago:_loss",
+        "name_ja": "マティアスと紫水晶の成虫について：喪失",
+        "name_en": "On Matthias and the Amethyst Imago: Loss",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Aramaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/On_Matthias_and_the_Amethyst_Imago:_Loss"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_inescapable_confinement",
+    "memory_name_ja": "ヌメン：Inescapable Confinement",
+    "memory_name_en": "Numen: Inescapable Confinement",
+    "aspects": {
+      "knock": 5,
+      "scale": 5,
+      "winter": 5
+    },
+    "books": [
+      {
+        "book_id": "towards_a_fundamental_aesthetic",
+        "name_ja": "根本的な美学に向けて",
+        "name_en": "Towards a Fundamental Aesthetic",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Ericapaean",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Towards_a_Fundamental_Aesthetic"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_the_paths_of_the_sun",
+    "memory_name_ja": "ヌメン：the Paths of the Sun",
+    "memory_name_en": "Numen: the Paths of the Sun",
+    "aspects": {
+      "forge": 5,
+      "lantern": 5,
+      "knock": 5
+    },
+    "books": [
+      {
+        "book_id": "the_suns_design",
+        "name_ja": "太陽の設計",
+        "name_en": "The Sun's Design",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Cracktrack",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Sun's_Design"
+      }
+    ]
+  },
+  {
+    "memory_id": "savage_hymn",
+    "memory_name_ja": "野蛮な讃歌",
+    "memory_name_en": "Savage Hymn",
+    "aspects": {
+      "scale": 2,
+      "sky": 2
+    },
+    "books": [
+      {
+        "book_id": "unhatched_hymns",
+        "name_ja": "孵化せぬ賛歌",
+        "name_en": "Unhatched Hymns",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Sabazine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Unhatched_Hymns"
+      },
+      {
+        "book_id": "singlefoot_songs",
+        "name_ja": "片足の歌",
+        "name_en": "Singlefoot Songs",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Singlefoot_Songs"
+      }
+    ]
+  },
+  {
+    "memory_id": "salt",
+    "memory_name_ja": "塩",
+    "memory_name_en": "Salt",
+    "aspects": {
+      "knock": 1,
+      "moon": 1,
+      "winter": 1
+    },
+    "books": [
+      {
+        "book_id": "the_crossing_to_noon",
+        "name_ja": "正午への渡り",
+        "name_en": "The Crossing to Noon",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Latin",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Crossing_to_Noon"
+      },
+      {
+        "book_id": "the_deaths_of_the_moon",
+        "name_ja": "月の死",
+        "name_en": "The Deaths of the Moon",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Killasimi",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Deaths_of_the_Moon"
+      },
+      {
+        "book_id": "the_larquebine_codex",
+        "name_ja": "ラークバインの写本",
+        "name_en": "The Larquebine Codex",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Phrygian",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Larquebine_Codex"
+      },
+      {
+        "book_id": "a_pale_lady_and_a_prince_of_wines",
+        "name_ja": "蒼白の淑女とワインの王子",
+        "name_en": "A Pale Lady and a Prince of Wines",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/A_Pale_Lady_and_a_Prince_of_Wines"
+      },
+      {
+        "book_id": "the_queens_turn",
+        "name_ja": "女王の番",
+        "name_en": "The Queen's Turn",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Queen's_Turn"
+      },
+      {
+        "book_id": "the_sea_does_not_regret",
+        "name_ja": "海は後悔しない",
+        "name_en": "The Sea Does Not Regret",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Sea_Does_Not_Regret"
+      },
+      {
+        "book_id": "to_a_pale_lady",
+        "name_ja": "蒼白の淑女へ",
+        "name_en": "To a Pale Lady",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/To_a_Pale_Lady"
+      },
+      {
+        "book_id": "the_voyages_of_ferninshun_of_oreol",
+        "name_ja": "オレオル出身のフェルニンシュンの航海",
+        "name_en": "The Voyages of Ferninshun of Oreol",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Fucine",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Voyages_of_Ferninshun_of_Oreol"
+      },
+      {
+        "book_id": "cucurbit_prisoner_records_1928",
+        "name_ja": "ククルビット囚人記録 1928",
+        "name_en": "Cucurbit Prisoner Records 1928",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Cucurbit_Prisoner_Records_1928"
+      },
+      {
+        "book_id": "journal_of_thomas_dewulf",
+        "name_ja": "トーマス・デウルフの日記",
+        "name_en": "Journal of Thomas Dewulf",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/Journal_of_Thomas_Dewulf"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_three_rules",
+    "memory_name_ja": "ヌメン：Three Rules",
+    "memory_name_en": "Numen: Three Rules",
+    "aspects": {
+      "heart": 5,
+      "moth": 5,
+      "scale": 5
+    },
+    "books": [
+      {
+        "book_id": "the_three_and_the_three_(st_chiavi_manuscript)",
+        "name_ja": "三と三（聖キアヴィ写本）",
+        "name_en": "The Three and the Three (St Chiavi Manuscript)",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": null,
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Three_and_the_Three_(St_Chiavi_Manuscript)"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_weaving_the_world",
+    "memory_name_ja": "ヌメン：Weaving the World",
+    "memory_name_en": "Numen: Weaving the World",
+    "aspects": {
+      "heart": 5,
+      "moon": 5,
+      "nectar": 5
+    },
+    "books": [
+      {
+        "book_id": "kopralith_omphalos",
+        "name_ja": "コプラリスのへそ",
+        "name_en": "Kopralith Omphalos",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Killasimi",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Kopralith_Omphalos"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_loopholes",
+    "memory_name_ja": "ヌメン：Loopholes",
+    "memory_name_en": "Numen: Loopholes",
+    "aspects": {
+      "knock": 5,
+      "moon": 5,
+      "moth": 5
+    },
+    "books": [
+      {
+        "book_id": "serpent_root",
+        "name_ja": "蛇の根",
+        "name_en": "Serpent-Root",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Cracktrack",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Serpent-Root"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_an_irresistible_feast",
+    "memory_name_ja": "ヌメン：an Irresistible Feast",
+    "memory_name_en": "Numen: an Irresistible Feast",
+    "aspects": {
+      "edge": 5,
+      "grail": 5,
+      "nectar": 5
+    },
+    "books": [
+      {
+        "book_id": "the_writing_on_the_wall",
+        "name_ja": "壁の落書き",
+        "name_en": "The Writing on the Wall",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Vak",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Writing_on_the_Wall"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_that_old_lost_music",
+    "memory_name_ja": "ヌメン：That Old Lost Music",
+    "memory_name_en": "Numen: That Old Lost Music",
+    "aspects": {
+      "sky": 5,
+      "rose": 5,
+      "scale": 5
+    },
+    "books": [
+      {
+        "book_id": "the_turquoise_hand",
+        "name_ja": "ターコイズの手",
+        "name_en": "The Turquoise Hand",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Ramsund",
+        "source_url": "https://book-of-hours.fandom.com/wiki/The_Turquoise_Hand"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_the_great_counterfeit",
+    "memory_name_ja": "ヌメン：the Great Counterfeit",
+    "memory_name_en": "Numen: the Great Counterfeit",
+    "aspects": {
+      "lantern": 5,
+      "moon": 5,
+      "nectar": 5
+    },
+    "books": [
+      {
+        "book_id": "shuritic_book_of_suns",
+        "name_ja": "Shuritic Book of Suns",
+        "name_en": "Shuritic Book of Suns",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Deep Mandaic",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Shuritic_Book_of_Suns"
+      }
+    ]
+  },
+  {
+    "memory_id": "numen:_a_final_understanding",
+    "memory_name_ja": "ヌメン：a Final Understanding",
+    "memory_name_en": "Numen: a Final Understanding",
+    "aspects": {
+      "rose": 5,
+      "sky": 5,
+      "winter": 5
+    },
+    "books": [
+      {
+        "book_id": "towards_a_fundamental_aesthetic:_second_edition",
+        "name_ja": "根本的な美学に向けて：第二版",
+        "name_en": "Towards a Fundamental Aesthetic: Second Edition",
+        "difficulty_aspect": null,
+        "difficulty_value": null,
+        "language": "Ericapaean",
+        "source_url": "https://book-of-hours.fandom.com/wiki/Towards_a_Fundamental_Aesthetic:_Second_Edition"
+      }
+    ]
+  }
+]

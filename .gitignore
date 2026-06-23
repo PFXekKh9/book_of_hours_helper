@@ -1,0 +1,38 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Node / Vite
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+frontend/dist-ssr/
+
+# Logs and local runtime output
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local environment / machine-specific files
+.env
+.env.*
+*.local
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Generated wiki fetch/cache artifacts.
+# Provide these locally via BOOK_OF_HOURS_CRAFTS_HTML / BOOK_OF_HOURS_SKILLS_HTML if needed.
+wiki_sources/
+frontend/scripts/.cache_*.json

@@ -1,0 +1,4247 @@
+{
+  "Disciplines of the Hammer": [
+    {
+      "item_name_en": "Labhitic Tincture",
+      "aspects": [
+        "edge",
+        "lantern"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Winning Move",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Invincible Audacity",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        633
+      ]
+    },
+    {
+      "item_name_en": "Bitterblack Salts",
+      "aspects": [
+        "forge"
+      ],
+      "levels": [
+        1
+      ]
+    },
+    {
+      "item_name_en": "Wire (Orichalcum)",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        41
+      ]
+    },
+    {
+      "item_name_en": "Azoth",
+      "aspects": [
+        "forge",
+        "knock"
+      ],
+      "levels": [
+        26
+      ]
+    },
+    {
+      "item_name_en": "Iotic Essence",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        53
+      ]
+    }
+  ],
+  "Edicts Martial": [
+    {
+      "item_name_en": "Labhitic Tincture",
+      "aspects": [
+        "edge",
+        "lantern"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Perinculate",
+      "aspects": [
+        "edge",
+        "grail",
+        "scale"
+      ],
+      "levels": [
+        414
+      ]
+    },
+    {
+      "item_name_en": "Invincible Audacity",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        633
+      ]
+    },
+    {
+      "item_name_en": "Old Wound",
+      "aspects": [
+        "edge",
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        123
+      ]
+    },
+    {
+      "item_name_en": "Wormwood Dream",
+      "aspects": [
+        "edge",
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        366
+      ]
+    },
+    {
+      "item_name_en": "Forbidden Epic",
+      "aspects": [
+        "edge",
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        644
+      ]
+    }
+  ],
+  "Ragged Crossroads": [
+    {
+      "item_name_en": "Labhitic Tincture",
+      "aspects": [
+        "edge",
+        "lantern"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Winning Move",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Bittersweet Certainty",
+      "aspects": [
+        "lantern",
+        "winter (principle)"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Solomon’s Preparation",
+      "aspects": [
+        "moon",
+        "moth",
+        "winter (principle)"
+      ],
+      "levels": [
+        114
+      ]
+    },
+    {
+      "item_name_en": "Year Tally",
+      "aspects": [
+        "winter (principle)"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Sickle & Eclipse": [
+    {
+      "item_name_en": "Labhitic Tincture",
+      "aspects": [
+        "edge",
+        "lantern"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Perinculate",
+      "aspects": [
+        "edge",
+        "grail",
+        "scale"
+      ],
+      "levels": [
+        414
+      ]
+    },
+    {
+      "item_name_en": "Serpent-Milk",
+      "aspects": [
+        "edge",
+        "knock",
+        "scale"
+      ],
+      "levels": [
+        623
+      ]
+    },
+    {
+      "item_name_en": "Catwink",
+      "aspects": [
+        "edge",
+        "grail",
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Essential Periost",
+      "aspects": [
+        "moon",
+        "nectar",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2444
+      ]
+    },
+    {
+      "item_name_en": "Wormwood Dream",
+      "aspects": [
+        "edge",
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        366
+      ]
+    }
+  ],
+  "Auroral Contemplations": [
+    {
+      "item_name_en": "Torgue's Cleansing",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Winning Move",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Invincible Audacity",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        633
+      ]
+    },
+    {
+      "item_name_en": "Eigengrau",
+      "aspects": [
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        11
+      ]
+    },
+    {
+      "item_name_en": "Xanthotic Essence",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        225
+      ]
+    },
+    {
+      "item_name_en": "Porphyrine",
+      "aspects": [
+        "knock",
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Ichor Auroral",
+      "aspects": [
+        "lantern",
+        "rose"
+      ],
+      "levels": [
+        42
+      ]
+    }
+  ],
+  "Disciplines of the Scar": [
+    {
+      "item_name_en": "Torgue's Cleansing",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Perinculate",
+      "aspects": [
+        "edge",
+        "grail",
+        "scale"
+      ],
+      "levels": [
+        414
+      ]
+    },
+    {
+      "item_name_en": "Serpent-Milk",
+      "aspects": [
+        "edge",
+        "knock",
+        "scale"
+      ],
+      "levels": [
+        623
+      ]
+    },
+    {
+      "item_name_en": "Dearday Lens",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Old Moment",
+      "aspects": [
+        "lantern",
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Earthquake Name",
+      "aspects": [
+        "forge",
+        "scale"
+      ],
+      "levels": [
+        36
+      ]
+    }
+  ],
+  "Meniscate Reflections": [
+    {
+      "item_name_en": "Torgue's Cleansing",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Winning Move",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Serpent-Milk",
+      "aspects": [
+        "edge",
+        "knock",
+        "scale"
+      ],
+      "levels": [
+        623
+      ]
+    },
+    {
+      "item_name_en": "Westcott's Compounds",
+      "aspects": [
+        "forge",
+        "grail",
+        "lantern",
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        21111
+      ]
+    },
+    {
+      "item_name_en": "Iotic Essence",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        53
+      ]
+    },
+    {
+      "item_name_en": "Azoth",
+      "aspects": [
+        "forge",
+        "knock"
+      ],
+      "levels": [
+        26
+      ]
+    },
+    {
+      "item_name_en": "Iotic Essence",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        53
+      ]
+    }
+  ],
+  "Sharps": [
+    {
+      "item_name_en": "Torgue's Cleansing",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Winning Move",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Serpent-Milk",
+      "aspects": [
+        "edge",
+        "knock",
+        "scale"
+      ],
+      "levels": [
+        623
+      ]
+    },
+    {
+      "item_name_en": "Midnight Mark",
+      "aspects": [
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Essential Periost",
+      "aspects": [
+        "moon",
+        "nectar",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2444
+      ]
+    }
+  ],
+  "Anbary & Lapidary": [
+    {
+      "item_name_en": "Bitterblack Salts",
+      "aspects": [
+        "forge"
+      ],
+      "levels": [
+        1
+      ]
+    },
+    {
+      "item_name_en": "Iotic Essence",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        53
+      ]
+    },
+    {
+      "item_name_en": "Orpiment Exultant",
+      "aspects": [
+        "forge",
+        "heart",
+        "sky"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Uzult",
+      "aspects": [
+        "lantern",
+        "moth",
+        "sky"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Awakened Feather",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Xanthotic Essence",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        225
+      ]
+    },
+    {
+      "item_name_en": "Ashartine",
+      "aspects": [
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        162
+      ]
+    }
+  ],
+  "Bells & Brazieries": [
+    {
+      "item_name_en": "Bitterblack Salts",
+      "aspects": [
+        "forge"
+      ],
+      "levels": [
+        1
+      ]
+    },
+    {
+      "item_name_en": "Wire (Orichalcum)",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        41
+      ]
+    },
+    {
+      "item_name_en": "Azoth",
+      "aspects": [
+        "forge",
+        "knock"
+      ],
+      "levels": [
+        26
+      ]
+    },
+    {
+      "item_name_en": "Wistful Air",
+      "aspects": [
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Ascendant Harmony",
+      "aspects": [
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "item_name_en": "Didumos",
+      "aspects": [
+        "knock",
+        "lantern",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3363
+      ]
+    }
+  ],
+  "Door & Wall": [
+    {
+      "item_name_en": "Bitterblack Salts",
+      "aspects": [
+        "forge"
+      ],
+      "levels": [
+        1
+      ]
+    },
+    {
+      "item_name_en": "Wire (Orichalcum)",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        41
+      ]
+    },
+    {
+      "item_name_en": "Azoth",
+      "aspects": [
+        "forge",
+        "knock"
+      ],
+      "levels": [
+        26
+      ]
+    },
+    {
+      "item_name_en": "Secret Threshold",
+      "aspects": [
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Glassfinger Toxin",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        242
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Ascite",
+      "aspects": [
+        "knock"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Transformations & Liberations": [
+    {
+      "item_name_en": "Bitterblack Salts",
+      "aspects": [
+        "forge"
+      ],
+      "levels": [
+        1
+      ]
+    },
+    {
+      "item_name_en": "Iotic Essence",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        53
+      ]
+    },
+    {
+      "item_name_en": "Iotic Essence",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        53
+      ]
+    },
+    {
+      "item_name_en": "Orpiment Exultant",
+      "aspects": [
+        "forge",
+        "heart",
+        "sky"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Refulgin",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Xanthotic Essence",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        225
+      ]
+    },
+    {
+      "item_name_en": "Chimeric Larva",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Skinshuck Mead",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "heart"
+      ],
+      "levels": [
+        6222
+      ]
+    },
+    {
+      "item_name_en": "Perilous Imago",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        2262
+      ]
+    }
+  ],
+  "Pyroglyphics": [
+    {
+      "item_name_en": "Westcott's Compounds",
+      "aspects": [
+        "forge",
+        "grail",
+        "lantern",
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        21111
+      ]
+    },
+    {
+      "item_name_en": "Iotic Essence",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        53
+      ]
+    },
+    {
+      "item_name_en": "Azoth",
+      "aspects": [
+        "forge",
+        "knock"
+      ],
+      "levels": [
+        26
+      ]
+    },
+    {
+      "item_name_en": "Dearday Lens",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Xanthotic Essence",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        225
+      ]
+    },
+    {
+      "item_name_en": "Ashartine",
+      "aspects": [
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        162
+      ]
+    }
+  ],
+  "Spices & Savours": [
+    {
+      "item_name_en": "Westcott's Compounds",
+      "aspects": [
+        "forge",
+        "grail",
+        "lantern",
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        21111
+      ]
+    },
+    {
+      "item_name_en": "Iotic Essence",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        53
+      ]
+    },
+    {
+      "item_name_en": "Thirza's Cordials",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Pyrus Auricalcinus",
+      "aspects": [
+        "forge",
+        "nectar"
+      ],
+      "levels": [
+        44
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Malachite",
+      "aspects": [
+        "nectar"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Purifications & Exaltations": [
+    {
+      "item_name_en": "Azoth",
+      "aspects": [
+        "forge",
+        "knock"
+      ],
+      "levels": [
+        26
+      ]
+    },
+    {
+      "item_name_en": "Refulgin",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Xanthotic Essence",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        225
+      ]
+    },
+    {
+      "item_name_en": "Xanthotic Essence",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        225
+      ]
+    },
+    {
+      "item_name_en": "Torgue's Cleansing",
+      "aspects": [
+        "edge"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Ascendant Harmony",
+      "aspects": [
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        24
+      ]
+    }
+  ],
+  "Inks of Power": [
+    {
+      "item_name_en": "Orpiment Exultant",
+      "aspects": [
+        "forge",
+        "heart",
+        "sky"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Yewgall Ink",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Marakat",
+      "aspects": [
+        "grail",
+        "knock",
+        "nectar"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Salt-Sign",
+      "aspects": [
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Ichor Auroral",
+      "aspects": [
+        "lantern",
+        "rose"
+      ],
+      "levels": [
+        42
+      ]
+    },
+    {
+      "item_name_en": "Porphyrine",
+      "aspects": [
+        "knock",
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Perhibiate",
+      "aspects": [
+        "heart",
+        "lantern",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2221
+      ]
+    },
+    {
+      "item_name_en": "Perinculate",
+      "aspects": [
+        "edge",
+        "grail",
+        "scale"
+      ],
+      "levels": [
+        414
+      ]
+    },
+    {
+      "item_name_en": "Stargall Ink",
+      "aspects": [
+        "forge",
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        112
+      ]
+    }
+  ],
+  "Desires & Dissolutions": [
+    {
+      "item_name_en": "Witching Tisane",
+      "aspects": [
+        "grail",
+        "heart"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Rubywise Ruin",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth",
+        "nectar",
+        "rose"
+      ],
+      "levels": [
+        42222
+      ]
+    },
+    {
+      "item_name_en": "Flushed Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        633
+      ]
+    },
+    {
+      "item_name_en": "Midnight Mark",
+      "aspects": [
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Pyrus Auricalcinus",
+      "aspects": [
+        "forge",
+        "nectar"
+      ],
+      "levels": [
+        44
+      ]
+    },
+    {
+      "item_name_en": "Black Sapphire Wash",
+      "aspects": [
+        "moon"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Leaves & Thorns": [
+    {
+      "item_name_en": "Witching Tisane",
+      "aspects": [
+        "grail",
+        "heart"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Rubywise Ruin",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth",
+        "nectar",
+        "rose"
+      ],
+      "levels": [
+        42222
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Calicite",
+      "aspects": [
+        "grail"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Yewgall Ink",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Pyrus Auricalcinus",
+      "aspects": [
+        "forge",
+        "nectar"
+      ],
+      "levels": [
+        44
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Malachite",
+      "aspects": [
+        "nectar"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Orchids & Narcotics": [
+    {
+      "item_name_en": "Witching Tisane",
+      "aspects": [
+        "grail",
+        "heart"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Rubywise Ruin",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth",
+        "nectar",
+        "rose"
+      ],
+      "levels": [
+        42222
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Calicite",
+      "aspects": [
+        "grail"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Thirza's Cordials",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Leathy",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "grail"
+      ],
+      "levels": [
+        4222
+      ]
+    }
+  ],
+  "Sea Stories": [
+    {
+      "item_name_en": "Witching Tisane",
+      "aspects": [
+        "grail",
+        "heart"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Pale Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        422
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Calicite",
+      "aspects": [
+        "grail"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Salt-Sign",
+      "aspects": [
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Asimel",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth",
+        "rose"
+      ],
+      "levels": [
+        3511
+      ]
+    },
+    {
+      "item_name_en": "Black Sapphire Wash",
+      "aspects": [
+        "moon"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "The Great Signs and the Great Scars": [
+    {
+      "item_name_en": "Witching Tisane",
+      "aspects": [
+        "grail",
+        "heart"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Pale Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        422
+      ]
+    },
+    {
+      "item_name_en": "Flushed Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        633
+      ]
+    },
+    {
+      "item_name_en": "Amethyst Ampoule",
+      "aspects": [
+        "heart",
+        "knock"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Curious Hunch",
+      "aspects": [
+        "heart",
+        "knock",
+        "lantern",
+        "moth"
+      ],
+      "levels": [
+        3433
+      ]
+    },
+    {
+      "item_name_en": "Chronsichord",
+      "aspects": [
+        "forge",
+        "knock",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3633
+      ]
+    }
+  ],
+  "Applebright Euphonies": [
+    {
+      "item_name_en": "Beguiling Melody",
+      "aspects": [
+        "grail",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Rubywise Ruin",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth",
+        "nectar",
+        "rose"
+      ],
+      "levels": [
+        42222
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Calicite",
+      "aspects": [
+        "grail"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Confounding Parable",
+      "aspects": [
+        "moon",
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        222
+      ]
+    },
+    {
+      "item_name_en": "Ascendant Harmony",
+      "aspects": [
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "item_name_en": "Didumos",
+      "aspects": [
+        "knock",
+        "lantern",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3363
+      ]
+    }
+  ],
+  "Pentiments & Precursors": [
+    {
+      "item_name_en": "Beguiling Melody",
+      "aspects": [
+        "grail",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Pale Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        422
+      ]
+    },
+    {
+      "item_name_en": "Flushed Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        633
+      ]
+    },
+    {
+      "item_name_en": "Bisclavret's Knot",
+      "aspects": [
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Living Relic",
+      "aspects": [
+        "heart",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        142
+      ]
+    },
+    {
+      "item_name_en": "Houndsgall",
+      "aspects": [
+        "edge",
+        "heart",
+        "scale"
+      ],
+      "levels": [
+        125
+      ]
+    }
+  ],
+  "Resurgences & Emergences": [
+    {
+      "item_name_en": "Beguiling Melody",
+      "aspects": [
+        "grail",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Pale Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        422
+      ]
+    },
+    {
+      "item_name_en": "Flushed Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        633
+      ]
+    },
+    {
+      "item_name_en": "Tanglebrag",
+      "aspects": [
+        "lantern",
+        "moth",
+        "nectar",
+        "scale"
+      ],
+      "levels": [
+        1211
+      ]
+    },
+    {
+      "item_name_en": "Chimeric Larva",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Skinshuck Mead",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "heart"
+      ],
+      "levels": [
+        6222
+      ]
+    },
+    {
+      "item_name_en": "Perilous Imago",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        2262
+      ]
+    }
+  ],
+  "Tridesma Hiera": [
+    {
+      "item_name_en": "Beguiling Melody",
+      "aspects": [
+        "grail",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Pale Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        422
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Calicite",
+      "aspects": [
+        "grail"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Confounding Parable",
+      "aspects": [
+        "moon",
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        222
+      ]
+    },
+    {
+      "item_name_en": "Stymphling",
+      "aspects": [
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "item_name_en": "Black Sapphire Wash",
+      "aspects": [
+        "moon"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Marakat",
+      "aspects": [
+        "grail",
+        "knock",
+        "nectar"
+      ],
+      "levels": [
+        777
+      ]
+    }
+  ],
+  "Furs & Feathers": [
+    {
+      "item_name_en": "Flushed Mommet",
+      "aspects": [
+        "grail",
+        "heart",
+        "moth"
+      ],
+      "levels": [
+        633
+      ]
+    },
+    {
+      "item_name_en": "Bisclavret's Knot",
+      "aspects": [
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Living Relic",
+      "aspects": [
+        "heart",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        142
+      ]
+    },
+    {
+      "item_name_en": "Awakened Feather",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Ascendant Harmony",
+      "aspects": [
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "item_name_en": "Wind-in-Waiting",
+      "aspects": [
+        "grail",
+        "moth",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        3336
+      ]
+    }
+  ],
+  "Stitching & Binding": [
+    {
+      "item_name_en": "Perhibiate",
+      "aspects": [
+        "heart",
+        "lantern",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2221
+      ]
+    },
+    {
+      "item_name_en": "Frith-Weft",
+      "aspects": [
+        "heart"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Swaddled Thunder",
+      "aspects": [
+        "heart",
+        "sky"
+      ],
+      "levels": [
+        64
+      ]
+    },
+    {
+      "item_name_en": "Awakened Feather",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Living Relic",
+      "aspects": [
+        "heart",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        142
+      ]
+    },
+    {
+      "item_name_en": "Wyrd-Weft",
+      "aspects": [
+        "heart",
+        "winter (principle)"
+      ],
+      "levels": [
+        36
+      ]
+    }
+  ],
+  "Weaving & Knotworking": [
+    {
+      "item_name_en": "Perhibiate",
+      "aspects": [
+        "heart",
+        "lantern",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2221
+      ]
+    },
+    {
+      "item_name_en": "Frith-Weft",
+      "aspects": [
+        "heart"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Swaddled Thunder",
+      "aspects": [
+        "heart",
+        "sky"
+      ],
+      "levels": [
+        64
+      ]
+    },
+    {
+      "item_name_en": "Tanglebrag",
+      "aspects": [
+        "lantern",
+        "moth",
+        "nectar",
+        "scale"
+      ],
+      "levels": [
+        1211
+      ]
+    },
+    {
+      "item_name_en": "Nameday Riddle",
+      "aspects": [
+        "knock",
+        "moth"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "item_name_en": "Wyrd-Weft",
+      "aspects": [
+        "heart",
+        "winter (principle)"
+      ],
+      "levels": [
+        36
+      ]
+    }
+  ],
+  "Edicts Inviolable": [
+    {
+      "item_name_en": "Regensburg Balm",
+      "aspects": [
+        "heart",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Gideon's Soaks",
+      "aspects": [
+        "forge",
+        "heart",
+        "nectar",
+        "winter (principle)"
+      ],
+      "levels": [
+        2432
+      ]
+    },
+    {
+      "item_name_en": "January Sanguinary",
+      "aspects": [
+        "heart",
+        "knock",
+        "sky"
+      ],
+      "levels": [
+        533
+      ]
+    },
+    {
+      "item_name_en": "Catwink",
+      "aspects": [
+        "edge",
+        "grail",
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Solomon’s Preparation",
+      "aspects": [
+        "moon",
+        "moth",
+        "winter (principle)"
+      ],
+      "levels": [
+        114
+      ]
+    },
+    {
+      "item_name_en": "Wormwood Dream",
+      "aspects": [
+        "edge",
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        366
+      ]
+    }
+  ],
+  "Herbs & Infusions": [
+    {
+      "item_name_en": "Regensburg Balm",
+      "aspects": [
+        "heart",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Gideon's Soaks",
+      "aspects": [
+        "forge",
+        "heart",
+        "nectar",
+        "winter (principle)"
+      ],
+      "levels": [
+        2432
+      ]
+    },
+    {
+      "item_name_en": "January Sanguinary",
+      "aspects": [
+        "heart",
+        "knock",
+        "sky"
+      ],
+      "levels": [
+        533
+      ]
+    },
+    {
+      "item_name_en": "Thirza's Cordials",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Leathy",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "grail"
+      ],
+      "levels": [
+        4222
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Malachite",
+      "aspects": [
+        "nectar"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Maggephene Mysteries": [
+    {
+      "item_name_en": "Regensburg Balm",
+      "aspects": [
+        "heart",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Gideon's Soaks",
+      "aspects": [
+        "forge",
+        "heart",
+        "nectar",
+        "winter (principle)"
+      ],
+      "levels": [
+        2432
+      ]
+    },
+    {
+      "item_name_en": "January Sanguinary",
+      "aspects": [
+        "heart",
+        "knock",
+        "sky"
+      ],
+      "levels": [
+        533
+      ]
+    },
+    {
+      "item_name_en": "Eigengrau",
+      "aspects": [
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        11
+      ]
+    },
+    {
+      "item_name_en": "Solomon’s Preparation",
+      "aspects": [
+        "moon",
+        "moth",
+        "winter (principle)"
+      ],
+      "levels": [
+        114
+      ]
+    }
+  ],
+  "Quenchings & Quellings": [
+    {
+      "item_name_en": "Regensburg Balm",
+      "aspects": [
+        "heart",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Gideon's Soaks",
+      "aspects": [
+        "forge",
+        "heart",
+        "nectar",
+        "winter (principle)"
+      ],
+      "levels": [
+        2432
+      ]
+    },
+    {
+      "item_name_en": "Swaddled Thunder",
+      "aspects": [
+        "heart",
+        "sky"
+      ],
+      "levels": [
+        64
+      ]
+    },
+    {
+      "item_name_en": "Eigengrau",
+      "aspects": [
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        11
+      ]
+    },
+    {
+      "item_name_en": "Solomon’s Preparation",
+      "aspects": [
+        "moon",
+        "moth",
+        "winter (principle)"
+      ],
+      "levels": [
+        114
+      ]
+    }
+  ],
+  "Surgeries & Exsanguinations": [
+    {
+      "item_name_en": "Regensburg Balm",
+      "aspects": [
+        "heart",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Gideon's Soaks",
+      "aspects": [
+        "forge",
+        "heart",
+        "nectar",
+        "winter (principle)"
+      ],
+      "levels": [
+        2432
+      ]
+    },
+    {
+      "item_name_en": "January Sanguinary",
+      "aspects": [
+        "heart",
+        "knock",
+        "sky"
+      ],
+      "levels": [
+        533
+      ]
+    },
+    {
+      "item_name_en": "Amethyst Ampoule",
+      "aspects": [
+        "heart",
+        "knock"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Glassfinger Toxin",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        242
+      ]
+    },
+    {
+      "item_name_en": "January Sanguinary",
+      "aspects": [
+        "heart",
+        "knock",
+        "sky"
+      ],
+      "levels": [
+        533
+      ]
+    }
+  ],
+  "Drums & Dances": [
+    {
+      "item_name_en": "Cheerful Ditty",
+      "aspects": [
+        "heart",
+        "sky"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Thunderskin's Paean",
+      "aspects": [
+        "grail",
+        "heart",
+        "scale"
+      ],
+      "levels": [
+        141
+      ]
+    },
+    {
+      "item_name_en": "Savage Hymn",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Hive's Lament",
+      "aspects": [
+        "moth",
+        "nectar",
+        "winter (principle)"
+      ],
+      "levels": [
+        242
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Malachite",
+      "aspects": [
+        "nectar"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Savage Hymn",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    }
+  ],
+  "Strings & Songs": [
+    {
+      "item_name_en": "Cheerful Ditty",
+      "aspects": [
+        "heart",
+        "sky"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Thunderskin's Paean",
+      "aspects": [
+        "grail",
+        "heart",
+        "scale"
+      ],
+      "levels": [
+        141
+      ]
+    },
+    {
+      "item_name_en": "Wistful Air",
+      "aspects": [
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Ascendant Harmony",
+      "aspects": [
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "item_name_en": "Wind-in-Waiting",
+      "aspects": [
+        "grail",
+        "moth",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        3336
+      ]
+    }
+  ],
+  "Glassblowing & Vesselcrafting": [
+    {
+      "item_name_en": "Amethyst Ampoule",
+      "aspects": [
+        "heart",
+        "knock"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Wire (Orichalcum)",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        41
+      ]
+    },
+    {
+      "item_name_en": "Chronsichord",
+      "aspects": [
+        "forge",
+        "knock",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3633
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Ascite",
+      "aspects": [
+        "knock"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Dearday Lens",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Ichor Vitreous",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        4
+      ]
+    },
+    {
+      "item_name_en": "Ashartine",
+      "aspects": [
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        162
+      ]
+    },
+    {
+      "item_name_en": "Dearday Lens",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Ichor Vitreous",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        4
+      ]
+    },
+    {
+      "item_name_en": "Ashartine",
+      "aspects": [
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        162
+      ]
+    }
+  ],
+  "Lockworks & Clockworks": [
+    {
+      "item_name_en": "Amethyst Ampoule",
+      "aspects": [
+        "heart",
+        "knock"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Gervinite",
+      "aspects": [
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        42
+      ]
+    },
+    {
+      "item_name_en": "Chronsichord",
+      "aspects": [
+        "forge",
+        "knock",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3633
+      ]
+    },
+    {
+      "item_name_en": "Awakened Feather",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Wire (Orichalcum)",
+      "aspects": [
+        "forge",
+        "lantern"
+      ],
+      "levels": [
+        41
+      ]
+    },
+    {
+      "item_name_en": "Chronsichord",
+      "aspects": [
+        "forge",
+        "knock",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3633
+      ]
+    }
+  ],
+  "Solutions & Separations": [
+    {
+      "item_name_en": "Amethyst Ampoule",
+      "aspects": [
+        "heart",
+        "knock"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Glassfinger Toxin",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        242
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Ascite",
+      "aspects": [
+        "knock"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Westcott's Compounds",
+      "aspects": [
+        "forge",
+        "grail",
+        "lantern",
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        21111
+      ]
+    },
+    {
+      "item_name_en": "Nameday Riddle",
+      "aspects": [
+        "knock",
+        "moth"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "item_name_en": "Skinshuck Mead",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "heart"
+      ],
+      "levels": [
+        6222
+      ]
+    }
+  ],
+  "Edicts Liminal": [
+    {
+      "item_name_en": "Secret Threshold",
+      "aspects": [
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Glassfinger Toxin",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        242
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Ascite",
+      "aspects": [
+        "knock"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Tanglebrag",
+      "aspects": [
+        "lantern",
+        "moth",
+        "nectar",
+        "scale"
+      ],
+      "levels": [
+        1211
+      ]
+    },
+    {
+      "item_name_en": "Nameday Riddle",
+      "aspects": [
+        "knock",
+        "moth"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "item_name_en": "Skinshuck Mead",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "heart"
+      ],
+      "levels": [
+        6222
+      ]
+    }
+  ],
+  "Horns & Ivories": [
+    {
+      "item_name_en": "Secret Threshold",
+      "aspects": [
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Chimeric Larva",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Ascite",
+      "aspects": [
+        "knock"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Bisclavret's Knot",
+      "aspects": [
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Old Moment",
+      "aspects": [
+        "lantern",
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Houndsgall",
+      "aspects": [
+        "edge",
+        "heart",
+        "scale"
+      ],
+      "levels": [
+        125
+      ]
+    }
+  ],
+  "Preliminal Meter": [
+    {
+      "item_name_en": "Secret Threshold",
+      "aspects": [
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Curious Hunch",
+      "aspects": [
+        "heart",
+        "knock",
+        "lantern",
+        "moth"
+      ],
+      "levels": [
+        3433
+      ]
+    },
+    {
+      "item_name_en": "Chronsichord",
+      "aspects": [
+        "forge",
+        "knock",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3633
+      ]
+    },
+    {
+      "item_name_en": "Confounding Parable",
+      "aspects": [
+        "moon",
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        222
+      ]
+    },
+    {
+      "item_name_en": "Enduring Reflection",
+      "aspects": [
+        "heart",
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        113
+      ]
+    },
+    {
+      "item_name_en": "Horizon-Sight",
+      "aspects": [
+        "rose"
+      ],
+      "levels": [
+        4
+      ]
+    }
+  ],
+  "Glaziery & Lightsmithing": [
+    {
+      "item_name_en": "Chronsichord",
+      "aspects": [
+        "forge",
+        "knock",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3633
+      ]
+    },
+    {
+      "item_name_en": "Dearday Lens",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Ichor Vitreous",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        4
+      ]
+    },
+    {
+      "item_name_en": "Ashartine",
+      "aspects": [
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        162
+      ]
+    },
+    {
+      "item_name_en": "Uzult",
+      "aspects": [
+        "lantern",
+        "moth",
+        "sky"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Dearday Lens",
+      "aspects": [
+        "edge",
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Gervinite",
+      "aspects": [
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        42
+      ]
+    }
+  ],
+  "Inks of Revelation": [
+    {
+      "item_name_en": "Refulgin",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Ichor Vitreous",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        4
+      ]
+    },
+    {
+      "item_name_en": "Uzult",
+      "aspects": [
+        "lantern",
+        "moth",
+        "sky"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Paint: Moth-Gold",
+      "aspects": [
+        "moth"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Asimel",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth",
+        "rose"
+      ],
+      "levels": [
+        3511
+      ]
+    },
+    {
+      "item_name_en": "Yewgall Ink",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Porphyrine",
+      "aspects": [
+        "knock",
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Stargall Ink",
+      "aspects": [
+        "forge",
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        112
+      ]
+    }
+  ],
+  "Sacra Solis Invicti": [
+    {
+      "item_name_en": "Refulgin",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        2
+      ]
+    },
+    {
+      "item_name_en": "Ichor Vitreous",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        4
+      ]
+    },
+    {
+      "item_name_en": "Uzult",
+      "aspects": [
+        "lantern",
+        "moth",
+        "sky"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Confounding Parable",
+      "aspects": [
+        "moon",
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        222
+      ]
+    },
+    {
+      "item_name_en": "Mazarine Fife",
+      "aspects": [
+        "sky"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Wind-in-Waiting",
+      "aspects": [
+        "grail",
+        "moth",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        3336
+      ]
+    }
+  ],
+  "Watchman's Paradoxes": [
+    {
+      "item_name_en": "Tanglebrag",
+      "aspects": [
+        "lantern",
+        "moth",
+        "nectar",
+        "scale"
+      ],
+      "levels": [
+        1211
+      ]
+    },
+    {
+      "item_name_en": "Ichor Vitreous",
+      "aspects": [
+        "lantern"
+      ],
+      "levels": [
+        4
+      ]
+    },
+    {
+      "item_name_en": "Ashartine",
+      "aspects": [
+        "forge",
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        162
+      ]
+    },
+    {
+      "item_name_en": "Uzult",
+      "aspects": [
+        "lantern",
+        "moth",
+        "sky"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Wistful Air",
+      "aspects": [
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Ichor Auroral",
+      "aspects": [
+        "lantern",
+        "rose"
+      ],
+      "levels": [
+        42
+      ]
+    }
+  ],
+  "Inks of Containment": [
+    {
+      "item_name_en": "Catwink",
+      "aspects": [
+        "edge",
+        "grail",
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Leathy",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "grail"
+      ],
+      "levels": [
+        4222
+      ]
+    },
+    {
+      "item_name_en": "Yewgall Ink",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Houndsgall",
+      "aspects": [
+        "edge",
+        "heart",
+        "scale"
+      ],
+      "levels": [
+        125
+      ]
+    },
+    {
+      "item_name_en": "Stargall Ink",
+      "aspects": [
+        "forge",
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        112
+      ]
+    },
+    {
+      "item_name_en": "Eigengrau",
+      "aspects": [
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        11
+      ]
+    },
+    {
+      "item_name_en": "Solomon’s Preparation",
+      "aspects": [
+        "moon",
+        "moth",
+        "winter (principle)"
+      ],
+      "levels": [
+        114
+      ]
+    },
+    {
+      "item_name_en": "Nillycant",
+      "aspects": [
+        "edge",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        777
+      ]
+    }
+  ],
+  "Putrefactions & Calcinations": [
+    {
+      "item_name_en": "Catwink",
+      "aspects": [
+        "edge",
+        "grail",
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Asimel",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth",
+        "rose"
+      ],
+      "levels": [
+        3511
+      ]
+    },
+    {
+      "item_name_en": "Black Sapphire Wash",
+      "aspects": [
+        "moon"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Yewgall Ink",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Perinculate",
+      "aspects": [
+        "edge",
+        "grail",
+        "scale"
+      ],
+      "levels": [
+        414
+      ]
+    },
+    {
+      "item_name_en": "Year Tally",
+      "aspects": [
+        "winter (principle)"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Sand Stories": [
+    {
+      "item_name_en": "Catwink",
+      "aspects": [
+        "edge",
+        "grail",
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        1122
+      ]
+    },
+    {
+      "item_name_en": "Stymphling",
+      "aspects": [
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "item_name_en": "Salt-Sign",
+      "aspects": [
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Ichor Auroral",
+      "aspects": [
+        "lantern",
+        "rose"
+      ],
+      "levels": [
+        42
+      ]
+    },
+    {
+      "item_name_en": "Porphyrine",
+      "aspects": [
+        "knock",
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        777
+      ]
+    },
+    {
+      "item_name_en": "Horizon-Sight",
+      "aspects": [
+        "rose"
+      ],
+      "levels": [
+        4
+      ]
+    }
+  ],
+  "Pearl & Tide": [
+    {
+      "item_name_en": "Eigengrau",
+      "aspects": [
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        11
+      ]
+    },
+    {
+      "item_name_en": "Asimel",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth",
+        "rose"
+      ],
+      "levels": [
+        3511
+      ]
+    },
+    {
+      "item_name_en": "Black Sapphire Wash",
+      "aspects": [
+        "moon"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Salt-Sign",
+      "aspects": [
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Enduring Reflection",
+      "aspects": [
+        "heart",
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        113
+      ]
+    }
+  ],
+  "Insects & Nectars": [
+    {
+      "item_name_en": "Midnight Mark",
+      "aspects": [
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Chimeric Larva",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Skinshuck Mead",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "heart"
+      ],
+      "levels": [
+        6222
+      ]
+    },
+    {
+      "item_name_en": "Perilous Imago",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        2262
+      ]
+    },
+    {
+      "item_name_en": "Yewgall Ink",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Leathy",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "grail"
+      ],
+      "levels": [
+        4222
+      ]
+    },
+    {
+      "item_name_en": "Marakat",
+      "aspects": [
+        "grail",
+        "knock",
+        "nectar"
+      ],
+      "levels": [
+        777
+      ]
+    }
+  ],
+  "Rhyme & Remembrance": [
+    {
+      "item_name_en": "Midnight Mark",
+      "aspects": [
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Stymphling",
+      "aspects": [
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "item_name_en": "Wormwood Dream",
+      "aspects": [
+        "edge",
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        366
+      ]
+    },
+    {
+      "item_name_en": "Bittersweet Certainty",
+      "aspects": [
+        "lantern",
+        "winter (principle)"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Essential Periost",
+      "aspects": [
+        "moon",
+        "nectar",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2444
+      ]
+    },
+    {
+      "item_name_en": "Year Tally",
+      "aspects": [
+        "winter (principle)"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Serpents & Venoms": [
+    {
+      "item_name_en": "Midnight Mark",
+      "aspects": [
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Stymphling",
+      "aspects": [
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Ascite",
+      "aspects": [
+        "knock"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Bisclavret's Knot",
+      "aspects": [
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Glassfinger Toxin",
+      "aspects": [
+        "forge",
+        "knock",
+        "lantern"
+      ],
+      "levels": [
+        242
+      ]
+    },
+    {
+      "item_name_en": "Serpent-Milk",
+      "aspects": [
+        "edge",
+        "knock",
+        "scale"
+      ],
+      "levels": [
+        623
+      ]
+    }
+  ],
+  "Snow Stories": [
+    {
+      "item_name_en": "Midnight Mark",
+      "aspects": [
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Stymphling",
+      "aspects": [
+        "moon",
+        "scale"
+      ],
+      "levels": [
+        33
+      ]
+    },
+    {
+      "item_name_en": "Wormwood Dream",
+      "aspects": [
+        "edge",
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        366
+      ]
+    },
+    {
+      "item_name_en": "Bittersweet Certainty",
+      "aspects": [
+        "lantern",
+        "winter (principle)"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Essential Periost",
+      "aspects": [
+        "moon",
+        "nectar",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2444
+      ]
+    },
+    {
+      "item_name_en": "Year Tally",
+      "aspects": [
+        "winter (principle)"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Wolf Stories": [
+    {
+      "item_name_en": "Midnight Mark",
+      "aspects": [
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        21
+      ]
+    },
+    {
+      "item_name_en": "Essential Periost",
+      "aspects": [
+        "moon",
+        "nectar",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2444
+      ]
+    },
+    {
+      "item_name_en": "Wormwood Dream",
+      "aspects": [
+        "edge",
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        366
+      ]
+    },
+    {
+      "item_name_en": "Bisclavret's Knot",
+      "aspects": [
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Old Moment",
+      "aspects": [
+        "lantern",
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Earthquake Name",
+      "aspects": [
+        "forge",
+        "scale"
+      ],
+      "levels": [
+        36
+      ]
+    }
+  ],
+  "Hill & Hollow": [
+    {
+      "item_name_en": "Salt-Sign",
+      "aspects": [
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Chimeric Larva",
+      "aspects": [
+        "knock",
+        "moon",
+        "moth"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Bisclavret's Knot",
+      "aspects": [
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Living Relic",
+      "aspects": [
+        "heart",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        142
+      ]
+    },
+    {
+      "item_name_en": "Earthquake Name",
+      "aspects": [
+        "forge",
+        "scale"
+      ],
+      "levels": [
+        36
+      ]
+    }
+  ],
+  "Ouranoscopy": [
+    {
+      "item_name_en": "Bittersweet Certainty",
+      "aspects": [
+        "lantern",
+        "winter (principle)"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Didumos",
+      "aspects": [
+        "knock",
+        "lantern",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3363
+      ]
+    },
+    {
+      "item_name_en": "Wistful Air",
+      "aspects": [
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Mazarine Fife",
+      "aspects": [
+        "sky"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Year-Tally",
+      "aspects": [
+        "winter (principle)"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Didumos",
+      "aspects": [
+        "knock",
+        "lantern",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3363
+      ]
+    },
+    {
+      "item_name_en": "Bittersweet Certainty",
+      "aspects": [
+        "lantern",
+        "winter (principle)"
+      ],
+      "levels": [
+        12
+      ]
+    }
+  ],
+  "Rites of the Roots": [
+    {
+      "item_name_en": "Tanglebrag",
+      "aspects": [
+        "lantern",
+        "moth",
+        "nectar",
+        "scale"
+      ],
+      "levels": [
+        1211
+      ]
+    },
+    {
+      "item_name_en": "Nameday Riddle",
+      "aspects": [
+        "knock",
+        "moth"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "item_name_en": "Skinshuck Mead",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "heart"
+      ],
+      "levels": [
+        6222
+      ]
+    },
+    {
+      "item_name_en": "Yewgall Ink",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Leathy",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "grail"
+      ],
+      "levels": [
+        4222
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Malachite",
+      "aspects": [
+        "nectar"
+      ],
+      "levels": [
+        6
+      ]
+    }
+  ],
+  "Sacra Limiae": [
+    {
+      "item_name_en": "Westcott's Compounds",
+      "aspects": [
+        "forge",
+        "grail",
+        "lantern",
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        21111
+      ]
+    },
+    {
+      "item_name_en": "Nameday Riddle",
+      "aspects": [
+        "knock",
+        "moth"
+      ],
+      "levels": [
+        23
+      ]
+    },
+    {
+      "item_name_en": "Skinshuck Mead",
+      "aspects": [
+        "moth",
+        "nectar",
+        "scale",
+        "heart"
+      ],
+      "levels": [
+        6222
+      ]
+    },
+    {
+      "item_name_en": "Awakened Feather",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Mazarine Fife",
+      "aspects": [
+        "sky"
+      ],
+      "levels": [
+        3
+      ]
+    },
+    {
+      "item_name_en": "Didumos",
+      "aspects": [
+        "knock",
+        "lantern",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3363
+      ]
+    }
+  ],
+  "Coil & Chasm": [
+    {
+      "item_name_en": "Thirza's Cordials",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Pyrus Auricalcinus",
+      "aspects": [
+        "forge",
+        "nectar"
+      ],
+      "levels": [
+        44
+      ]
+    },
+    {
+      "item_name_en": "Sacrament Malachite",
+      "aspects": [
+        "nectar"
+      ],
+      "levels": [
+        6
+      ]
+    },
+    {
+      "item_name_en": "Bisclavret's Knot",
+      "aspects": [
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Old Moment",
+      "aspects": [
+        "lantern",
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Earthquake Name",
+      "aspects": [
+        "forge",
+        "scale"
+      ],
+      "levels": [
+        36
+      ]
+    }
+  ],
+  "Stone Stories": [
+    {
+      "item_name_en": "Thirza's Cordials",
+      "aspects": [
+        "moth",
+        "nectar"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Essential Periost",
+      "aspects": [
+        "moon",
+        "nectar",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        2444
+      ]
+    },
+    {
+      "item_name_en": "Savage Hymn",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Living Relic",
+      "aspects": [
+        "heart",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        142
+      ]
+    },
+    {
+      "item_name_en": "Earthquake Name",
+      "aspects": [
+        "forge",
+        "scale"
+      ],
+      "levels": [
+        36
+      ]
+    }
+  ],
+  "Path & Pilgrim": [
+    {
+      "item_name_en": "Salt-Sign",
+      "aspects": [
+        "moon",
+        "rose"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Enduring Reflection",
+      "aspects": [
+        "heart",
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        113
+      ]
+    },
+    {
+      "item_name_en": "Horizon-Sight",
+      "aspects": [
+        "rose"
+      ],
+      "levels": [
+        4
+      ]
+    },
+    {
+      "item_name_en": "Bisclavret's Knot",
+      "aspects": [
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Old Moment",
+      "aspects": [
+        "lantern",
+        "moth",
+        "scale"
+      ],
+      "levels": [
+        224
+      ]
+    },
+    {
+      "item_name_en": "Houndsgall",
+      "aspects": [
+        "edge",
+        "heart",
+        "scale"
+      ],
+      "levels": [
+        125
+      ]
+    }
+  ],
+  "Sky Stories": [
+    {
+      "item_name_en": "Confounding Parable",
+      "aspects": [
+        "moon",
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        222
+      ]
+    },
+    {
+      "item_name_en": "Enduring Reflection",
+      "aspects": [
+        "heart",
+        "knock",
+        "rose"
+      ],
+      "levels": [
+        113
+      ]
+    },
+    {
+      "item_name_en": "Horizon-Sight",
+      "aspects": [
+        "rose"
+      ],
+      "levels": [
+        4
+      ]
+    },
+    {
+      "item_name_en": "Wistful Air",
+      "aspects": [
+        "rose",
+        "sky"
+      ],
+      "levels": [
+        22
+      ]
+    },
+    {
+      "item_name_en": "Ascendant Harmony",
+      "aspects": [
+        "lantern",
+        "sky"
+      ],
+      "levels": [
+        24
+      ]
+    },
+    {
+      "item_name_en": "Wind-in-Waiting",
+      "aspects": [
+        "grail",
+        "moth",
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        3336
+      ]
+    }
+  ],
+  "Sights & Sensations": [
+    {
+      "item_name_en": "Awakened Feather",
+      "aspects": [
+        "scale",
+        "sky"
+      ],
+      "levels": [
+        12
+      ]
+    },
+    {
+      "item_name_en": "Ichor Auroral",
+      "aspects": [
+        "lantern",
+        "rose"
+      ],
+      "levels": [
+        42
+      ]
+    },
+    {
+      "item_name_en": "Didumos",
+      "aspects": [
+        "knock",
+        "lantern",
+        "sky",
+        "winter (principle)"
+      ],
+      "levels": [
+        3363
+      ]
+    },
+    {
+      "item_name_en": "Eigengrau",
+      "aspects": [
+        "moon",
+        "winter (principle)"
+      ],
+      "levels": [
+        11
+      ]
+    },
+    {
+      "item_name_en": "Solomon’s Preparation",
+      "aspects": [
+        "moon",
+        "moth",
+        "winter (principle)"
+      ],
+      "levels": [
+        114
+      ]
+    },
+    {
+      "item_name_en": "Nillycant",
+      "aspects": [
+        "edge",
+        "scale",
+        "winter (principle)"
+      ],
+      "levels": [
+        777
+      ]
+    }
+  ]
+}
